@@ -315,3 +315,5 @@ We wish you all the best in your  developer journey!
 Sincerely,
 
 GDSC Global Team
+
+>Thank you for your feedback. Your response has been duly noted.
