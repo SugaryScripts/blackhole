@@ -1,0 +1,29 @@
+src
+	assets
+		icons
+		images
+		fonts
+		resources
+		data
+	components
+		atoms
+		molecules
+		organisms
+		Button
+			index.ts
+			styles.ts
+	hooks
+	constants
+	wrappers
+		providers
+	utils
+	navigations
+		main
+		home
+		auth
+	screens
+		auth
+			login
+			register
+		profile
+		
