@@ -1,4 +1,4 @@
-
+gs
 ### What is an Idea Compass? 
 The idea compass is a thinking tool that uses prompts represented by the directions West/East/North/South to help you stretch and deepen your thinking around an idea. 
 
