@@ -94,3 +94,15 @@ expo build:android -t app-bundle
 ```sh
 
 ```
+
+## troubleshoot
+```sh
+npm i -g expo-cli@6.1.0
+expo doctor --fix-dependencies
+```
+
+#### web build
+```sh
+npx expo export:web
+npx serve web-build
+```
