@@ -1,6 +1,8 @@
-21Main "**expo-field**"
-##### Prerequisites
-`global eas-cli`
+# Prerequisites
+
+``` sh
+yarn global add eas-cli
+```
 
 
 # New project expo
