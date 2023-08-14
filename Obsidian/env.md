@@ -1,3 +1,9 @@
+# Plugin
+```
+Obsidian Git
+Emoji Shortcode
+Obsidian Git
+```
 # gitignore
 >edit with external editor
 ```json

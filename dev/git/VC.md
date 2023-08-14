@@ -1,3 +1,13 @@
+- [[#Advance|Advance]]
+	- [[#Advance#Commit & add|Commit & add]]
+	- [[#Advance#Git aliases|Git aliases]]
+	- [[#Advance#Amend commit|Amend commit]]
+- [[#Branch|Branch]]
+	- [[#Branch#List Branch|List Branch]]
+	- [[#Branch#Switch to a Branch That Came From a Remote Repo|Switch to a Branch That Came From a Remote Repo]]
+	- [[#Branch#Merge a Branch|Merge a Branch]]
+	- [[#Branch#Delete branch|Delete branch]]
+
 ##### Advance
 ###### Commit & add
 ```sh
@@ -38,3 +48,12 @@ Replace current branch with my-branch-name
 ###### Delete branch
 `git push origin --delete my-branch-name`
 `git branch -d my-branch-name`
+
+##### Remote
+https://www.atlassian.com/git/tutorials/syncing/git-push
+
+###### Push
+```
+checkout <branch>
+push <remote> <branch>
+```

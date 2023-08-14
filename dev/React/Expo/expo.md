@@ -6,19 +6,21 @@ yarn global add eas-cli
 
 
 # New project expo
-## Tutor
-### new project
+## Guide
+### Create Project Expo Dev
+#### New project
 ```sh
 npm install --global eas-cli && \
 npx create-expo-app expo-field && \
 cd expo-field && \
 eas init --id e797cafc-bbd2-4f75-b402-b80db93529d3
 ```
-### Link existing
+#### Link existing
 ```sh
 npm install --global eas-cli && \
 eas init --id e797cafc-bbd2-4f75-b402-b80db93529d3
 ```
+
 ## Create react native expo
 ```sh
 yarn create expo-app expo-field

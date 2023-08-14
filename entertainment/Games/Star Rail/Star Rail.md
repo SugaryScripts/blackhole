@@ -18,8 +18,8 @@ https://game8.co/games/Honkai-Star-Rail/archives/405759
 |                  |                   | Belobog Of The Architects         |
 |                  |                   | Inert Salsotto                    |
 | Asta             | Relic             | Messenger Traversing Hackerspace  |
-|                  | Planar Ornament   | Broken Keel                       |
-|                  |                   | Fleet of the Ageless              |
+|                  | Planar Ornament   | Fleet of the Ageless              |
+|                  |                   | Broken Keel                       |
 | Arlan            | Relic             | Band of Sizzling Thunder          |
 |                  |                   | Musketeer of Wild Wheat           |
 |                  | Planar Ornament   | Rutilant Arena                    |
@@ -60,6 +60,12 @@ https://game8.co/games/Honkai-Star-Rail/archives/405759
 |                  |                   | Musketeer of Wild Wheat           |
 |                  | Planar Ornament   | Inert Salsotto                    |
 |                  |                   | Space Sealing Station             |
+| Kafka            | Relic             | Band of Sizzling Thunder          |
+|                  | Planar Ornament   | Space Stealing Station            |
+|                  |                   | Pan-Galactic Commercial           |
+|                  | Stat              | Atk% & Speed 120                  |
+|                  |                   | Hit Rate 67%                      |
+|                  | Stat Avoid        | Crit Rate, Crit Dmg, Break effect |
 | Luocha           | Relic             | **Passerby of Wandering Cloud**   |
 |                  |                   | Wastelander of Banditry Desert    |
 |                  | Planar Ornament   | **Fleet of the Ageless**          |
