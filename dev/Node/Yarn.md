@@ -1,7 +1,7 @@
 ###### global
 ```sh
 yarn global add
-yarn yarn global list
+yarn global list
 ```
 
 ###### project

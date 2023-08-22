@@ -20,7 +20,33 @@ eas init --id e797cafc-bbd2-4f75-b402-b80db93529d3
 npm install --global eas-cli && \
 eas init --id e797cafc-bbd2-4f75-b402-b80db93529d3
 ```
-
+### Eas
+```json
+{  
+  "cli": {  
+    "version": ">= 3.18.3"  
+  },  
+  "build": {  
+    "development": {  
+      "developmentClient": true,  
+      "distribution": "internal",  
+      "channel": "development"  
+    },  
+    "preview": {  
+      "distribution": "internal",  
+      "channel": "staging"  
+    },  
+    "production": {}  
+  },  
+  "submit": {  
+    "production": {}  
+  }  
+}
+```
+```sh
+eas build --profile preview
+eas channel:delete <channel name>
+```
 ## Create react native expo
 ```sh
 yarn create expo-app expo-field
