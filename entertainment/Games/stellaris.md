@@ -1,6 +1,3 @@
-han, cent, yog, dhito, ibra, advent
-agnes, nat
-david, marvin, cevin, fufuk, henrie
 
 
 ask question
@@ -59,3 +56,6 @@ The Syndicate of Air Space Independence
 
 The Unified Galactic Constellation Concord
 The Galactic Union of Defense
+
+
+Interstellar Exalted Astral Celestial Dominion
