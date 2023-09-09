@@ -59,3 +59,16 @@ The Galactic Union of Defense
 
 
 Interstellar Exalted Astral Celestial Dominion
+
+
+# modding
+
+put the .mod files and it's folder into 
+```
+C:\Users\USER\OneDrive\Documents\Paradox Interactive\Stellaris\mod
+```
+
+Inspect the .mod file for its folder path.
+Rename the folder and it's .mod file if necessary
+
+

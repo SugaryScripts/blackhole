@@ -1,37 +1,38 @@
 Van - knight, Hunter, breaker
-
 Panelo - white, red, black, monk
-
 Balthier - machinist, Hunter, breaker
-
 Fran - black, red, time, archer
-
 Bash - samurai, breaker, knight, white
-
 Ashe - time, black, red, white, knight
 
   
 
   
 
-Van knight/monk/uhlan
+Van knight/monk/uhlan 
+	uhlan shikari
+Panelo monk/red/white/black 
+	monk time white
+Balthier **hunter**/white 
+	machinist hunter
+Fran black/red/breaker/archer 
+	archer black
+Bash breaker/samurai/knight/uhlan 
+	samurai knight breaker
+Ashe red/**time**/samurai/white 
+	red time samurai
 
-Panelo monk/red/white/black
+hunter breaker ✅- uhlan time
+monk black ✅
 
-Balthier **hunter**/white
+machinist white ✅ /uhlan
+archer red ✅
 
-Fran black/red/breaker
-
-Bash breaker/samurai/knight/uhlan
-
-Ashe red/**time**/samurai/white
-
-  
+knight samurai  ✅
+time white ✅/uhlan
 
 Knight, Red, Monk/uhlan
-
 Knight, time, red
-
 Monk, Hunter, Red 
 
   
@@ -43,85 +44,50 @@ Monk, Hunter, Red 
 Espers
 
 - BELIAS
-
 KGT: Potion Lore 1
-
 FBK: Horology
-
 BSH: Libra
 
   
 
 - Adrammelech
-
 WHM: Souleater
-
 UHL: Battle Lore
-
 TBM: White Magick 4
-
           (Cura, Raise)
-
 FBK: Battle Lore
-
 BLM: Hand-bombs 2
-
 BSH: Souleater
-
 SKR: Shades of Black
 
   
 
 Zalera
-
 MNK: Traveler
-
 RBM: Steal
-
 KGT: White Magick 8
 
         (Confuse, Faith)
-
          White Magick 9
-
        (Bravery, Curaja)
 
 FBK: Traveler
-
 BLM: Steal
-
          Poach
-
 BSH: Blood Sword
-
          Karkata
-
 UHL: Bonecrusher
-
-  
-
 Cuchulainn WHM: Libra
-
 UHL: Wither
-
 MAC: Magick Lore
-
 RMB: Black Magick 9
-
        (Firaga, Thundaga)
-
          Black Magick 10
-
        (Blizzaga, Sleepga)
-
 KGT: Battle Lore
-
 FBK: Shades of Black
-
 BSH: Stamp
-
 SKR: White Magick 12
-
       (Protectga, Shellga)
 
   
@@ -129,19 +95,12 @@ SKR: White Magick 12
   
 
 Mateus UHL: Magick Lore x2
-
 KGT: White Magick 6
-
          (Cura, Regen)
-
          White Magick 7
-
         (Cleanse, Esuna)
-
 TBM: 230 HP
-
 BLM: Hand-bombs 3
-
 SKR: Gil Toss
 
   
@@ -151,27 +110,16 @@ SKR: Gil Toss
   
 
 Exodus WHM: Battle Lore
-
 MAC: Green Magick 1
-
           (Oil, Decoy)
-
 RBM: Heavy Armor 8
-
          Heavy Armor 9
-
          Heavy Armor 10
-
 KGT: 350 HP
-
 MNK: Souleater
-
 TBM: Battle Lore
-
 FBK: Magick Lore x4
-
 BLM: Heavy Armor 8
-
 BSH: 500 HP
 
   
@@ -179,21 +127,13 @@ BSH: 500 HP
   
 
 Zeromus WHM: 270 HP
-
 MAC: Makara
-
 RBM: Channeling
-
 MNK: Sight Unseeing
-
 TBM: Addle
-
          Shear
-
 FBK: Magick Lore x4
-
 BLM: Heavy Armor 9
-
 BSH: Magick Lore x2
 
   
@@ -203,39 +143,22 @@ BSH: Magick Lore x2
   
 
 Chaos WHM: 310 HP
-
           Greatswords 2
-
 UHL: Black Magick 7
-
           (Bio, Blindga)
-
          Black Magick 8
-
      (Aeroga, Silencega)
-
 MAC: 350 HP
-
 RBM: Greatswords 3
-
 KGT: 390 HP
-
          Revive
-
          Excalipur
-
 MNK: White Magick 11
-
          (Holy, Esunaga)
-
          White Magick 12
-
       (Protectga, Shellga)
-
 TBM: 270 HP
-
 ARC: Magick Lore x5
-
 BSH: Brawler
 
   
@@ -245,29 +168,17 @@ BSH: Brawler
   
 
 Shemhazai WHM: 230 HP
-
 MAC: Hand-bombs 3
-
 RBM: White Magick 7
-
         (Cleanse, Esuna)
-
 KGT: Potion Lore 2
-
 MNK: Potion Lore 3
-
 ARC: Heavy Armor 10
-
          Heavy Armor 11
-
          Heavy Armor 12
-
 BLM: Heavy Armor 7
-
 BSH: Shield Block
-
 SKR: Guns 5
-
         Guns 6
 
   
@@ -277,29 +188,17 @@ SKR: Guns 5
   
 
 Ultima UHL: Expose
-
 MAC: Magick Lore x3
-
 RBM: Greatswords 1
-
          Greatswords 2
-
 KGT: Telekinesis
-
          Battle Lore
-
 TBM: Swords 7
-
          Swords 8
-
 FBK: Swiftness
-
 ARC: Infuse
-
          1000 Needles
-
 BLM: Telekinesis
-
 SKR: Phoenix Lore x2
 
   
@@ -308,32 +207,20 @@ SKR: Phoenix Lore x2
 
   
 
-Zodiark WHM: Greatswords 1
-
+Zodiark 
+WHM: Greatswords 1
 MAC: 390 HP
-
 RBM: Greatswords 4
-
 KGT: 390 HP
-
          Revive
-
          Excalipur
-
 MNK: White Magick 13
-
              (Renew)
-
 TBM: Swords 9
-
 ARC: Infuse
-
          1000 Needles
-
 BSH: Heavy Armor 9
-
          Heavy Armor 10
-
          Heavy Armor 11
 
   
@@ -342,28 +229,18 @@ BSH: Heavy Armor 9
 
   
 
-Hashmal UHL: Bonecrusher
-
+Hashmal 
+UHL: Bonecrusher
 RBM: Steal
-
 KGT: White Magick 8
-
         (Confuse, Faith)
-
          White Magick 9
-
        (Bravery, Curaja)
-
 MNK: White Magick 4
-
           (Cura, Raise)
-
 TBM: Channeling
-
 FBK: Swiftness
-
 BLM: Makara
-
 SKR: Bonecrusher
 
   
@@ -372,40 +249,24 @@ SKR: Bonecrusher
 
   
 
-Famfrit WHM: Numerology
-
+Famfrit 
+WHM: Numerology
           Daggers 5
-
 UHL: Potion Lore 3
-
 MAC: Time Magick 8
-
         (Vanishga, Warp)
-
          Time Magick 9
-
       (Reflectga, Slowga)
-
          Time Magick 10
-
       (Graviga, Hastega)
-
 RBM: Battle Lore x2
-
 MNK: White Magick 10
-
 TBM: Battle Lore
-
 FBK: Magick Lore
-
 ARC: 340 HP
-
          435 HP
-
 BLM: 190 HP
-
          230 HP
-
          310 HP
 
   
