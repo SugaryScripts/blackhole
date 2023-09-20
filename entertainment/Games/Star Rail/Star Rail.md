@@ -41,8 +41,8 @@ https://game8.co/games/Honkai-Star-Rail/archives/405759
 |                  |                   | Musketeer of Wild Wheat           |
 |                  | Planar Ornament   | Space Sealing Station             |
 |                  |                   | Rutilant Arena                    |
-| Gepard           | Relic             | Knight of Purity Palace           |
-|                  |                   | Guard Of Wuthering Snow           |
+| [[#Gepard]]           | Relic             | Knight of Purity Palace           |
+|                  |                   | Guard Of Wuthering Snow      || Knight     |
 |                  | Planar Ornament   | Sprightly Vonwacq                 |
 |                  |                   | Belobog Of The Architects         |
 | Herta            | Relic             | Hunter of Glacial Forest          |
@@ -60,7 +60,7 @@ https://game8.co/games/Honkai-Star-Rail/archives/405759
 |                  |                   | Musketeer of Wild Wheat           |
 |                  | Planar Ornament   | Inert Salsotto                    |
 |                  |                   | Space Sealing Station             |
-| Kafka            | Relic             | Band of Sizzling Thunder          |
+| [[#Kafka]]            | Relic             | Band of Sizzling Thunder          |
 |                  | Planar Ornament   | Space Stealing Station            |
 |                  |                   | Pan-Galactic Commercial           |
 |                  | Stat              | Atk% & Speed 120                  |
@@ -122,3 +122,13 @@ https://game8.co/games/Honkai-Star-Rail/archives/405759
 |                  |                   | Space Sealing Station             |
 
 
+# Kafka
+###### Best Main
+- **Body**: ATK%
+- **Feet**: ATK%
+- **Planar Sphere**: Lightning DMG
+- **Link Rope**: ATK%, Energy Recharge Rate
+- **Sub stats**: Effect Hit Rate, Speed, ATK%
+
+
+# Gepard
