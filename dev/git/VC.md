@@ -42,9 +42,11 @@ git commit --amend --no-edit
 	`git checkout --track origin/my-branch-name`
 
 ###### Merge a Branch
-Replace current branch with my-branch-name
-`git merge my-branch-name`
-
+- checkout to the receiving branch
+- make sure the branch is up to date `git fetch` then `git pull`
+- Replace current branch with my-branch-name
+`git merge -`
+where `-` is the name of the branch that will be merged to the receiving branch
 ###### Delete branch
 `git push origin --delete my-branch-name`
 `git branch -d my-branch-name`

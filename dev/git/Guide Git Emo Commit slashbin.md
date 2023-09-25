@@ -1,10 +1,4 @@
 <p align="center">
-  <img src="https://git-scm.com/images/logos/downloads/Git-Logo-1788C.png" alt="Git" height="128">
-  <span>&amp;</span>
-  <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f984.png" alt="Unicorn" height="128">
-</p>
-
-<p align="center">
   <a href="https://en.wikipedia.org/wiki/Emoji#Unicode_blocks"><img src="https://img.shields.io/badge/emoji-%F0%9F%A6%84%20%F0%9F%92%9F-lightgrey.svg" alt="Powered by Emojis!"></a>
   <a href="https://github.com/slashsbin/styleguide-git-commit-message/graphs/contributors"><img src="https://img.shields.io/github/contributors/slashsbin/styleguide-git-commit-message.svg" alt="GitHub contributors"></a>
   <a href="https://github.com/slashsbin/styleguide-git-commit-message/stargazers"><img src="https://img.shields.io/github/stars/slashsbin/styleguide-git-commit-message.svg" alt="GitHub stars"></a>
@@ -14,14 +8,21 @@
 # Git Commit Message StyleGuide
 
 ##### TOC
-- [About](#about)
-- [Commit Message Format](#commit-message-format)
-- [Suggested Emojis](#suggested-emojis)
-- [Tools](#tools)
-- [References](#references)
-- [Fun Emoji Usages](#fun-emoji-usages)
-- [Contributing](#contributing)
-- [License](#license)
+- [[#Suggested Emojis|Suggested Emojis]]
+
+- [[#TOC|TOC]]
+- [[#About|About]]
+- [[#About#Summary of the reasons for these conventions:|Summary of the reasons for these conventions:]]
+- [[#Commit Message Format|Commit Message Format]]
+- [[#Commit Message Format#Message Subject(first line)|Message Subject(first line)]]
+- [[#Commit Message Format#Message Body|Message Body]]
+- [[#Commit Message Format#Message Footer|Message Footer]]
+- [[#Commit Message Format#Notes|Notes]]
+- [[#Suggested Emojis|Suggested Emojis]]
+- [[#Tools|Tools]]
+- [[#Fun Emoji Usages|Fun Emoji Usages]]
+- [[#Contributing|Contributing]]
+- [[#License|License]]
 
 
 ## About
@@ -159,7 +160,6 @@ If these rules and/or using emojis is an [overkill](/../../issues/21) for your p
 | :whale: | `:whale:` | **Docker** Configuration |
 | :handshake: | `:handshake:` | when **Merge files** |
 | :cherries: | `:cherries:` | when Commit Arise from one or more [**Cherry-Pick**](https://git-scm.com/docs/git-cherry-pick) Commit(s) |
-
 
 ## Tools
 

@@ -4,6 +4,8 @@ https://www.prydwen.gg/star-rail/guides/relic-stats/
 
 generic guideline lineup etc
 https://game8.co/games/Honkai-Star-Rail/archives/405759
+
+https://genshin.gg/star-rail
 # Equipment
 
 | Character        | Type              | Set                               |
