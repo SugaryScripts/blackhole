@@ -160,6 +160,8 @@ individual
 mail_template
 mail
 
+---
+name label keterangan
 # Minor en
 - Rukun tetangga (RT) = Neighbourhood
 - Rukun Warga (RW) = Hamlet
@@ -172,9 +174,17 @@ mail
 
 
 
-
-
-
+# alg
+- page one
+	- personal
+- page two
+	- kk
+	- address
+on save button
+	update if exist
+	create if doesn't exist
+	
+	
 
 kk
 	1 ppl 1 kk
