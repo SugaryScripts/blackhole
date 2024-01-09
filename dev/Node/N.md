@@ -1,3 +1,9 @@
+# How to use
+```sh
+n lts
+n latest
+```
+# Install
 1. Add this code to .zshrc
 ```sh
 # Whatever your node version is, you'll be using latest npm version regardless (By adding preserve on N code below)

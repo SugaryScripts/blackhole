@@ -172,7 +172,13 @@ name label keterangan
 - Provinsi = Province
 
 
-
+- Rukun tetangga (RT) = Neighbourhood
+- Rukun Warga (RW) = Hamlet
+- dusun = hamlet
+- Kelurahan/desa = sub-district / Village / urban village
+- Kecamatan = district
+- Kabupaten = regency
+- Provinsi = Province
 
 # alg
 - page one
