@@ -1,6 +1,6 @@
 #unsorted #random #idea
 ###### Project
-- CupcakeCatalyst Chronicle
+- CupcakeCatalyst Chronicle CuddleCode Carousel ChibiCharm
 - StarryStitch Story
 - PsychePulse Expedition
 - Expedition Essentia Elysium
@@ -10,5 +10,5 @@
 - MindMeld Manuscript | Memoir
 - FluffFact Feat
 - SugaryScript Scrolls
-- BentoByte BubbleBento Bio Banter
+- BentoByte BubbleBento Bio Banter 
 PsycheSculpt Expedition
