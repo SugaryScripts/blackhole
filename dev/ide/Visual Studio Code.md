@@ -1,3 +1,10 @@
+```table-of-contents
+style: inlineFirstLevel # TOC style (nestedList|inlineFirstLevel)
+minLevel: 0 # Include headings from the specified level
+maxLevel: 7 # Include headings up to the specified level
+includeLinks: true # Make headings clickable
+debugInConsole: false # Print debug info in Obsidian console
+```
 
 [Laravel 2022 by Code with Dary | youtube](https://www.youtube.com/watch?v=KAUxgUvC514)
 Code
@@ -44,3 +51,21 @@ Laravel
 	- Alt Laravel Goto by [Adrian](https://marketplace.visualstudio.com/publishers/absszero)
 		blade view, component, controller, route, middleware, config, livewire, inertia, env, helper
 - DotENV by [mikestead](https://marketplace.visualstudio.com/publishers/mikestead)
+
+## Hotkeys
+- Command Pallete **[Ctrl + Shift + P]**
+- Search Files 
+	  **[Ctrl + F]** to search in the current file and **[Ctrl + Shift + F]** to search in all files.
+- Multiple Cursors **[Ctrl + Alt + Up/Down(keyboard button)]**
+- Delete the Line **[Ctrl + Shift + K]**
+- Copy Line **Up/Down Shift + Alt + Up/Down(keyboard button)**
+- Preview Markdown **[Ctrl + Shift + V]**
+- Toggle Sidebar **Ctrl + B**
+- Rename Component **F2**
+- Select Current Line **Shift + Alt + Up/Down**
+- Switch Tabs **Ctrl + Pg Up** and **Ctrl + Pg Down**
+- Search File **Ctrl + P**
+- Toggle Terminal **Ctrl + `**(backtick)
+- Format Document **Ctrl + Shift + F**
+- Split Editor **Ctrl + \**
+- Select the current word **Ctrl + D**
