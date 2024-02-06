@@ -11,4 +11,5 @@
 - FluffFact Feat
 - SugaryScript Scrolls
 - BentoByte BubbleBento Bio Banter 
+- CipherScript Assistant
 PsycheSculpt Expedition

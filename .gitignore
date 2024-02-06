@@ -1,1 +1,15 @@
+# to exclude Obsidian workspace settings (including plugin and hotkey configurations)
+.obsidian/*
 .obsidian/workspace.json
+
+# Exclude others
+!.obsidian/app.json
+!.obsidian/appearance.json
+!.obsidian/community-plugins.json
+!.obsidian/core-plugins.json
+!.obsidian/core-plugins-migration.json
+!.obsidian/graph.json
+!.obsidian/hotkeys.json
+
+# Add below lines to exclude OS settings and caches
+.trash/
