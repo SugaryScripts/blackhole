@@ -1,4 +1,6 @@
 {
   "trashOption": "none",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "showUnsupportedFiles": true
 }
