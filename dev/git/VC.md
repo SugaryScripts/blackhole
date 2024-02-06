@@ -24,6 +24,11 @@ git add .
 git commit --amend -m "Nice!"
 git commit --amend --no-edit
 ```
+##### Undo files
+```sh
+git checkout -- file
+
+```
 
 ##### Branch
 
