@@ -6,6 +6,7 @@ includeLinks: true # Make headings clickable
 debugInConsole: false # Print debug info in Obsidian console
 ```
 # wakatime
+Copy it from https://wakapi.dev/summary instead wakatime. Because it already sync (wakapi read/write wakatime) (wakatime can't read/write into wakapi)
 # gitignore
 ```json
 # to exclude Obsidian workspace settings (including plugin and hotkey configurations)
