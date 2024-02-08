@@ -52,3 +52,13 @@ community [
 	
 ]
 ```
+> put community plugins here
+```json
+[
+  "obsidian-git",
+  "table-editor-obsidian",
+  "automatic-table-of-contents",
+  "obsidian-wakatime",
+  "waka_time_box"
+]
+```
