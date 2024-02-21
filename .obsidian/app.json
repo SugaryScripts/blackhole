@@ -1,7 +1,8 @@
 {
   "trashOption": "none",
   "alwaysUpdateLinks": true,
-  "newFileLocation": "current",
+  "newFileLocation": "folder",
   "showUnsupportedFiles": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "newFileFolderPath": "+ Encounters"
 }
