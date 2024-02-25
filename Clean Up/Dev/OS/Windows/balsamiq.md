@@ -1,3 +1,8 @@
+
+[Extend your trial period for Balsamiq Wireframes on Windows and macOS Forever! · GitHub](https://gist.github.com/HoussemNasri/c09e55e0e5f451aa10f8621a6680ba28)
+
+balsamiq-ext-trial.py
+```python
 import json
 import os
 import time
@@ -124,3 +129,4 @@ print("****************************************************************")
 print("https://gist.github.com/HoussemNasri/c09e55e0e5f451aa10f8621a6680ba28")
 webbrowser.open("https://gist.github.com/HoussemNasri/c09e55e0e5f451aa10f8621a6680ba28")
 input("Press ENTER to exit")
+```
