@@ -1,3 +1,3 @@
-[submodule "blackhole-sub-images"]
-	path = Extras/Images
+[submodule "Extra/Image"]
+	path = Extra/Image
 	url = git@github.com:SugaryScripts/blackhole-sub-images.git
