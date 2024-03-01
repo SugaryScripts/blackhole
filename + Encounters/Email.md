@@ -1,0 +1,15 @@
+- vickyfarenza
+	- personal
+	- subscription
+- fryzexultant
+	- games
+	- design account
+- fikryfarenza
+	- work
+	- direct messages / personal contact
+- sandersdoe
+	- first try account (if good, then changed address)
+	- experiment account
+	- dummy account
+- aubrey
+	- social / anonymous
