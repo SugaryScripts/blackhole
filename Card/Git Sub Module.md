@@ -11,7 +11,7 @@ tags:: #git
 		- Changes on parent must be **committed on root folder** parent repository
 	- sub module **can be updated** to the latest changes **without affecting the parent** repository and **vice versa**
 
-###### FAQ
+## FAQ
 - How about clone/pull?
 	- At once
 		- `git pull` / `git clone` **pulls** **without** sub-modules. If you want to pull **with** sub-modules, add `--recursive-submodules <url>` with the url **optional**.
@@ -21,6 +21,7 @@ tags:: #git
 		- `git submodule update`: This command downloads the actual content of the submodules from their respective repositories and populates the initialized directories.
 - Changes on the cloud sub module?
 	- `git submodule update` or to check the updates `git submodule status`
+- Changes on sub module local? [[#Save Changes on Sub Module]]
 # Why / When - I need it
 - sharing library
 - optional package
@@ -42,6 +43,7 @@ git submodule add git@github.com:SugaryScripts/blackhole-sub-images.git
 # full
 git submodule add git@github.com:SugaryScripts/blackhole-sub-images.git Extra/Image
 ```
+
 ## Remove Sub Module
 1. on root repo folder
 >`$submodulename` => (example) = blackhole-sub-images
@@ -61,3 +63,36 @@ rm -rf $submodulepath
 rm -rf .git/modules/$submodulename
 ```
 4. DONE
+
+## Save Changes on Sub Module
+Just like a regular repository
+1. Go to your sub module directory `cd $sub-module-directory`
+```sh
+git commit -am "Changes on sub module"
+```
+2. Make sure you have the correct remote on your sub module `git remote -v` then push
+```sh
+git push $remote $branch_name
+```
+3. (**Optional** on other machine) Update with newest changes from the cloud with `git submodule update`
+
+# Command
+> $..- means optional with '-' at the end
+```sh
+"clone with specific sub module if there are many"
+git clone --recurse-submodules $url-
+
+"add sub module within a repo"
+git submodule add $url- $path-
+
+"equivalent with pull"
+git submodule update
+
+git submodule status
+```
+
+
+
+
+
+

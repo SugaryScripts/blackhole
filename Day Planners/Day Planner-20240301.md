@@ -1,2 +1,2 @@
 ## Day Planner
-- [ ] sub module
+- [x] sub module

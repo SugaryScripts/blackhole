@@ -18,7 +18,7 @@ git lfs install
 
 Declare what type of files that the lfs going to track
 ```sh
-git lfs track "*.jpeg"
+git lfs track "*.jpg" "*.png"
 ```
 .gitattributes will be created
 
