@@ -1,10 +1,7 @@
 [
   "obsidian-git",
-  "automatic-table-of-contents",
   "obsidian-wakatime",
   "waka_time_box",
   "obsidian-custom-frames",
-  "obsidian-linter",
-  "tag-wrangler",
-  "day-planner-og"
+  "emoji-autocomplete"
 ]
