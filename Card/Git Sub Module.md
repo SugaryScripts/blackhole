@@ -43,7 +43,7 @@ git submodule add git@github.com:SugaryScripts/blackhole-sub-images.git
 # full
 git submodule add git@github.com:SugaryScripts/blackhole-sub-images.git Extra/Image
 ```
-
+> Extra/Image are not created yet
 ## Remove Sub Module
 1. on root repo folder
 >`$submodulename` => (example) = blackhole-sub-images

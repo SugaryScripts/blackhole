@@ -55,10 +55,8 @@ f9d5ec3adc * 嘘つき.png
 
 
 - Check the size of your Git repository after running the Git LFS commands. You can use the following command to see the size of the Git repository:
-    
-    bashCopy code
-    
-    ``
-    
+```sh
+git count-objects -vH
+```
 - Look for the `size-pack` value to see if it has decreased after running `git lfs prune`. This value represents the packed size of the Git objects.
 

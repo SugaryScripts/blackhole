@@ -6,10 +6,14 @@ tag:: #map #git
 	- [[Git Large File Storage (LFS)]]
 	- [[Git Sub Module]]
 - Git Client
-	- [[Gittyup.png]]
-	- [[Git Cola.png]]
-		- + There is a sub module tab
-		- - No history though
-	- [[GitFiend.png]]
+	- Gittyup ![[Gittyup.png]]
+	- Git Cola ![[Git Cola.png]]
+		- + There is a **sub module** tab
+		- - No **history** though
+	- Git Fiend ![[GitFiend.png]]
 		- + Damn clean & smooth
+	- Gitnuro ![[Gitnuro.png]]
+		- + Looks Like Kraken
+		- + There is **sub module**
+		- - **No emoticon**
 
