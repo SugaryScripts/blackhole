@@ -1,14 +1,5 @@
-#literature
-[medium@krishnaregmi](https://medium.com/@krishnaregmi/pipenv-vs-virtualenv-vs-conda-environment-3dde3f6869ed)
-
-###### contents
-```table-of-contents
-style: inlineFirstLevel # TOC style (nestedList|inlineFirstLevel)
-minLevel: 0 # Include headings from the specified level
-maxLevel: 0 # Include headings up to the specified level
-includeLinks: true # Make headings clickable
-debugInConsole: false # Print debug info in Obsidian console
-```
+tags:: #source
+source:: [medium@krishnaregmi](https://medium.com/@krishnaregmi/pipenv-vs-virtualenv-vs-conda-environment-3dde3f6869ed)
 
 
 # Virtual Environment
