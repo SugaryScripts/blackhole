@@ -1,4 +1,0 @@
-# Pipenv
-# Conda
-# Virtualenv
-# Poetry
