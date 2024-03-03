@@ -1,9 +1,10 @@
+
+
 tags:: 
-time:: {{time}}
+time:: 04:57
 
 ```wakatime
 ```
-
 
 # To do
 - [ ] Create new project TA

@@ -14,5 +14,13 @@
       ],
       "key": "2"
     }
+  ],
+  "note-composer:extract-heading": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "."
+    }
   ]
 }
