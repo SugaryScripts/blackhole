@@ -16,4 +16,4 @@ pipenv shell
 pipenv clean
 ```
 # Articles
-- [[Pipenv vs virtualenv vs conda]]0
+- [[Pipenv vs virtualenv vs conda]]
