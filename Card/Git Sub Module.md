@@ -34,7 +34,7 @@ tags:: #git
 tree -L 1
 git submodule add $url $path
 ```
-> your sub repo will be cloned & .gitmodules file will be generated
+> your sub repo will be cloned & `.gitmodules` file will be generated
 2. DONE
 ### Examples
 ```sh

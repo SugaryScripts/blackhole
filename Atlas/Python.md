@@ -1,7 +1,12 @@
-tag:: #map #dev #language
+up:: [[Home]]
+tag:: #map #dev 
 
 # Framework
 [[Pipenv vs virtualenv vs conda]]
+
+- [[Pipenv]]
+- Virtualenv
+- Conda
 
 # Command
 
