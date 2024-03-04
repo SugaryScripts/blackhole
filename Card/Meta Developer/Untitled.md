@@ -17,6 +17,16 @@ url:: [Business Facebook Manager](https://business.facebook.com/)
 Log
 ##### Create Business Account ✔️
 Created named **SugaryScript**. Blocked at first, and **need verification** of the real ID to be reactivated. 
+
+
 ##### Business App ✔️
 
-documented for all that you've gone through
+![[1-create-app.png|200]]
+![[2-use-case-app.png|100]]
+
+
+
+````img-gallery
+path: Extra/Image/ta/meta app
+type: horizontal
+````
