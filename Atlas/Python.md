@@ -9,7 +9,7 @@ tag:: #map #dev
 	- [[Pipenv]]
 	- [[Virtualenv]]
 	- Conda
-
+- [[Streamlit]]
 # Command
 
 ```sh

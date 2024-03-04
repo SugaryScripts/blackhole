@@ -65,3 +65,12 @@ Explanation:
 2. Remove these
 - `Pipfile` 
 - `Pipfile.lock`
+
+### Commands
+- Package
+	- install `pipenv install <package_name> ...` 
+	  `pipenv install requests==2.27.1`
+	- uninstall `pipenv uninstall <package_name> ...`
+		- **Default behavior:** By default, Pipenv will remove the uninstalled package and its direct dependencies from the `Pipfile`. This ensures a minimal dependency specification.
+		- **`--leave-optional` flag:** You can use the `--leave-optional` flag to instruct Pipenv to keep optional dependencies in the `Pipfile` even if they are no longer required by the remaining installed packages.
+		  `pipenv uninstall <package_name> --leave-optional`

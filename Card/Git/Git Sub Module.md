@@ -1,6 +1,6 @@
 > Its Nested Repository
 
-up:: 
+up:: [[Git]]
 tags:: #git
 
 # What
@@ -75,6 +75,52 @@ git commit -am "Changes on sub module"
 git push $remote $branch_name
 ```
 3. (**Optional** on other machine) Update with newest changes from the cloud with `git submodule update`
+
+# Troubleshoot
+## Detached head
+
+source:: [Why is my Git Submodule HEAD detached from master? - Stack Overflow](https://stackoverflow.com/questions/18770545/why-is-my-git-submodule-head-detached-from-master)
+
+```sh
+cd submodule
+git checkout main
+```
+### Solution 1: Use options in command line
+
+```bash
+# cd back to project root
+git submodule update --remote --merge
+# or
+git submodule update --remote --rebase
+```
+
+Recommended alias:
+
+```bash
+git config alias.supdate 'submodule update --remote --merge'
+
+# do submodule update with
+git supdate
+```
+### Solution 2: Add options into config file
+
+Another solution is to change submodule update behavior in the `gitmodule` file by by setting `submodule.$name.update` to `merge` or `rebase`. It basically means you can do `git submodule update --remote` without passing `--merge` or `--rebase` explcitly, but read from config file automatically.
+
+Here's an example about how to config the default update behavior of submodule update in `.gitmodule`.
+
+```
+[submodule "bash/plugins/dircolors-solarized"]
+    path = bash/plugins/dircolors-solarized
+    url = https://github.com/seebi/dircolors-solarized.git
+    update = merge # <-- this is what you need to add
+```
+
+Or configure it through command line,
+
+```bash
+# replace $name with a real submodule name
+git config -f .gitmodules submodule.$name.update merge
+```
 
 # Command
 > $..- means optional with '-' at the end

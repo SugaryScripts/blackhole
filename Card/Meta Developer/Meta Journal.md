@@ -19,14 +19,21 @@ Log
 Created named **SugaryScript**. Blocked at first, and **need verification** of the real ID to be reactivated. 
 
 
-##### Business App ✔️
-
-![[1-create-app.png|200]]
-![[2-use-case-app.png|100]]
-
-
+##### Business App
 
 ````img-gallery
 path: Extra/Image/ta/meta app
 type: horizontal
+height: 100
+sortby: name
+sort: asc
 ````
+
+
+##### Access Token
+There are 3 type of token
+- **direct developer**, meaning only you or your business will be accessing your own data, use a [System User access token](https://developers.facebook.com/docs/whatsapp/business-management-api/get-started/#system-user-access-tokens).
+- **Tech Provider**, use a [Business Integration System User access token](https://developers.facebook.com/docs/whatsapp/business-management-api/get-started/#business-integration-system-user-access-tokens).
+- **Solution Partner**, use [System User access tokens](https://developers.facebook.com/docs/whatsapp/business-management-api/get-started/#system-user-access-tokens) to share your line of credit with newly onboarded customers, and [Business Integration System User access tokens](https://developers.facebook.com/docs/whatsapp/business-management-api/get-started/#business-integration-system-user-access-tokens) for everything else.
+
+
