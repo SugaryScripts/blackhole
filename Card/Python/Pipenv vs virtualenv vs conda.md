@@ -1,6 +1,7 @@
 tags:: #source
 source:: [medium@krishnaregmi](https://medium.com/@krishnaregmi/pipenv-vs-virtualenv-vs-conda-environment-3dde3f6869ed)
 
+similar:: [[comparison pipenv virtualenv conda - Gemini]]
 
 # Virtual Environment
 Virtualenv was the default way of creating virtual environment for many years. It is still used by many although people are moving to improved pipenv or conda (explained below).

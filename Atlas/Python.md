@@ -3,10 +3,12 @@ tag:: #map #dev
 
 # Framework
 [[Pipenv vs virtualenv vs conda]]
+[[comparison pipenv virtualenv conda - Gemini]]
 
-- [[Pipenv]]
-- Virtualenv
-- Conda
+- How to use it
+	- [[Pipenv]]
+	- [[Virtualenv]]
+	- Conda
 
 # Command
 

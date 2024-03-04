@@ -61,7 +61,7 @@ Explanation:
 - Activating the environment allows you to use the installed packages within your project.
 
 ### Uninstall
-Remove these
+1. `pipenv --rm`
+2. Remove these
 - `Pipfile` 
 - `Pipfile.lock`
-- rm -rf `/home/$user/.local/share/virtualenvs/$project_name-hashcode`
