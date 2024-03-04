@@ -2,7 +2,7 @@ tags::
 time:: 05:10
 
 ```wakatime
-Markdown     56 mins     ████████████████████     100 %
+Markdown     1 hr 11 mins     ████████████████████     100 %
 ```
 
 
