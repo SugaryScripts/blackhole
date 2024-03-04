@@ -1,10 +1,17 @@
 tag:: #map #git
 
+🚧🌏🍽️
+
 - Commit Guide Helper
-	- 
+	- [[Emoji Git]]
+	- [[Guide Git Emo Commit slashbin]]
 - Modules
 	- [[Git Large File Storage (LFS)]]
 	- [[Git Sub Module]]
+- Authentication
+	- [[ssh]]
+- Basic
+	- [[VC]] how to use virtual control
 - Git Client
 	- Gittyup ![[Gittyup.png]]
 	- Git Cola ![[Git Cola.png]]

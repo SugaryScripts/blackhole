@@ -1,4 +1,5 @@
-tags:: #log/journal
+tags:: #log/journal 
+url:: [Business Facebook Manager](https://business.facebook.com/)
 [[Meta for Developer WA API]]
 
 
@@ -16,5 +17,6 @@ tags:: #log/journal
 Log
 ##### Create Business Account ✔️
 Created named **SugaryScript**. Blocked at first, and **need verification** of the real ID to be reactivated. 
-##### Business App
+##### Business App ✔️
 
+documented for all that you've gone through
