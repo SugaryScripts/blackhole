@@ -9,5 +9,12 @@ up:: [[Python]]
 - Less code is needed to create amazing web apps.
 - Data caching simplifies and speeds up computation pipelines.
 
+```sh
+pipenv install streamlit
+pipenv shell
+streamlit hello
+```
 
+## Troubleshoot
+### 4258 illegal hardware instruction (core dumped)
 
