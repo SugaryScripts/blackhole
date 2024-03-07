@@ -10,3 +10,8 @@ pipenv install
 pipenv --rm
 rm Pipfile Pipfile.lock
 ```
+#### List installed package inside **pipenv shell**
+```sh
+pip list
+```
+

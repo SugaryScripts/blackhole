@@ -1,4 +1,5 @@
 up:: [[Python|Python]]
+similar:: [[Pipenv - simplified]]
 
 
 ### Initializing a Project
@@ -29,9 +30,9 @@ Explanation:
 - `<package_name>` is the name of the package you want to install (e.g., `requests`, `numpy`).
 - Pipenv automatically adds the package and its dependencies to the `Pipfile` and updates the `Pipfile.lock` to ensure a reproducible environment.
 
-### Listing Installed Packages
+### Listing Installed Packages on **Pipenv Shell**
 ```sh
-pipenv list
+pip list
 ```
 This command displays all the packages currently installed in your project's virtual environment.
 
@@ -60,7 +61,7 @@ Explanation:
 - Pipenv creates a virtual environment to isolate project dependencies and avoid conflicts with system-wide packages.
 - Activating the environment allows you to use the installed packages within your project.
 
-### Uninstall
+### Uninstall Pipenv from Project
 1. `pipenv --rm`
 2. Remove these
 - `Pipfile` 

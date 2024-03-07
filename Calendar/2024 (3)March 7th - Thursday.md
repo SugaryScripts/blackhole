@@ -6,7 +6,7 @@ time:: 00:41
 
 
 # To do
-- [ ] Create new project TA
+- [ ] Obsidian notes taking
 
 # Accomplished Today (Other than todo)
 - 
