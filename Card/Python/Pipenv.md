@@ -1,5 +1,5 @@
 up:: [[Python|Python]]
-similar:: [[Pipenv - simplified]]
+similar:: [[Pipenv - simplified]] | [[Pipenv vs virtualenv vs conda#Pipenv]]
 
 
 ### Initializing a Project
