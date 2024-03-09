@@ -8,11 +8,11 @@ pipenv install
 ```
 This command initializes a new Pipenv project in the current directory. It creates a `Pipfile` and `Pipfile.lock` to manage project dependencies.
 
-Explanation:
+**Explanation**:
 - `pipenv` is the command-line tool for Pipenv.
 - `install` tells Pipenv to create a new project and install any initial dependencies listed in the `Pipfile` (if it exists).
 
-Result:
+**Result**:
 (Directory structure)
 ```
 my_project/
@@ -26,7 +26,7 @@ pipenv install <package_name>
 ```
 This command installs a specific Python package into your project's virtual environment.
 
-Explanation:
+**Explanation**:
 - `<package_name>` is the name of the package you want to install (e.g., `requests`, `numpy`).
 - Pipenv automatically adds the package and its dependencies to the `Pipfile` and updates the `Pipfile.lock` to ensure a reproducible environment.
 
@@ -42,7 +42,7 @@ PACKAGE VERSION  DIR LOCATION
 requests  2.30.2    /home/user/my_project/venv/lib/python3.9/site-packages
 ```
 
-### Activating the Virtual Environment
+### Activating the Virtual Environment [[Pipenv - simplified#Pipenv Activating the Virtual Environment Activating the Virtual Environment ~|=]]
 ```
 pipenv shell
 ```
@@ -62,6 +62,7 @@ Explanation:
 - Activating the environment allows you to use the installed packages within your project.
 
 ### Uninstall Pipenv from Project
+links:: [[Pipenv - simplified#Uninstall Pipenv from Project|=]]
 1. `pipenv --rm`
 2. Remove these
 - `Pipfile` 
