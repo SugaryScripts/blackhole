@@ -5,20 +5,25 @@ similar:: [[Pipenv]]
 - ~ inside pipenv shell
 
 ### Initializing a project
-links:: 
+[[Pipenv#Initializing a Project|alt]]
 ```sh
 pipenv install
 ```
 
 ### Uninstall Pipenv from Project
-links:: [[Pipenv#Uninstall Pipenv from Project|=]]
+[[Pipenv#Uninstall Pipenv from Project|alt]]
 ```sh
 pipenv --rm
 rm Pipfile Pipfile.lock
 ```
 
-### [[Pipenv#Activating the Virtual Environment|Activating the Virtual Environment]] ~
-### List installed package inside **pipenv shell** ~
+### Activating the Virtual Environment
+[[Pipenv#Activating the Virtual Environment|alt]]
+```sh
+pipenv shell
+```
+
+### List installed package inside ~
 ```sh
 pip list
 ```

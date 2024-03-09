@@ -42,7 +42,7 @@ PACKAGE VERSION  DIR LOCATION
 requests  2.30.2    /home/user/my_project/venv/lib/python3.9/site-packages
 ```
 
-### Activating the Virtual Environment [[Pipenv - simplified#Pipenv Activating the Virtual Environment Activating the Virtual Environment ~|=]]
+### Activating the Virtual Environment
 ```
 pipenv shell
 ```
@@ -68,6 +68,13 @@ links:: [[Pipenv - simplified#Uninstall Pipenv from Project|=]]
 - `Pipfile` 
 - `Pipfile.lock`
 
+### Uninstall package
+- in shell
+	```sh
+	pipenv uninstall $package
+	```
+- outside
+	
 ### Commands
 - Package
 	- install `pipenv install <package_name> ...` 
