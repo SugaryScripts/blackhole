@@ -1,7 +1,19 @@
 up:: [[Python|Python]]
 similar:: [[Pipenv - simplified]] | [[Pipenv vs virtualenv vs conda#Pipenv]]
 
+# What
+# Commands
+## Summary
+| ref                                        | command                                    | do                         |
+| ------------------------------------------ | ------------------------------------------ | -------------------------- |
+| [[#Initializing a Project\|=]]             | `pipenv install`                           | Init pipenv project        |
+| [[#Activating the Virtual Environment\|=]] | `pipenv shell`                             | Start shell                |
+|                                            | `pipenv --rm`<br>`rm Pipfile Pipfile.lock` | Remove pipenv from project |
+|                                            | `pipenv install $package`                  | Install package            |
+|                                            | `pipenv uninstall $package`                | Uninstall package          |
+|                                            | `pip list`                                 | List installed package     |
 
+## Project
 ### Initializing a Project
 ```
 pipenv install
@@ -20,6 +32,26 @@ my_project/
   Pipfile.lock
 ```
 
+### Activating the Virtual Environment
+```
+pipenv shell
+```
+This command activates your project's virtual environment, making the installed packages available for use in your Python scripts.
+
+**Note:** After activating, your shell prompt will typically change to indicate you're in the virtual environment (e.g., `(my_project)user@machine:`).
+
+**Tip:** Deactivate the virtual environment using `exit` when you're finished working on your project.
+
+**Result**:
+Creating a new project virtual environment
+```sh
+/home/$user/.local/share/virtualenvs/$project_name-hashcode
+```
+Explanation:
+- Pipenv creates a virtual environment to isolate project dependencies and avoid conflicts with system-wide packages.
+- Activating the environment allows you to use the installed packages within your project.
+
+## Package
 ### Installing Dependencies
 ```
 pipenv install <package_name>
@@ -29,7 +61,9 @@ This command installs a specific Python package into your project's virtual envi
 **Explanation**:
 - `<package_name>` is the name of the package you want to install (e.g., `requests`, `numpy`).
 - Pipenv automatically adds the package and its dependencies to the `Pipfile` and updates the `Pipfile.lock` to ensure a reproducible environment.
-
+Variant:
+install `pipenv install <package_name> ...` 
+	  `pipenv install requests==2.27.1`
 ### Listing Installed Packages on **Pipenv Shell**
 ```sh
 pip list
@@ -42,27 +76,8 @@ PACKAGE VERSION  DIR LOCATION
 requests  2.30.2    /home/user/my_project/venv/lib/python3.9/site-packages
 ```
 
-### Activating the Virtual Environment
-```
-pipenv shell
-```
-This command activates your project's virtual environment, making the installed packages available for use in your Python scripts.
-
-**Note:** After activating, your shell prompt will typically change to indicate you're in the virtual environment (e.g., `(my_project)user@machine:`).
-
-**Tip:** Deactivate the virtual environment using `exit` when you're finished working on your project.
-
-Result
-Creating a new project virtual environment
-```sh
-/home/$user/.local/share/virtualenvs/$project_name-hashcode
-```
-Explanation:
-- Pipenv creates a virtual environment to isolate project dependencies and avoid conflicts with system-wide packages.
-- Activating the environment allows you to use the installed packages within your project.
 
 ### Uninstall Pipenv from Project
-links:: [[Pipenv - simplified#Uninstall Pipenv from Project|=]]
 1. `pipenv --rm`
 2. Remove these
 - `Pipfile` 
@@ -77,8 +92,7 @@ links:: [[Pipenv - simplified#Uninstall Pipenv from Project|=]]
 	
 ### Commands
 - Package
-	- install `pipenv install <package_name> ...` 
-	  `pipenv install requests==2.27.1`
+	- 
 	- uninstall `pipenv uninstall <package_name> ...`
 		- **Default behavior:** By default, Pipenv will remove the uninstalled package and its direct dependencies from the `Pipfile`. This ensures a minimal dependency specification.
 		- **`--leave-optional` flag:** You can use the `--leave-optional` flag to instruct Pipenv to keep optional dependencies in the `Pipfile` even if they are no longer required by the remaining installed packages.
