@@ -97,3 +97,27 @@ requests  2.30.2    /home/user/my_project/venv/lib/python3.9/site-packages
 		- **Default behavior:** By default, Pipenv will remove the uninstalled package and its direct dependencies from the `Pipfile`. This ensures a minimal dependency specification.
 		- **`--leave-optional` flag:** You can use the `--leave-optional` flag to instruct Pipenv to keep optional dependencies in the `Pipfile` even if they are no longer required by the remaining installed packages.
 		  `pipenv uninstall <package_name> --leave-optional`
+
+
+# Troubleshoot
+
+# Warning
+## Ignoring invalid distribution ~...
+**Trigger**
+`pip list` || `pipenv clean`
+**Solution**
+Please remove those files / folders. By listing them first
+```bash
+ls -a /xx/xx/xx/lib/pythonx.x/site-packages | grep "^~"
+```
+Then remove them one by one `rm -R ~...`
+**source**
+[python - Why do I get this when using pip WARNING: Ignoring invalid distribution -ip? - Stack Overflow](https://stackoverflow.com/questions/68880743/why-do-i-get-this-when-using-pip-warning-ignoring-invalid-distribution-ip)
+
+## Pipenv found itself running within a virtual environment
+Courtesy Notice: Pipenv found itself running within a virtual environment, so it will automatically use that environment, instead of creating its own for any project. You can set PIPENV_IGNORE_VIRTUALENVS=1 to force pipenv to ignore that environment and create its own instead. You can set PIPENV_VERBOSITY=-1 to suppress this warning.
+**Trigger**
+You're Already in a Virtual Environment
+**Solution**
+Just run `pipenv` outside the shell. Or `exit`  from the pipenv shell first, then run `pipenv ...`
+
