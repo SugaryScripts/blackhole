@@ -16,9 +16,10 @@ streamlit hello
 ```
 
 ## Troubleshoot
-### 4258 illegal hardware instruction (core dumped)
+### 4258 illegal hardware instruction (core dumped) (**UNSOLVED**)
+I just did what i previously failed and yet it still run perfectly fine
 - What i did
-	- Reinstall streamlit via pipenv within shell in pycharm(not worked)
-	- Reinstall pipenv and streamlit within(not worked)
+	- Reinstall streamlit via pipenv within shell in pycharm (not worked)
+	- Reinstall pipenv and streamlit within shell in pycharm (not worked)
 - Accidentally worked
 	- Install streamlit via pipenv in terminal (worked)
