@@ -4,6 +4,42 @@
 	- pkm
 	- habit
 	- systems
+- output
+	- website
+	- twitter
+	- article
+	- multiple
+	- lesson
+	- youtube
+- note
+	- develop
+	- boat
+	- question
+	- tidy
+- log
+	- journal
+	- event
+	- meeting
+- source
+	- quote
+	- book
+	- course
+	- speech
+	- article
+	- movie
+	- music
+	- paper
+
+###### Mine
+- 
+- command
+- literature
+- source
+- map
+  
+- incomplete
+
+today *as neat* as **ever**
 
 ###### AI suggestion
 1. **Priority Levels:**

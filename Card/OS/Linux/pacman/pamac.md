@@ -2,6 +2,9 @@
 url:: [Pamac - Manjaro](https://wiki.manjaro.org/index.php/Pamac)
 
 
+Other
+- [[Pamac Dark Mode]]
+
 ## Updating the System
 
 To check if updates are available, you can use the command:
