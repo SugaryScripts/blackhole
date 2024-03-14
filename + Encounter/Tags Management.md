@@ -31,7 +31,7 @@
 	- paper
 
 ###### Mine
-- 
+- rule
 - command
 - literature
 - source
