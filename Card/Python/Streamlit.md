@@ -17,6 +17,8 @@ streamlit hello
 
 ## Troubleshoot
 ### 4258 illegal hardware instruction (core dumped) (**UNSOLVED**)
+[Illegal instruction - 🎈 Using Streamlit - Streamlit](https://discuss.streamlit.io/t/illegal-instruction/7479)
+
 I just did what i previously failed and yet it still run perfectly fine
 - What i did
 	- Reinstall streamlit via pipenv within shell in pycharm (not worked)
