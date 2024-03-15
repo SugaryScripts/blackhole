@@ -2,7 +2,8 @@ tags::
 time:: 00:52
 
 ```wakatime
-Markdown     39 mins     ████████████████████     100 %
+Markdown     1 hr 37 mins     █████████████████▌░░     87.79 %
+Python       13 mins          ██▍░░░░░░░░░░░░░░░░░     12.21 %
 ```
 
 
