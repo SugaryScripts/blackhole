@@ -5,6 +5,6 @@ A thought that popped in your head which you decided to capture. These fleeting 
 
 ### How to write a fleeting note
 - [ ] **Write down** your fleeting thought before it disappears (
-- [ ] **Add tag(s)** to help your future self resurface this note (e.g. #connect_to_other_notes #build_out_idea #implement_in_projectX #write_newsletter_on_idea) 
+- [ ] **Add tag(s)** to help your future self resurface this note (e.g. `#connect_to_other_notes` `#build_out_idea` `#implement_in_projectX` `#write_newsletter_on_idea`) 
 - [ ] **Connect to other notes** in your vault (optional if you're vault is new. Tags are good enough to allow future connections)
 - [ ] **Stretch your thinking** by using the [[Idea Compass]]

@@ -1,5 +1,5 @@
 up:: [[Meta PKM]]
-tags:: #on/readme 
+tags:: #sys/readme 
 
 # Extras
 Think of the Extras folder as the toolbox for your notes. 

@@ -1,5 +1,6 @@
-#literature 
-at Medium by [Luca Franceschini](https://lucafrance.medium.com/?source=post_page-----f2b42d3b77b3--------------------------------)
+tags:: #vc/git #sys/help #raw/copycat
+source:: at Medium by [Luca Franceschini](https://lucafrance.medium.com/?source=post_page-----f2b42d3b77b3--------------------------------)
+
 
 An Obsidian vault can be versioned efficiently with git, as it consists mostly of markdown files. The right plugin automates committing and pushing to a remote. Here is how to do it with GitHub.
 

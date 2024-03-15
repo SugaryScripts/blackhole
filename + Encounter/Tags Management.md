@@ -32,12 +32,26 @@
 
 ###### Mine
 - rule
-- command
-- literature
 - source
 - map
-  
-- incomplete
+- sys
+	- readme
+	- setting
+	- help
+- raw
+	- frame
+	- copycat /// from *literature*
+	- enhanced
+- vc
+	- git
+	- github
+	- client
+ frontend
+- backend
+- database
+- devops
+- cloud
+- api
 
 today *as neat* as **ever**
 

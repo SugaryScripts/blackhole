@@ -1,4 +1,4 @@
-#unsorted #random #idea
+#unsorted #random
 ###### Project
 - CupcakeCatalyst Chronicle CuddleCode Carousel ChibiCharm
 - StarryStitch Story

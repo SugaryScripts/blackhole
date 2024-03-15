@@ -1,5 +1,5 @@
 up:: [[Meta PKM]]
-tags:: #on/readme 
+tags:: #sys/readme 
 
 # About Encounters
 This is a space to store notes as you capture them.

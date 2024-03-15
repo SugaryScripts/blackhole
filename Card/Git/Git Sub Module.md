@@ -1,7 +1,7 @@
 > Its Nested Repository
 
 up:: [[Git]]
-tags:: #git
+tags:: #vc/git
 
 # What
 - It's **like a package manager** but it's git. 

@@ -1,5 +1,5 @@
 up:: [[Home]]
-tag:: #map #dev 
+tag:: #map 
 
 # Framework
 [[Pipenv vs virtualenv vs conda]]

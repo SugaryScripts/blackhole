@@ -22,4 +22,4 @@ The idea compass is a thinking tool that uses prompts represented by the directi
 - [ ] **Write a quick explanation** of why the notes are related to your future self
 
 - [ ] **Repeat with other directions** as needed (there is NO need to go all four directions in one sitting! Evolve your thinking overtime)
-- [ ] **Add tag(s)** to help your future self resurface this note (e.g. #build_out_idea #write_newsletter_on_idea) 
+- [ ] **Add tag(s)** to help your future self resurface this note (e.g. `#build_out_idea` `#write_newsletter_on_idea`) 

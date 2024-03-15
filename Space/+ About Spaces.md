@@ -1,5 +1,5 @@
 up:: [[Meta PKM]]
-tags:: #on/readme
+tags:: #sys/readme
 
 # About Spaces
 Spaces are one of the most important parts of ACCESS:  Whenever you have something big in your life, create a new space. 

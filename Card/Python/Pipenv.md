@@ -1,7 +1,8 @@
 up:: [[Python|Python]]
-similar:: [[Pipenv - simplified]] | [[Pipenv vs virtualenv vs conda#Pipenv]]
+similar:: [[Pipenv vs virtualenv vs conda#Pipenv]]
 
-# What
+# How
+- 
 # Commands
 ## Summary
 | ref                                        | command                                    | do                         |
