@@ -1,0 +1,5 @@
+{
+  "folder": "Calendar",
+  "format": "Y (M)MMMM Do - dddd",
+  "template": "Extra/Template/Daily"
+}
