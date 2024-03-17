@@ -1,16 +1,84 @@
 {
   "recentFiles": [
     {
+      "basename": "Tags Management",
+      "path": "+ Encounter/Tags Management.md"
+    },
+    {
+      "basename": "TEMPLATE PERSONAL KNOWLEDGE MANAGEMENT",
+      "path": "+ Encounter/TEMPLATE PERSONAL KNOWLEDGE MANAGEMENT.md"
+    },
+    {
+      "basename": "Git",
+      "path": "Atlas/Git.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
+      "basename": "Sorting By Character - Last Char of the list",
+      "path": "Extra/Ω Obsidian/Help/Sorting By Character - Last Char of the list.md"
+    },
+    {
+      "basename": "Setup Obsidian Vault",
+      "path": "Extra/Ω Obsidian/Help/Setup Obsidian Vault.md"
+    },
+    {
+      "basename": "Obsidian Git Guide",
+      "path": "Extra/Ω Obsidian/Help/Obsidian Git Guide.md"
+    },
+    {
+      "basename": "Streamlit",
+      "path": "Card/Python/Streamlit.md"
+    },
+    {
+      "basename": "pipenv structure",
+      "path": "+ Encounter/pipenv structure.md"
+    },
+    {
+      "basename": "transport-fever",
+      "path": "Card/entertainment/Games/transport-fever.md"
+    },
+    {
+      "basename": "stellaris",
+      "path": "Card/entertainment/Games/stellaris.md"
+    },
+    {
+      "basename": "Skyrim AE",
+      "path": "Card/entertainment/Games/Skyrim AE.md"
+    },
+    {
       "basename": "Honkai Impact",
       "path": "Card/entertainment/Games/Honkai Impact.md"
     },
     {
-      "basename": "Final Fantasy XII",
-      "path": "Card/entertainment/Games/Final Fantasy XII.md"
+      "basename": "sims4",
+      "path": "Card/entertainment/Games/sims4.md"
+    },
+    {
+      "basename": "rimworld",
+      "path": "Card/entertainment/Games/rimworld.md"
+    },
+    {
+      "basename": "Othercide",
+      "path": "Card/entertainment/Games/Othercide.md"
+    },
+    {
+      "basename": "Links todo",
+      "path": "Card/entertainment/Games/Links todo.md"
+    },
+    {
+      "basename": "Kingdom and Castles",
+      "path": "Card/entertainment/Games/Kingdom and Castles.md"
     },
     {
       "basename": "euro-truck",
       "path": "Card/entertainment/Games/euro-truck.md"
+    },
+    {
+      "basename": "Final Fantasy XII",
+      "path": "Card/entertainment/Games/Final Fantasy XII.md"
     },
     {
       "basename": "Dwarf Fortress",
@@ -25,32 +93,44 @@
       "path": "Card/entertainment/Games/bannerlord.md"
     },
     {
-      "basename": "Streamlit",
-      "path": "Card/Python/Streamlit.md"
+      "basename": "movie",
+      "path": "Card/entertainment/movie.md"
+    },
+    {
+      "basename": "music-manage",
+      "path": "Card/entertainment/music-manage.md"
+    },
+    {
+      "basename": "ps2",
+      "path": "Card/entertainment/ps2.md"
+    },
+    {
+      "basename": "Obsidian git",
+      "path": "Extra/Ω Obsidian/Help/Obsidian git.md"
+    },
+    {
+      "basename": "Old Settings Note",
+      "path": "Extra/Ω Obsidian/Old Settings Note.md"
+    },
+    {
+      "basename": "Plugins",
+      "path": "Extra/Ω Obsidian/Plugins.md"
+    },
+    {
+      "basename": "env",
+      "path": "Extra/env.md"
+    },
+    {
+      "basename": "Waka Obsidian",
+      "path": "Extra/Waka Obsidian.md"
     },
     {
       "basename": "Pipenv",
       "path": "Card/Python/Pipenv.md"
     },
     {
-      "basename": "TEMPLATE PERSONAL KNOWLEDGE MANAGEMENT",
-      "path": "+ Encounter/TEMPLATE PERSONAL KNOWLEDGE MANAGEMENT.md"
-    },
-    {
       "basename": "+ About Atlas",
       "path": "Atlas/+ About Atlas.md"
-    },
-    {
-      "basename": "Obsidian git",
-      "path": "Clean Up/Obsidian/Obsidian git.md"
-    },
-    {
-      "basename": "Tags Management",
-      "path": "+ Encounter/Tags Management.md"
-    },
-    {
-      "basename": "Git",
-      "path": "Atlas/Git.md"
     },
     {
       "basename": "Python",
@@ -77,14 +157,6 @@
       "path": "Card/Dev - need clening/React/UI Kitten/UI Kitten Installation.md"
     },
     {
-      "basename": "Obsidian Git Guide",
-      "path": "Clean Up/Obsidian/Obsidian Git Guide.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
-    },
-    {
       "basename": "Fleeting Note",
       "path": "Clean Up/Obsidian Start Here Templates - Vicky Zhao Beeamp/Fleeting Note.md"
     },
@@ -109,10 +181,6 @@
       "path": "+ Encounter/on readme.md"
     },
     {
-      "basename": "pipenv structure",
-      "path": "+ Encounter/pipenv structure.md"
-    },
-    {
       "basename": "Testing Plugin Gallery",
       "path": "+ Encounter/Testing Plugin Gallery.md"
     },
@@ -125,80 +193,12 @@
       "path": "Clean Up/Zettelkasten/fleeting/Communication based on solution.md"
     },
     {
-      "basename": "old guide",
-      "path": "Clean Up/Obsidian/old guide.md"
-    },
-    {
       "basename": "I am not going to censor myself to comfort your ignorance",
-      "path": "Clean Up/Obsidian/quotes/I am not going to censor myself to comfort your ignorance.md"
+      "path": "Extra/Ω Obsidian/quotes/I am not going to censor myself to comfort your ignorance.md"
     },
     {
       "basename": "Pamac Dark Mode",
       "path": "Card/OS/Linux/pacman/Pamac Dark Mode.md"
-    },
-    {
-      "basename": "pacman clean uninstall",
-      "path": "Card/OS/Linux/pacman/pacman clean uninstall.md"
-    },
-    {
-      "basename": "mv - rename or move file",
-      "path": "Card/OS/Linux/terminal/mv - rename or move file.md"
-    },
-    {
-      "basename": "chmod",
-      "path": "Card/OS/Linux/terminal/chmod.md"
-    },
-    {
-      "basename": "Invalid or corrupted package error",
-      "path": "Card/OS/Linux/pacman/Invalid or corrupted package error.md"
-    },
-    {
-      "basename": "pamac",
-      "path": "Card/OS/Linux/pacman/pamac.md"
-    },
-    {
-      "basename": "Linux OS Comparison",
-      "path": "Card/OS/Linux/Linux OS Comparison.md"
-    },
-    {
-      "basename": "How to install onedrive on linux",
-      "path": "Card/OS/Linux/How to install onedrive on linux.md"
-    },
-    {
-      "basename": "Pipenv vs virtualenv vs conda",
-      "path": "Card/Python/Pipenv vs virtualenv vs conda.md"
-    },
-    {
-      "basename": "2024 (3)March 5th - Tuesday",
-      "path": "Calendar/2024 (3)March 5th - Tuesday.md"
-    },
-    {
-      "basename": "Obsidian metadata usecase",
-      "path": "Card/Obsidian metadata usecase.md"
-    },
-    {
-      "basename": "2024 (3)March 7th - Thursday",
-      "path": "Calendar/2024 (3)March 7th - Thursday.md"
-    },
-    {
-      "basename": "link-wa-account",
-      "path": "Extra/Image/ta/link-wa-account.png"
-    },
-    {
-      "basename": "Git Sub Module",
-      "path": "Card/Git/Git Sub Module.md"
-    },
-    {
-      "basename": "license",
-      "path": "+ Encounter/license.md"
-    },
-    {
-      "basename": "Meta Journal",
-      "path": "Card/Meta Developer/Meta Journal.md"
-    },
-    {
-      "basename": "Gittyup",
-      "path": "Extra/Image/git/Gittyup.png"
     }
   ],
   "omittedPaths": [],

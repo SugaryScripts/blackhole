@@ -2,6 +2,8 @@
 .obsidian/*
 .obsidian/workspace.json
 
+# Exclude all except obsidian-git => for different hostname config
+# manual backup is inside the vault
 !.obsidian/plugins
 .obsidian/plugins/obsidian-git/data.json
 

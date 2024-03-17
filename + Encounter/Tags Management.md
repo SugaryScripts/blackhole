@@ -46,6 +46,11 @@
 	- git
 	- github
 	- client
+- log
+	- journal
+	- event
+	- meeting
+
  frontend
 - backend
 - database
