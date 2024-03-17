@@ -1,20 +1,80 @@
 {
   "recentFiles": [
     {
-      "basename": "Tags Management",
-      "path": "+ Encounter/Tags Management.md"
+      "basename": "Plugins",
+      "path": "Extra/Ω Obsidian/Plugins.md"
     },
     {
-      "basename": "TEMPLATE PERSONAL KNOWLEDGE MANAGEMENT",
-      "path": "+ Encounter/TEMPLATE PERSONAL KNOWLEDGE MANAGEMENT.md"
+      "basename": "Timberborn",
+      "path": "Card/entertainment/Games/Timberborn.md"
+    },
+    {
+      "basename": "Pasted image 20240318054145",
+      "path": "Extra/Image/timberborn/Pasted image 20240318054145.png"
+    },
+    {
+      "basename": "README",
+      "path": "Extra/Image/README.md"
+    },
+    {
+      "basename": "Pasted image 20240318053846",
+      "path": "Extra/Image/timberborn/Pasted image 20240318053846.png"
+    },
+    {
+      "basename": "Pasted image 20240318052530",
+      "path": "Extra/Image/timberborn/Pasted image 20240318052530.png"
+    },
+    {
+      "basename": "Pasted image 20240318053054",
+      "path": "Extra/Image/timberborn/Pasted image 20240318053054.png"
+    },
+    {
+      "basename": "Testing Plugin Gallery",
+      "path": "+ Encounter/Testing Plugin Gallery.md"
+    },
+    {
+      "basename": "Pasted image 20240318052242",
+      "path": "Extra/Image/timberborn/Pasted image 20240318052242.png"
+    },
+    {
+      "basename": "3-app-type",
+      "path": "Extra/Image/ta/meta app/3-app-type.png"
+    },
+    {
+      "basename": "2-use-case-app",
+      "path": "Extra/Image/ta/meta app/2-use-case-app.png"
+    },
+    {
+      "basename": "1-create-app",
+      "path": "Extra/Image/ta/meta app/1-create-app.png"
+    },
+    {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
+      "basename": "Git Sub Module",
+      "path": "Card/Git/Git Sub Module.md"
+    },
+    {
+      "basename": "README",
+      "path": "Extra/Document/README.md"
     },
     {
       "basename": "Git",
       "path": "Atlas/Git.md"
     },
     {
-      "basename": "Home",
-      "path": "Home.md"
+      "basename": "Git Large File Storage (LFS)",
+      "path": "Card/Git/Git Large File Storage (LFS).md"
+    },
+    {
+      "basename": "Tags Management",
+      "path": "+ Encounter/Tags Management.md"
+    },
+    {
+      "basename": "TEMPLATE PERSONAL KNOWLEDGE MANAGEMENT",
+      "path": "+ Encounter/TEMPLATE PERSONAL KNOWLEDGE MANAGEMENT.md"
     },
     {
       "basename": "Sorting By Character - Last Char of the list",
@@ -113,10 +173,6 @@
       "path": "Extra/Ω Obsidian/Old Settings Note.md"
     },
     {
-      "basename": "Plugins",
-      "path": "Extra/Ω Obsidian/Plugins.md"
-    },
-    {
       "basename": "env",
       "path": "Extra/env.md"
     },
@@ -143,62 +199,6 @@
     {
       "basename": "Idea Compass - stretch your thinking",
       "path": "Clean Up/Obsidian Start Here Templates - Vicky Zhao Beeamp/Idea Compass - stretch your thinking.md"
-    },
-    {
-      "basename": "gdsc exit survey",
-      "path": "Clean Up/Personal/Organization/gdsc/gdsc exit survey.md"
-    },
-    {
-      "basename": "Init Live Lar Tail",
-      "path": "Card/Dev - need clening/Web/Init Live Lar Tail.md"
-    },
-    {
-      "basename": "UI Kitten Installation",
-      "path": "Card/Dev - need clening/React/UI Kitten/UI Kitten Installation.md"
-    },
-    {
-      "basename": "Fleeting Note",
-      "path": "Clean Up/Obsidian Start Here Templates - Vicky Zhao Beeamp/Fleeting Note.md"
-    },
-    {
-      "basename": "Literature Note",
-      "path": "Clean Up/Obsidian Start Here Templates - Vicky Zhao Beeamp/Literature Note.md"
-    },
-    {
-      "basename": "Permanent Note",
-      "path": "Clean Up/Obsidian Start Here Templates - Vicky Zhao Beeamp/Permanent Note.md"
-    },
-    {
-      "basename": "Start Here - Zettelkasten Overview",
-      "path": "Clean Up/Obsidian Start Here Templates - Vicky Zhao Beeamp/Start Here - Zettelkasten Overview.md"
-    },
-    {
-      "basename": "Idea Compass",
-      "path": "Clean Up/Idea Compass.md"
-    },
-    {
-      "basename": "on readme",
-      "path": "+ Encounter/on readme.md"
-    },
-    {
-      "basename": "Testing Plugin Gallery",
-      "path": "+ Encounter/Testing Plugin Gallery.md"
-    },
-    {
-      "basename": "Email",
-      "path": "+ Encounter/Email.md"
-    },
-    {
-      "basename": "Communication based on solution",
-      "path": "Clean Up/Zettelkasten/fleeting/Communication based on solution.md"
-    },
-    {
-      "basename": "I am not going to censor myself to comfort your ignorance",
-      "path": "Extra/Ω Obsidian/quotes/I am not going to censor myself to comfort your ignorance.md"
-    },
-    {
-      "basename": "Pamac Dark Mode",
-      "path": "Card/OS/Linux/pacman/Pamac Dark Mode.md"
     }
   ],
   "omittedPaths": [],
