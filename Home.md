@@ -19,6 +19,7 @@ These are maps to launch your `efforts`. Where would you like to go?
 		- [[rimworld]] -> names, yandere-trait
 		- [[sims4]] -> dlc
 		- [[stellaris]] -> name federation
+		- [[Timberborn]]
 
 - Systems
 	- [[Setup Obsidian Vault]]
