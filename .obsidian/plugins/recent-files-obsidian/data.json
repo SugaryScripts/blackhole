@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
       "basename": "Tags Management",
       "path": "+ Encounter/Tags Management.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "Git",
       "path": "Atlas/Git.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
     },
     {
       "basename": "Sorting By Character - Last Char of the list",
