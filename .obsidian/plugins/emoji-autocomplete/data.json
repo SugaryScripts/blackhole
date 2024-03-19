@@ -4,10 +4,11 @@
   "considerHistory": true,
   "historyLimit": 25,
   "history": [
+    "construction",
+    "white_check_mark",
     "heavy_check_mark",
     "robot",
     "microscope",
-    "white_check_mark",
     "hammer",
     "see",
     "hear"

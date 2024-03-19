@@ -5,6 +5,7 @@ These are maps to launch your `efforts`. Where would you like to go?
 zrhuRMaET8VYjWA
 
 - Dev World
+	- [[Jetbrain License]]
 	- [[Git]]
 	- [[Python]]
 - Entertainment
@@ -22,6 +23,8 @@ zrhuRMaET8VYjWA
 		- [[stellaris]] -> name federation
 		- [[Timberborn]]
 		- 
+- Personal
+	- [[Email Account Guideline]]
 - Systems
 	- [[Setup Obsidian Vault]]
 	- [[Plugins]]
