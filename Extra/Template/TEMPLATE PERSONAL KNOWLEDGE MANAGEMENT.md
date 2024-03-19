@@ -1,7 +1,7 @@
 up:: home
 tags:: 
-dates:: 2024 (3)March 15th - Friday
-times:: 00:35
+dates:: {{date}}
+times:: {{time}}
 sources:: 
 url:: 
 people::

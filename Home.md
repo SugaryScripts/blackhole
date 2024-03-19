@@ -8,6 +8,7 @@ zrhuRMaET8VYjWA
 	- [[Jetbrain License]]
 	- [[Git]]
 	- [[Python]]
+	- [[Deploy Laravel on Jagoan Hosting]]
 - Entertainment
 	- [[movie]]
 	- [[music-manage]]
@@ -25,7 +26,22 @@ zrhuRMaET8VYjWA
 		- 
 - Personal
 	- [[Email Account Guideline]]
+	- [[Tags Management]]
 - Systems
 	- [[Setup Obsidian Vault]]
 	- [[Plugins]]
 	- [[Sorting By Character - Last Char of the list]]
+
+
+
+# todo
+- [ ] **All letter** Jika yang bertanda tangan **sekretaris desa** maka kalimatnya menjadi “yang bertanda tangan di bawah ini atas nama Kepala Desa Selorejo …….. “ **berlaku untuk semua jenis surat.**
+- [ ] surat keterangan on *section* **keterangan:**
+	- [ ] Line spacing dibuat 1,5
+	- [ ] Pointnya dibuat angka saja (1. 2. ….. dst)
+- [ ] surat domisili
+	- [ ] - Untuk kalimat “diterangkan pula bahwa orang tersebut di atas benar-benar berdomisili di …….” dibuat opsi saja yaitu :
+	1. benar-benar berdomisili
+	2. benar-benar berdomisili sementara
+	- [ ] Pengisian nama desa … kecamatan .. kabupaten … provinsi …. dibuat manual saja. Seharusnya saat input alamat di kolom (gambar dibawah ini) juga ada kolom untuk pengisisan nama desa … kecamatan .. kabupaten … provinsinya agar tidak dobel saat penginputan.
+- [ ] 
