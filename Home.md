@@ -44,4 +44,6 @@ zrhuRMaET8VYjWA
 	1. benar-benar berdomisili
 	2. benar-benar berdomisili sementara
 	- [ ] Pengisian nama desa … kecamatan .. kabupaten … provinsi …. dibuat manual saja. Seharusnya saat input alamat di kolom (gambar dibawah ini) juga ada kolom untuk pengisisan nama desa … kecamatan .. kabupaten … provinsinya agar tidak dobel saat penginputan.
-- [ ] 
+- [ ] keterangan usaha (non bri)
+	- [ ] Pengisian nama desa … kecamatan .. kabupaten … dibuat manual saja supaya tidak doble saat penginputan di surat keterangan usaha.
+	- [ ] Point keterangannya dibuat tanda “-“ saja.
