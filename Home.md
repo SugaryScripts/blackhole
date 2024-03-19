@@ -4,9 +4,9 @@ These are maps to launch your `efforts`. Where would you like to go?
 
 zrhuRMaET8VYjWA
 
-- [[Git]]
-- [[Python]]
-
+- Dev World
+	- [[Git]]
+	- [[Python]]
 - Entertainment
 	- [[movie]]
 	- [[music-manage]]
@@ -21,7 +21,7 @@ zrhuRMaET8VYjWA
 		- [[sims4]] -> dlc
 		- [[stellaris]] -> name federation
 		- [[Timberborn]]
-
+		- 
 - Systems
 	- [[Setup Obsidian Vault]]
 	- [[Plugins]]
