@@ -27,17 +27,18 @@
 | **Core**  | wakatime               |    ☑️     |   ☑️    |
 |           | key promoter x         |    ☑️     |   ☑️    |
 |           |                        |           |         |
-|           | php annotations        |           |         |
+|           | php annotations        |    ☑️     |         |
 |           | laravel plugin         |           |         |
-|           | laravel tinker         |           |         |
+|           | laravel tinker         |    ☑️     |         |
 | **Theme** | rainbow brackets       |    ☑️     |   ☑️    |
 |           | material theme ui      |           |         |
 |           | material theme ui lite |           |         |
 |           | atom material icon     |           |         |
-|           | doki theme jetbrain    |           |         |
+|           | doki icon              |    ☑️     |         |
+|           | doki theme jetbrain    |    ☑️     |         |
 |           | Catpuccin Themes       |           |         |
 |           | Catpuccin Icons        |           |         |
-| **Misc**  | anime memes            |           |         |
+| **Misc**  | anime memes            |    ☑️     |         |
 |           | gitmoji intellij       |           |         |
 |           | gitmoji plus           |           |         |
 # FAQ
