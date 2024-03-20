@@ -4,6 +4,11 @@
   "considerHistory": true,
   "historyLimit": 25,
   "history": [
+    "pushpin",
+    "ballot_box_with_check",
+    "heavy_plus_sign",
+    "frowning",
+    "heavy_minus_sign",
     "construction",
     "white_check_mark",
     "heavy_check_mark",

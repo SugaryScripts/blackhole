@@ -16,6 +16,29 @@
 
 ## laravel idea
 
-| version    | main | sanders |
-| ---------- | ---- | ------- |
-| 0.7        | v    | v       |
+| version | main | sanders |
+| ------- | ---- | ------- |
+| 0.7     | v    | v       |
+
+# Plugins
+
+| Category  | plugins                | PHP storm | Pycharm |
+| --------- | ---------------------- | :-------: | :-----: |
+| **Core**  | wakatime               |    ☑️     |   ☑️    |
+|           | key promoter x         |    ☑️     |   ☑️    |
+|           |                        |           |         |
+|           | php annotations        |           |         |
+|           | laravel plugin         |           |         |
+|           | laravel tinker         |           |         |
+| **Theme** | rainbow brackets       |    ☑️     |   ☑️    |
+|           | material theme ui      |           |         |
+|           | material theme ui lite |           |         |
+|           | atom material icon     |           |         |
+|           | doki theme jetbrain    |           |         |
+|           | Catpuccin Themes       |           |         |
+|           | Catpuccin Icons        |           |         |
+| **Misc**  | anime memes            |           |         |
+|           | gitmoji intellij       |           |         |
+|           | gitmoji plus           |           |         |
+# FAQ
+- Location config on linux sys

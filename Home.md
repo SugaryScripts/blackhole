@@ -2,7 +2,10 @@
 # Atlas 
 These are maps to launch your `efforts`. Where would you like to go?
 
-zrhuRMaET8VYjWA
+
+
+
+
 
 - Dev World
 	- [[Jetbrain License]]
