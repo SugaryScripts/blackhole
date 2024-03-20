@@ -39,6 +39,8 @@ These are maps to launch your `efforts`. Where would you like to go?
 
 # todo
 - [ ] **All letter** Jika yang bertanda tangan **sekretaris desa** maka kalimatnya menjadi “yang bertanda tangan di bawah ini atas nama Kepala Desa Selorejo …….. “ **berlaku untuk semua jenis surat.**
+	- [x] keterangan usaha2
+	- [ ] 
 - [ ] surat keterangan on *section* **keterangan:**
 	- [ ] Line spacing dibuat 1,5
 	- [ ] Pointnya dibuat angka saja (1. 2. ….. dst)
