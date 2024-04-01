@@ -30,6 +30,7 @@ These are maps to launch your `efforts`. Where would you like to go?
 - Personal
 	- [[Email Account Guideline]]
 	- [[Tags Management]]
+	- [[Music Management]]
 - Systems
 	- [[Setup Obsidian Vault]]
 	- [[Plugins]]
