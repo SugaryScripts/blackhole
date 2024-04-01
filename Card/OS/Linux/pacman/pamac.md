@@ -1,9 +1,10 @@
-
+tags:: #map
 url:: [Pamac - Manjaro](https://wiki.manjaro.org/index.php/Pamac)
 
 
 Other
 - [[Pamac Dark Mode]]
+- [[Invalid or corrupted package error]]
 
 ## Updating the System
 
@@ -46,4 +47,10 @@ A safer way to remove old package cache files is to remove all packages except f
 
 ```sh
 user $ pamac clean --keep 3
+```
+
+
+## Cleanly uninstall
+```shell
+sudo pacman -Rcns nodejs
 ```
