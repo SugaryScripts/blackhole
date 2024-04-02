@@ -13,6 +13,7 @@ These are maps to launch your `efforts`. Where would you like to go?
 	- [[Python]]
 	- [[Deploy Laravel on Jagoan Hosting]]
 - Linux
+	- [[Terminal]]
 	- [[pamac]]
 	- [[Reset Manjaro Password]]
 - Entertainment
