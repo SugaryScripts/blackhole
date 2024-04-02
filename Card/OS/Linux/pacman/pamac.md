@@ -7,6 +7,16 @@ Other
 - [[Invalid or corrupted package error]]
 - [[flatpak]]
 
+
+## Summary
+
+```sh
+pamac search $package
+pamac install $package
+pamac remove $package
+```
+
+
 ## Updating the System
 
 To check if updates are available, you can use the command:

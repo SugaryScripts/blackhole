@@ -1,4 +1,20 @@
+#### Summary
+```sh
+flatpak list
+flatpak search vlc
+flatpak upgrade
+flatpak info org.videolan.VLC
+flatpak install org.videolan.VLC
+flatpak uninstall org.videolan.VLC
+```
+
+Changes location
+- `~/.var/app/...`
+
+
+## Doc
 [Flatpak](https://flatpak.org/) is a distro independent method for packaging and distributing Linux software.
+
 
   
 Using software distributed by Flatpak has a couple of distinct advantages:
@@ -36,7 +52,9 @@ pamac install flatpak libpamac-flatpak-plugin
 
 One way to manage your Flatpaks is with the application [Discover](https://userbase.kde.org/Discover) from the KDE project. You can install the package `discover` with your favorite package manager or the command:
 
-user $ pamac install discoverCOPY TO CLIPBOARD
+```sh
+pamac install discover
+```
 
   
 
@@ -54,7 +72,9 @@ Discover can also install and update software from the Manjaro repos if you inst
 
 Another way to manage your Flatpaks is with the application [Gnome Software](https://wiki.gnome.org/Apps/Software) from the Gnome project. You can install the package `gnome-software` with your favorite package manager or the command:
 
-user $ pamac install gnome-softwareCOPY TO CLIPBOARD
+```sh
+pamac install gnome-software
+```
 
   
 
@@ -72,7 +92,9 @@ Gnome Software can also install and update software from the Manjaro repos
 
 You can use the command `flatpak search` to search for available Flatpaks. For example, if you wanted to install VLC here is what it might look like:
 
-user $ flatpak search vlcCOPY TO CLIPBOARD
+```sh
+flatpak search vlc
+```
 
   
 
@@ -84,7 +106,9 @@ FDK-AAC Encoding Plugin for VLC                     Provides better AAC encoding
 
 From this output we can see that VLC and some related applications via Flatpak. To install VLC, we would use it's "Application ID", shown above with the command
 
-user $ flatpak install org.videolan.VLCCOPY TO CLIPBOARD
+```sh
+flatpak install org.videolan.VLC
+```
 
   
 
@@ -94,7 +118,9 @@ This will install the application as well as any required run-times. Once the ap
 
 You can get more details about a specific Flatpak using the command `flatpak info`. For example:
 
-user $ flatpak info org.videolan.VLCCOPY TO CLIPBOARD
+```sh
+flatpak info org.videolan.VLC
+```
 
   
 

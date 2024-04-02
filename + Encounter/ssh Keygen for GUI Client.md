@@ -1,4 +1,5 @@
-up:: [[Terminal]]
+tags:: #vc/git 
+up:: [[Terminal]] [[Git]]
 
 ```sh
 which ssh-askpass
@@ -10,6 +11,7 @@ rm /usr/lib/ssh/ssh-askpass
 ln /usr/bin/ksshaskpass /usr/lib/ssh/ssh-askpass
 ```
 
+pass kwallet -> blowfish = root pass
 
 revert
 ```sh

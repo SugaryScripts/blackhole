@@ -13,7 +13,7 @@ tag:: #map #vc/git
 - Basic
 	- [[VC]] how to use virtual control
 - Git Client
-	- Gittyup 📌 
+	- Gittyup 📌 (GitAhead fork)
 		- Preview
 			- ![[Gittyup.png]]
 			- 
@@ -34,6 +34,7 @@ tag:: #map #vc/git
 		- + Looks Like Kraken
 		- + There is **sub module**
 		- - **No emoticon**
+	
 	- Git Cola 
 		- Preview
 			- ![[Git Cola.png]]
