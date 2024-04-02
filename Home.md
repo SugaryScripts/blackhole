@@ -14,6 +14,7 @@ These are maps to launch your `efforts`. Where would you like to go?
 	- [[Deploy Laravel on Jagoan Hosting]]
 - Linux
 	- [[pamac]]
+	- [[Reset Manjaro Password]]
 - Entertainment
 	- [[movie]]
 	- [[music-manage]]

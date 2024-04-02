@@ -55,3 +55,15 @@ user $ pamac clean --keep 3
 ```shell
 sudo pacman -Rcns nodejs
 ```
+
+
+## Search package
+Search and **check installed** or not
+```sh
+pacman -Ss picard
+yay -Ss gitkraken
+pamac search gitkraken
+```
+The `-Ss` flag tells pacman to search for packages whose names **start** with the specified string.
+
+
