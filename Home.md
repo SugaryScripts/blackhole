@@ -21,16 +21,18 @@ These are maps to launch your `efforts`. Where would you like to go?
 	- [[music-manage]]
 	- [[ps2]]
 	- Games
-		- [[Dwarf Fortress]] -> Names, Jobs
-		- [[euro-truck]] -> Name
-		- [[Final Fantasy XII]] -> Jobs
-		- [[Honkai Impact]] -> Alleysyan Realm buffs unlock
-		- [[Kingdom and Castles]] -> Seeds, Names
-		- [[rimworld]] -> names, yandere-trait
-		- [[sims4]] -> dlc
-		- [[stellaris]] -> name federation
-		- [[Timberborn]]
-		- 
+		- Offline
+			- [[Dwarf Fortress]] -> Names, Jobs
+			- [[euro-truck]] -> Name
+			- [[Final Fantasy XII]] -> Jobs
+			- [[Kingdom and Castles]] -> Seeds, Names
+			- [[rimworld]] -> names, yandere-trait
+			- [[sims4]] -> dlc
+			- [[stellaris]] -> name federation
+			- [[Timberborn]]
+		- Online
+			- [[Online Daily Reset Time]]
+			- [[Honkai Impact]] -> Alleysyan Realm buffs unlock
 - Personal
 	- [[Email Account Guideline]]
 	- [[Tags Management]]
