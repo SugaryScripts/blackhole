@@ -5,6 +5,7 @@ url:: [Pamac - Manjaro](https://wiki.manjaro.org/index.php/Pamac)
 Other
 - [[Pamac Dark Mode]]
 - [[Invalid or corrupted package error]]
+- [[flatpak]]
 
 ## Updating the System
 
