@@ -63,3 +63,4 @@ These are maps to launch your `efforts`. Where would you like to go?
 - [ ] keterangan usaha (non bri)
 	- [ ] Pengisian nama desa … kecamatan .. kabupaten … dibuat manual saja supaya tidak doble saat penginputan di surat keterangan usaha.
 	- [ ] Point keterangannya dibuat tanda “-“ saja.
+
