@@ -13,20 +13,33 @@ tag:: #map #vc/git
 - Basic
 	- [[VC]] how to use virtual control
 - Git Client
-	- Gittyup 📌 ![[Gittyup.png]]
-	- Git Cola ![[Git Cola.png]]
+	- Gittyup 📌 
+		- Preview
+			- ![[Gittyup.png]]
+			- 
+		- ➖ **no emoticon**, looks like it use different font
+	
+	- Git Fiend 
+		- Preview
+			- ![[GitFiend.png]]
+			- 
+		- ➕ Damn clean & smooth
+		- ➕ Emoticon, History, View changes
+
+
+	- Gitnuro 
+		- Preview
+			- ![[Gitnuro.png]]
+			- 
+		- + Looks Like Kraken
+		- + There is **sub module**
+		- - **No emoticon**
+	- Git Cola 
+		- Preview
+			- ![[Git Cola.png]]
+			- 
 		- ➕ There is a **sub module** tab
 		- ➕ lightweight
 		- ➖ Browse **history** linearly without **tree**
 		- ➖ Light mode only
 		- ➖ No emoticon 😦
-	
-	- Git Fiend ![[GitFiend.png]]
-		- + Damn clean & smooth
-
-
-	- Gitnuro ![[Gitnuro.png]]
-		- + Looks Like Kraken
-		- + There is **sub module**
-		- - **No emoticon**
-
