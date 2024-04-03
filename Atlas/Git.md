@@ -16,7 +16,7 @@ tag:: #map #vc/git
 	- Gittyup 📌 (GitAhead fork)
 		- Preview
 			- ![[Gittyup.png]]
-			- 
+		- ➕ Sub module, History-tree directory, View changes
 		- ➖ **no emoticon**, looks like it use different font
 	
 	- Git Fiend 
@@ -25,6 +25,7 @@ tag:: #map #vc/git
 			- 
 		- ➕ Damn clean & smooth
 		- ➕ Emoticon, History, View changes
+		- ➖ No sub module
 
 
 	- Gitnuro 
