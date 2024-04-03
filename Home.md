@@ -5,7 +5,7 @@ These are maps to launch your `efforts`. Where would you like to go?
 
 
 
-
+[[Reinstall Linux]]
 
 - Dev World
 	- [[Jetbrain License]]
