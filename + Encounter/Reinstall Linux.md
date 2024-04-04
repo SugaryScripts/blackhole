@@ -15,6 +15,7 @@ sudo mount -t ntfs /dev/sda3 ~/Documents/mnt
 	- **ssh**
 	- Export Browser tabs - history - bookmaks (tab url into notes?)
 	- History zsh
+	- video screenshots, swr plugins
 
 ssh
 ```
