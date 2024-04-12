@@ -23,6 +23,7 @@ ln -sf /usr/lib/ssh/x11-ssh-askpass /usr/lib/ssh/ssh-askpass
 
 ###### Reset kwallet
 Delete `/home/fryctze/.local/share/kwalletd`
+
 ##### Seahorse
 Condition case at the time: x11-ssh-askpass is not installed yet [^ln]
 ```sh
