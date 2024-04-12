@@ -1,9 +1,9 @@
-up:: [[Terminal]]
+up:: [[Linux]]
 url:: [Use Ln Command To Create Symbolic Links In Linux](https://www.redswitches.com/blog/symbolic-link-linux/#:~:text=The%20ln%20command%20stands%20for,and%20symbolic%20links%20in%20Linux.&text=The%20ln%20command%20creates%20the,to%20overwrite%20an%20existing%20file.)
 
 ## Summarize
-The default are hard link
-Soft link || Dynamic Relative path
+The default are hard link (without `-s` )
+Soft link OR Dynamic Relative path
 ```sh
 ln -s $source $fullpath_name
 ln -sf $source $link_name

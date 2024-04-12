@@ -1,4 +1,6 @@
 #### Summary
+`pamac install flatpak libpamac-flatpak-plugin`
+
 ```sh
 flatpak list
 flatpak search vlc

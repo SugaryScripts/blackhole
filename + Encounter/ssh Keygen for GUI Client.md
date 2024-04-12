@@ -1,5 +1,5 @@
 tags:: #vc/git 
-up:: [[Terminal]] [[Git]]
+up:: [[Linux]] [[Atlas/Git]]
 
 ```sh
 which ssh-askpass

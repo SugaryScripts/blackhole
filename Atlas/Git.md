@@ -2,6 +2,7 @@ tag:: #map #vc/git
 
 🚧🌏🍽️
 
+- Git Commands
 - Commit Guide Helper
 	- [[Emoji Git]]
 	- [[Guide Git Emo Commit slashbin]]

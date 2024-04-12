@@ -77,3 +77,29 @@ pamac search gitkraken
 The `-Ss` flag tells pacman to search for packages whose names **start** with the specified string.
 
 
+# Enable AUR via CLI
+url:: [Enable AUR using command-line - Support / AUR - Manjaro Linux Forum](https://forum.manjaro.org/t/enable-aur-using-command-line/79107/2)
+
+Enable
+```sh
+sudo sed -Ei '/EnableAUR/s/^#//' /etc/pamac.conf
+```
+
+Disable
+```sh
+sudo sed -Ei '/EnableAUR/s/^/#/' /etc/pamac.conf
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+

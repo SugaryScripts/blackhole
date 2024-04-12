@@ -2,5 +2,6 @@
   "accentColor": "#e64c4c",
   "cssTheme": "Things",
   "theme": "obsidian",
-  "enabledCssSnippets": []
+  "enabledCssSnippets": [],
+  "baseFontSize": 18
 }

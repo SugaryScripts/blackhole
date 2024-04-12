@@ -1,4 +1,4 @@
-up:: [[Home]]
+up:: [[Home]] [[Linux]]
 
 Frequent Commands
 ```sh
@@ -16,6 +16,9 @@ sudo mount -t ntfs /dev/sda3 ~/Documents/mnt
 	- Export Browser tabs - history - bookmaks (tab url into notes?)
 	- History zsh
 	- video screenshots, swr plugins
+	- Databases Development
+	- Ignored Git Repo
+		- Obsidian Git settings json
 
 ssh
 ```
@@ -56,4 +59,29 @@ drwx------ 50 fryctze fryctze 4096 Apr  4 03:06 ..
 - New
 	- fryctze AI-chan
 	- pass on next warden
-	- 
+
+
+# Starting New
+
+### Fonts
+```sh
+adobe-source-han-sans- cn | jp | kr | -fonts , ttf-joypixels
+
+sudo pacman -S adobe-source-han-sans- cn-fonts adobe-source-han-sans-jp-fonts adobe-source-han-sans-kr-fonts ttf-joypixels
+```
+
+### Dates
+```sh
+timedatectl status
+timedatectl set-ntp true
+timedatectl list-timezones
+timedatectl set-timezone Asia/Jakarta
+```
+
+### Java
+```sh
+archlinux-java set $java_env
+```
+
+
+### Node JS

@@ -5,17 +5,20 @@ These are maps to launch your `efforts`. Where would you like to go?
 
 
 
-[[Reinstall Linux]]
 
-- Dev World
+- Apps
+	- [[Tridactyl]]
+	- [[Vim]]
+- Dev World ☕
 	- [[Jetbrain License]]
-	- [[Git]]
+	- [[Atlas/Git]]
 	- [[Python]]
 	- [[Deploy Laravel on Jagoan Hosting]]
-- Linux
-	- [[Terminal]]
+- [[Linux]]
+	- [[Improve Productivity by Getting used to Terminal]]
 	- [[pamac]]
 	- [[Reset Manjaro Password]]
+	- [[Reinstall Linux]]
 - Entertainment
 	- [[movie]]
 	- [[music-manage]]
@@ -43,8 +46,15 @@ These are maps to launch your `efforts`. Where would you like to go?
 	- [[Sorting By Character - Last Char of the list]]
 
 
+```bash
+xrdb -m ~/.Xresources
+tree --gitignore ~/Project
+```
 
 # todo
+
+
+
 - [x] **All letter** Jika yang bertanda tangan **sekretaris desa** maka kalimatnya menjadi “yang bertanda tangan di bawah ini atas nama Kepala Desa Selorejo …….. “ **berlaku untuk semua jenis surat.**
 	- [x] keterangan usaha2 (non-bri)
 	- [x] keterangan bri
@@ -64,3 +74,6 @@ These are maps to launch your `efforts`. Where would you like to go?
 	- [ ] Pengisian nama desa … kecamatan .. kabupaten … dibuat manual saja supaya tidak doble saat penginputan di surat keterangan usaha.
 	- [ ] Point keterangannya dibuat tanda “-“ saja.
 
+> [!NOTE]+ Example Notes on notes teehee
+> Just a bunch of word
+> - List are like this

@@ -1,6 +1,5 @@
 [
   "obsidian-git",
-  "obsidian-wakatime",
   "waka_time_box",
   "obsidian-custom-frames",
   "obsidian-auto-link-title",
@@ -10,5 +9,7 @@
   "recent-files-obsidian",
   "obsidian-image-toolkit",
   "emoji-autocomplete",
-  "obsidian-image-gallery"
+  "obsidian-image-gallery",
+  "obsidian-wakatime",
+  "link-favicon"
 ]

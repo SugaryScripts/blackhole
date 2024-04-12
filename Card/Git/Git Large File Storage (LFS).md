@@ -34,6 +34,18 @@ git lfs track "*.jpg" "*.png"
 - **Effect:** Minimizes the storage used by replacing the actual large files with lightweight pointers. It doesn't delete the files; it only replaces their content in the working directory.
 - **Usage:** `git lfs checkout`
 
+## Fetch
+- **Purpose:** Download actual LFS files
+- **Effect:** Storage increase, the files can be accessed
+- **Usage**: `git lfs fetch`
+
+## Disable LFS File Downloading
+```bash
+git lfs install --skip-smudge
+```
+- Effect: Clone repo without download the LFS Files (change to pointer only)
+- [[#Fetch]] then [[#Checkout (replace to pointer)]] to download the actual files
+
 ## **Verify** Git LFS Status:
 Confirm that Git LFS is tracking the files or not
 input:
