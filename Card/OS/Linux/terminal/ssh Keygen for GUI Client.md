@@ -1,7 +1,7 @@
 tags:: #vc/git 
 up:: [[Linux]] [[Atlas/Git]]
 
-##### Plasma
+#### Plasma
 [^ln]
 ```sh
 which ssh-askpass
@@ -21,10 +21,10 @@ rm /usr/lib/ssh/ssh-askpass
 ln -sf /usr/lib/ssh/x11-ssh-askpass /usr/lib/ssh/ssh-askpass
 ```
 
-###### Reset kwallet
+##### Reset kwallet
 Delete `/home/fryctze/.local/share/kwalletd`
 
-##### Seahorse
+#### Seahorse
 Condition case at the time: x11-ssh-askpass is not installed yet [^ln]
 ```sh
 ls /usr/lib/seahorse
