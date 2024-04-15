@@ -1,3 +1,7 @@
+url:: [GitHub - tj/n: Node version management](https://github.com/tj/n)
+[GitHub - mklement0/n-install: Installs n, the Node.js version manager, without needing to install Node.js first: curl -L https://bit.ly/n-install | bash](https://github.com/mklement0/n-install)
+
+
 # How to use
 ```sh
 n lts
@@ -19,3 +23,9 @@ export PATH="$HOME/.config/composer/vendor/bin:$PATH"
 ```sh
 curl -L https://bit.ly/n-install | SHELL=zsh bash
 ```
+
+3. uninstall
+```sh
+n-uninstall
+```
+

@@ -1,3 +1,4 @@
+up:: [[Git]] [[Linux]]
 url:: [ohmyzsh/plugins/git/README.md at master · ohmyzsh/ohmyzsh · GitHub](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/git/README.md)
 
 ## Most Used

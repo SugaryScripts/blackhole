@@ -13,7 +13,7 @@ rm /usr/lib/ssh/ssh-askpass
 ln -sf /usr/bin/ksshaskpass /usr/lib/ssh/ssh-askpass
 ```
 
-pass kwallet -> blowfish = root pass
+pass kwallet -> blowfish | gpg = root pass
 
 revert
 ```sh

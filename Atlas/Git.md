@@ -2,7 +2,9 @@ tag:: #map #vc/git
 
 🚧🌏🍽️
 
-- Git Commands
+- ZSH
+	- [[Git Command]]
+	- [[zsh git]]
 - Commit Guide Helper
 	- [[Emoji Git]]
 	- [[Guide Git Emo Commit slashbin]]

@@ -1,3 +1,7 @@
+###### Install
+```sh
+npm i -g yarn
+```
 ###### global
 ```sh
 yarn global add
