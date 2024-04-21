@@ -91,7 +91,11 @@ Specific in manjaro
 pacman -Ss fzf
 pacman -S fzf
 ```
-
+Add these to .zshrc
+```sh
+source /usr/share/fzf/key-bindings.zsh
+source /usr/share/fzf/completion.zsh
+```
 
 ##### Bat
 url:: [GitHub - sharkdp/bat: A cat(1) clone with wings.](https://github.com/sharkdp/bat)

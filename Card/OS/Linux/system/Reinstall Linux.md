@@ -37,25 +37,6 @@ drwx------ 50 fryctze fryctze 4096 Apr  4 03:06 ..
 ╭─    ~/.ssh ▓▒░··································
 ```
 
-
- ██████████████████  ████████     fryctze@AI-chan
- ██████████████████  ████████     OS: Manjaro 23.1.4 Vulcan
- ██████████████████  ████████     Kernel: x86_64 Linux 6.5.13-7-MANJARO
- ██████████████████  ████████     Uptime: 59m
- ████████            ████████     Packages: 1334
- ████████  ████████  ████████     Shell: zsh 5.9
- ████████  ████████  ████████     Resolution: No X Server
- ████████  ████████  ████████     WM: i3
- ████████  ████████  ████████     GTK Theme: Matcha-dark-azul [GTK2/3]
- ████████  ████████  ████████     Icon Theme: Papirus-Adapta-Maia
- ████████  ████████  ████████     Font: Noto Sans 10
- ████████  ████████  ████████     Disk: 714G / 915G (80%)
- ████████  ████████  ████████     CPU: AMD A4-3330MX APU with Radeon HD Graphics @ 2x 2.3GHz
- ████████  ████████  ████████     GPU: AMD SUMO2 (DRM 2.50.0 / 6.5.13-7-MANJARO, LLVM 16.0.6)
-                                  RAM: 2562MiB / 7404MiB
-
-
-
 - New
 	- fryctze AI-chan
 	- pass on next warden
@@ -85,3 +66,12 @@ archlinux-java set $java_env
 
 
 ### Node JS
+[[N]]
+
+
+## Minor Troubleshoot
+### Error install_pulse
+Remove pa-applet on `/usr/bin/install_pulse` and on `.i3/config`
+```sh
+sudo pacman -Sy manjaro-pulse pavucontrol || exit 1
+```

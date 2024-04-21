@@ -79,3 +79,12 @@ config/app.php
 |  
 */'faker_locale' => 'id_ID',
 ```
+
+
+# Trouble shoots
+## Maximum execution time of 30 seconds exceeded
+```sh
+sudo vim /etc/php/php.ini
+/execution to 360
+lamp restart
+```

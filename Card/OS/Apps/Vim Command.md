@@ -1,4 +1,4 @@
-similar:: [[Vim]]
+similar:: [[Vim]] || [[Vim Tutorial]]
 
 # Case
 ## Write as Root / Sudo

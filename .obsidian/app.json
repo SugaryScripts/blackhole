@@ -4,5 +4,6 @@
   "newFileLocation": "folder",
   "showUnsupportedFiles": true,
   "promptDelete": false,
-  "newFileFolderPath": "+ Encounter"
+  "newFileFolderPath": "+ Encounter",
+  "vimMode": true
 }

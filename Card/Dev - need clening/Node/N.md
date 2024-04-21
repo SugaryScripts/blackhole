@@ -29,3 +29,15 @@ curl -L https://bit.ly/n-install | SHELL=zsh bash
 n-uninstall
 ```
 
+# Change default location
+NPM
+```sh
+npm --global cache verify
+npm config set cache ~/.local/.node/.npm --global
+```
+YARN
+```sh
+yarn global dir
+yarn config set prefix ~/.local/.root/.yarn
+yarn global bin
+```

@@ -2,8 +2,11 @@ up:: [[Home]]
 tags:: #map 
 
 # Fundamental
-- [[pamac]]
+- [[Pamac - Package Manager Manjaro]]
+- [[Fonts - Managing Linux Fonts]]
 - [[Ricing]]
+	- [[Polybar]]
+	- [[Pywal]]
 - [[Reinstall Linux]]
 	- [[Install Lamp Manjaro]]
 

@@ -1,7 +1,9 @@
 up:: [[Home]]
-similar:: [[Vim Command]]
+similar:: [[Vim Command]] || [[Vim Tutorial]]
+
+### Beginner
 
 
-
-##### helper
+### helper
 - [Vim Cheat Sheet](https://vim.rtorr.com/)
+- shell `vimtutor`

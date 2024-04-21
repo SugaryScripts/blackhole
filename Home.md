@@ -16,7 +16,7 @@ These are maps to launch your `efforts`. Where would you like to go?
 	- [[Deploy Laravel on Jagoan Hosting]]
 - [[Linux]]
 	- [[Improve Productivity by Getting used to Terminal]]
-	- [[pamac]]
+	- [[Pamac - Package Manager Manjaro]]
 	- [[Reset Manjaro Password]]
 	- [[Reinstall Linux]]
 - Entertainment
@@ -65,14 +65,16 @@ tree --gitignore ~/Project
 - [ ] surat keterangan on *section* **keterangan:**
 	- [ ] Line spacing dibuat 1,5
 	- [ ] Pointnya dibuat angka saja (1. 2. ….. dst)
-- [ ] surat domisili
-	- [ ] - Untuk kalimat “diterangkan pula bahwa orang tersebut di atas benar-benar berdomisili di …….” dibuat opsi saja yaitu :
+- [x] surat domisili
+	- [x] - Untuk kalimat “diterangkan pula bahwa orang tersebut di atas benar-benar berdomisili di …….” dibuat opsi saja yaitu :
 	1. benar-benar berdomisili
 	2. benar-benar berdomisili sementara
-	- [ ] Pengisian nama desa … kecamatan .. kabupaten … provinsi …. dibuat manual saja. Seharusnya saat input alamat di kolom (gambar dibawah ini) juga ada kolom untuk pengisisan nama desa … kecamatan .. kabupaten … provinsinya agar tidak dobel saat penginputan.
-- [ ] keterangan usaha (non bri)
-	- [ ] Pengisian nama desa … kecamatan .. kabupaten … dibuat manual saja supaya tidak doble saat penginputan di surat keterangan usaha.
-	- [ ] Point keterangannya dibuat tanda “-“ saja.
+	- [x] Pengisian nama desa … kecamatan .. kabupaten … provinsi …. dibuat manual saja. Seharusnya saat input alamat di kolom (gambar dibawah ini) juga ada kolom untuk pengisisan nama desa … kecamatan .. kabupaten … provinsinya agar tidak dobel saat penginputan.
+- [x] Surat Kematian Line spacings
+- [x] keterangan usaha (non bri)
+	- [x] Pengisian nama desa … kecamatan .. kabupaten … dibuat manual saja supaya tidak doble saat penginputan di surat keterangan usaha.
+	- [x] Point keterangannya dibuat tanda “-“ saja.
+	- [x] TTD kepotong di halaman baru
 
 > [!NOTE]+ Example Notes on notes teehee
 > Just a bunch of word
