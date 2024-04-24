@@ -31,7 +31,7 @@ $gcasm <message>  $gcans!
 $gp= git push
 $gpf!= git push --force
 $gpsup= git push --set-upstream origin $(git_current_branch)
-
+$ggp= git push origin $(current_branch)
 
 ```
 

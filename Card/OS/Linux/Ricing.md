@@ -101,7 +101,7 @@ source /usr/share/fzf/completion.zsh
 ##### Bat
 url:: [GitHub - sharkdp/bat: A cat(1) clone with wings.](https://github.com/sharkdp/bat)
 readme:: [[bat readme]]
-usage:: [[BAT]]
+
 
 ##### The fuck
 url:: [GitHub - nvbn/thefuck: Magnificent app which corrects your previous console command.](https://github.com/nvbn/thefuck?tab=readme-ov-file)

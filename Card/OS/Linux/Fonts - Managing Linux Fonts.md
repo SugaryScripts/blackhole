@@ -21,3 +21,5 @@ Iosevka
 [Iosevka](https://typeof.net/Iosevka/)
 - Icon
 	- ttf-joypixels
+	- ttf/otf-font-awesome
+	- nerd-fonts-git (Large Fonts Patch Package Pack)
