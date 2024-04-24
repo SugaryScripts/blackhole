@@ -1,8 +1,8 @@
 tags:: 
-time:: 00:30
+time:: 00:16
 
 ```wakatime
-Markdown     21 mins     ████████████████████     100 %
+Markdown     0 secs     ░░░░░░░░░░░░░░░░░░░░     0 %
 ```
 
 

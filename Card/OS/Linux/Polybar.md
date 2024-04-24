@@ -42,6 +42,6 @@ echo "Bars launched..."
 exec_always ~/.config/polybar/launch.sh
 ```
 
-# Customization
+# Config Customization
 [Configuration · polybar/polybar Wiki · GitHub](https://github.com/polybar/polybar/wiki/Configuration#bar-settings)
 

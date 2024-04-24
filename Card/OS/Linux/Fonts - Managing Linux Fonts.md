@@ -7,6 +7,11 @@ fc-list | grep Arial
 ls -al /usr/share/fonts
 ```
 
+Refresh font
+```sh
+fc-cache -f -v
+```
+
 #### List fonts
 - Lang
 	- adobe-source-han-sans-jp-fonts

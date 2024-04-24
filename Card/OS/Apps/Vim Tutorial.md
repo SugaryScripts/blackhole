@@ -10,7 +10,7 @@ similar:: [[Vim]] || [[Vim Command]]
 - Lesson 2
 	- type `dw` to delete a word
 	- `d$` to delete to the end of the line
-	- Operator and Motion -> `d motion` -> `d` is delete operator
+	- Operator and Motion -> `d[motion]` -> `d` is delete operator
 	  Short list of motion
 		- `w` = until the start of the **next word**
 		- `e` = to the end of the **current word**

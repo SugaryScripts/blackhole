@@ -1,3 +1,4 @@
+up:: [[Linux]]
 ## Terminal
 
 Preparation
@@ -112,3 +113,6 @@ url:: [GitHub - nvbn/thefuck: Magnificent app which corrects your previous conso
 [Set Up and Beautify ZSH in Manjaro Linux | by Rumaisa Niazi | Medium](https://rumaisaniazi008.medium.com/set-up-and-beautify-zsh-in-manjaro-linux-10c7ae87db56)
 [Top Popular ZSH Plugins on GitHub (2023)](https://safjan.com/top-popular-zsh-plugins-on-github-2023/)
 [10 Zsh Tips & Tricks: Configuration, Customization & Usage — SitePoint](https://www.sitepoint.com/zsh-tips-tricks/)
+
+### I3 Rice
+[The Ultimate Guide to i3 Customization in Linux](https://itsfoss.com/i3-customization/)

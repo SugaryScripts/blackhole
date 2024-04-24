@@ -19,6 +19,7 @@ tags:: #map
 - [[ln - Symbolic Links]]
 - [[rm & rmdir]]
 - [[tree]]
+- [[xprop - (i3-get-window-criteria)]]
 
 - Logout
 ```sh
