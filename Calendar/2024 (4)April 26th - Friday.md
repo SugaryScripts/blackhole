@@ -1,0 +1,17 @@
+tags:: 
+time:: 00:52
+
+```wakatime
+Markdown     23 secs     ████████████████████     100 %
+PHP          0 secs      ░░░░░░░░░░░░░░░░░░░░       0 %
+```
+
+
+# To do
+- [ ] Create new project TA
+
+# Accomplished Today (Other than todo)
+- 
+
+# Reflection for Tomorrow
+- 
