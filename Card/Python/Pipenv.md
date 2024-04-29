@@ -2,7 +2,12 @@ up:: [[Python|Python]]
 similar:: [[Pipenv vs virtualenv vs conda#Pipenv]]
 
 # How
-- 
+## Setup pipenv as Manjaro User
+Can be achieved without **pip** on system
+```sh
+sudo pacman -S python python-pipenv
+```
+
 # Commands
 ## Summary
 | ref                                        | command                                    | do                         |
@@ -20,6 +25,10 @@ similar:: [[Pipenv vs virtualenv vs conda#Pipenv]]
 pipenv install
 ```
 This command initializes a new Pipenv project in the current directory. It creates a `Pipfile` and `Pipfile.lock` to manage project dependencies.
+
+**When to use**:
+- When create new project without choosing pipenv
+- Project not yet set up with a virtual environment
 
 **Explanation**:
 - `pipenv` is the command-line tool for Pipenv.
@@ -52,6 +61,13 @@ Explanation:
 - Pipenv creates a virtual environment to isolate project dependencies and avoid conflicts with system-wide packages.
 - Activating the environment allows you to use the installed packages within your project.
 
+### Uninstall Pipenv from Project
+1. `pipenv --rm`
+2. Remove these
+- `Pipfile` 
+- `Pipfile.lock`
+
+
 ## Package
 ### Installing Dependencies
 ```
@@ -76,13 +92,6 @@ Result (Optional):
 PACKAGE VERSION  DIR LOCATION
 requests  2.30.2    /home/user/my_project/venv/lib/python3.9/site-packages
 ```
-
-
-### Uninstall Pipenv from Project
-1. `pipenv --rm`
-2. Remove these
-- `Pipfile` 
-- `Pipfile.lock`
 
 ### Uninstall package
 - in shell

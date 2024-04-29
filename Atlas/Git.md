@@ -4,7 +4,7 @@ tag:: #map #vc/git
 
 - ZSH
 	- [[Git Command]]
-	- [[zsh git]]
+	- [[Git Alias - ZSH]]
 - Commit Guide Helper
 	- [[Emoji Git]]
 	- [[Guide Git Emo Commit slashbin]]

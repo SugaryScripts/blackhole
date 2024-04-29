@@ -22,7 +22,11 @@ git lfs track "*.jpg" "*.png"
 ```
 .gitattributes will be created
 
-
+#### After clone
+```sh
+git lfs fetch
+git lfs checkout
+```
 # Other Command
 ## Prune (remove local copies)
 - **Purpose:** Removes the local copies of Git LFS objects (large files) from the working directory.

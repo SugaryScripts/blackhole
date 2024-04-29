@@ -1,3 +1,5 @@
+up:: [[Git]]
+
 - [[#Advance|Advance]]
 	- [[#Advance#Commit & add|Commit & add]]
 	- [[#Advance#Git aliases|Git aliases]]
@@ -8,7 +10,7 @@
 	- [[#Branch#Merge a Branch|Merge a Branch]]
 	- [[#Branch#Delete branch|Delete branch]]
 
-##### Advance
+#### Advance
 ###### Commit & add
 ```sh
 git commit -am "Easy add & commit"
@@ -24,13 +26,40 @@ git add .
 git commit --amend -m "Nice!"
 git commit --amend --no-edit
 ```
-##### Undo files
+#### Undo files
+url:: [Git Remove Last Commit – How to Undo a Commit in Git](https://www.freecodecamp.org/news/git-remove-last-commit-how-to-undo-a-commit-in-git/#unstaged)
+
 ```sh
 git checkout -- file
 
 ```
 
-##### Branch
+##### Discard changes that **not** already **staged**
+condition:
+- unstaged changes on README.md
+```sh
+git restore README.md
+```
+
+##### Discard changes that already **staged**
+```sh
+git restore --staged README.md
+git restore README.md
+```
+Unstaged first, then discard it with the same command and no option
+
+##### Undo committed changes
+```sh
+git reset --soft HEAD~
+git restore --staged README.md
+git restore README.md
+```
+
+##### Revert to specific commit
+```sh
+git revert cc3bbf7 --no-edit
+```
+#### Branch
 
 ###### List Branch
 - local

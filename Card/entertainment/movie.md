@@ -1,5 +1,6 @@
 accel
 	10
+Naruto
 
 https://149.56.24.226/star-wars-episode-phantom-menace-1999/
 -   Episode I: The Phantom Menace (1999)

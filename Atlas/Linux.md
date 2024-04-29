@@ -33,7 +33,7 @@ sudo killall Xorg
 
 # ZSH Plugins
 url:: [Fetching Title#ddog](https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins)
-- [[zsh git]]
+- [[Git Alias - ZSH]]
 - 
 
 

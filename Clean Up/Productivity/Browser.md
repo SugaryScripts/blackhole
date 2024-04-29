@@ -1,1 +1,0 @@
-https://cheatography.com/goumlechat/cheat-sheets/tridactyl/

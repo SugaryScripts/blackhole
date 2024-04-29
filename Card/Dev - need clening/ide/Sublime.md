@@ -1,4 +1,0 @@
-
-- Package Control
-	- INI
-	- dotsyntax

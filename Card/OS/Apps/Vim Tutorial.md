@@ -27,3 +27,5 @@ similar:: [[Vim]] || [[Vim Command]]
 	- `C-R` = redo
 - Lesson 4
 	- `/` = search -> `n` next, `N` previous -> `:set hlsearch` to highlight it
+- Lesson 6
+	- `y` to copy/yank & `p` to paste

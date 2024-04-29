@@ -11,6 +11,7 @@ These are maps to launch your `efforts`. Where would you like to go?
 	- [[Tridactyl]]
 	- [[Vim]]
 	- [[Termux]]
+	- [[Sublime]]
 - Dev World ☕
 	- [[Jetbrain License]]
 	- [[Atlas/Git]]
@@ -25,6 +26,7 @@ These are maps to launch your `efforts`. Where would you like to go?
 	- [[movie]]
 	- [[music-manage]]
 	- [[ps2]]
+	- [[Online Daily Reset Time]]
 	- Games
 		- Offline
 			- [[Dwarf Fortress]] -> Names, Jobs
