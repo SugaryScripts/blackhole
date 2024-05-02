@@ -12,5 +12,6 @@
   "obsidian-image-gallery",
   "obsidian-wakatime",
   "link-favicon",
-  "cm-editor-syntax-highlight-obsidian"
+  "cm-editor-syntax-highlight-obsidian",
+  "vim-yank-highlight"
 ]

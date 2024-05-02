@@ -2,7 +2,7 @@ tags::
 time:: 02:47
 
 ```wakatime
-Markdown     15 mins     ████████████████████     100 %
+Markdown     1 hr 19 mins     ████████████████████     100 %
 ```
 
 
@@ -10,7 +10,7 @@ Markdown     15 mins     ██████████████████�
 - [ ] Whats App Business able to chat and reply automatically
 
 # Accomplished Today (Other than todo)
-- 
+- Add music and some tags
 
 # Reflection for Tomorrow
 - 

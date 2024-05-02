@@ -6,6 +6,7 @@ These are maps to launch your `efforts`. Where would you like to go?
 
 
 
+[[+ Research]]
 
 - Apps
 	- [[Tridactyl]]
@@ -40,6 +41,7 @@ These are maps to launch your `efforts`. Where would you like to go?
 		- Online
 			- [[Online Daily Reset Time]]
 			- [[Honkai Impact]] -> Alleysyan Realm buffs unlock
+			- 
 - Personal
 	- [[Email Account Guideline]]
 	- [[Tags Management]]

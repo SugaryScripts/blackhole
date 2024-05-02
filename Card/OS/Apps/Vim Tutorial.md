@@ -28,4 +28,6 @@ similar:: [[Vim]] || [[Vim Command]]
 - Lesson 4
 	- `/` = search -> `n` next, `N` previous -> `:set hlsearch` to highlight it
 - Lesson 6
-	- `y` to copy/yank & `p` to paste
+	- `y` to copy/yank & `p` to paste -> `y[motion]`
+	- 
+	
