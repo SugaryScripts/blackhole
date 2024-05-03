@@ -1,3 +1,13 @@
+# Main
+````img-gallery
+path: Extra/Image/ta/0001 Whatsapp API/002 Business App/
+type: horizontal
+height: 100
+gutter: 8
+radius: 8
+sort: asc
+````
+
 # Read More
 ## App Type
 ## Consumer
@@ -42,7 +52,7 @@ The **Consumer** app type is for apps that integrate consumer-related products l
 
 Consumer apps are subject to an additional layer of Graph API authorization called [access levels](https://developers.facebook.com/docs/graph-api/overview/access-levels).
 
-[](https://developers.facebook.com/docs/development/create-an-app/app-dashboard/app-types#)
+[App Types](https://developers.facebook.com/docs/development/create-an-app/app-dashboard/app-types#)
 
 ## Business
 

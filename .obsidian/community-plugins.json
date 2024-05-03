@@ -13,5 +13,7 @@
   "obsidian-wakatime",
   "link-favicon",
   "cm-editor-syntax-highlight-obsidian",
-  "vim-yank-highlight"
+  "vim-yank-highlight",
+  "nl-syntax-highlighting",
+  "highlightr-plugin"
 ]

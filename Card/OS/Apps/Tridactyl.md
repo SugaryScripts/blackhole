@@ -1,4 +1,17 @@
 up:: [[Home]]
+# Case
+#### Ignore on specific domain
+url:: [disable tridactyl on some sites · Issue #587 · tridactyl/tridactyl · GitHub](https://github.com/tridactyl/tridactyl/issues/587)
+Ignore a site
+```sh
+autocmd DocStart YOUR_DOMAIN mode ignore
+```
+Enable it back
+```sh
+autocmddelete DocStart YOUR_DOMAIN mode ignore
+```
+typing.com
+youtube.com
 # Cheatsheet
 C = Ctrl
 

@@ -9,7 +9,7 @@ Height : 595
 
 
 ````img-gallery
-path: Extra/Image/ta/meta app
+path: Extra/Image/ta/0001 Whatsapp API/002 Business App/
 type: horizontal
 height: 100
 gutter: 8
