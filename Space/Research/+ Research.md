@@ -22,4 +22,18 @@ url:: [Get Started - WhatsApp Business Management API](https://developers.facebo
 ## Creating Meta Business Account Portfolio
 
 
-[Sending Messages with WhatsApp in Your Python Applications](https://developers.facebook.com/blog/post/2022/10/24/sending-messages-with-whatsapp-in-your-python-applications/)
+Flask
+[Sending Messages with WhatsApp in Your Python Applications](https://developers.facebook.com/blog/post/2022/10/24/sending-messages-with-whatsapp-in-your-python-applications/)a
+
+Reference of free deploy flask
+[Hosting a Flask App for free? : r/learnpython](https://www.reddit.com/r/learnpython/comments/13x8rbg/hosting_a_flask_app_for_free/)
+
+
+
+##### pywhatkit
+[Introduction to pywhatkit module - GeeksforGeeks](https://www.geeksforgeeks.org/introduction-to-pywhatkit-module/)
+
+```sh
+pacman -S tk
+pipenv install pywhatkit
+```
