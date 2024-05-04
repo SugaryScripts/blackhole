@@ -39,6 +39,8 @@ $ggp= git push origin $(current_branch)
 ```sh
 $gb
 $gba= git branch --all
+
+git checkout -t origin/dev
 ```
 ### Clone
 ```sh
@@ -241,7 +243,7 @@ plugins=(... git)
 | `gsd`                  | `git svn dcommit`                                                                                                               |
 | `git-svn-dcommit-push` | `git svn dcommit && git push github $(git_main_branch):svntrunk`                                                                |
 | `gsr`                  | `git svn rebase`                                                                                                                |
-| `gsw`                  | `git switch`                                                                                                                    |
+| `gsw`                  | `git <br>                                                                                                                       |
 | `gswc`                 | `git switch -c`                                                                                                                 |
 | `gswd`                 | `git switch $(git_develop_branch)`                                                                                              |
 | `gswm`                 | `git switch $(git_main_branch)`                                                                                                 |
