@@ -6,7 +6,7 @@ Comparison:
 - [[Pipenv vs virtualenv vs conda]]
 - [[comparison pipenv virtualenv conda - Gemini]]
 
-- 
+- [[Pyenv]]
 - How to use it
 	- [[Pipenv]]
 	- [[Virtualenv]]
@@ -36,3 +36,5 @@ pip freeze
 
 
 
+# Troubleshoot
+## illegal hardware instruction (core dumped)

@@ -67,6 +67,13 @@ Explanation:
 - `Pipfile` 
 - `Pipfile.lock`
 
+### Pipenv Pyenv
+[[Pyenv]]
+```sh
+pyenv local 3.8.5
+pipenv install --python 3.8.5
+pipenv --rm
+```
 
 ## Package
 ### Installing Dependencies
@@ -108,10 +115,12 @@ requests  2.30.2    /home/user/my_project/venv/lib/python3.9/site-packages
 		- **`--leave-optional` flag:** You can use the `--leave-optional` flag to instruct Pipenv to keep optional dependencies in the `Pipfile` even if they are no longer required by the remaining installed packages.
 		  `pipenv uninstall <package_name> --leave-optional`
 
+# Case
+
 
 # Troubleshoot
 
-# Warning
+## Warning
 ## Ignoring invalid distribution ~...
 **Trigger**
 `pip list` || `pipenv clean`
