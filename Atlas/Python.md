@@ -6,6 +6,7 @@ Comparison:
 - [[Pipenv vs virtualenv vs conda]]
 - [[comparison pipenv virtualenv conda - Gemini]]
 
+- 
 - How to use it
 	- [[Pipenv]]
 	- [[Virtualenv]]
