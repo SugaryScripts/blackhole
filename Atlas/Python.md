@@ -38,3 +38,11 @@ pip freeze
 
 # Troubleshoot
 ## illegal hardware instruction (core dumped)
+Tried:
+["zsh: illegal hardware instruction python" when installing Tensorflow on macbook pro M1 - Stack Overflow](https://stackoverflow.com/questions/65383338/zsh-illegal-hardware-instruction-python-when-installing-tensorflow-on-macbook)
+[python - How can I properly use Pyenv and venv? - Stack Overflow](https://stackoverflow.com/questions/52731543/how-can-i-properly-use-pyenv-and-venv)
+- 3.12.2
+- 3.8.5
+- 3.7.0
+Worked:
+- 3.12.3 on windows only
