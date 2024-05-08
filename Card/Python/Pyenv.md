@@ -1,4 +1,5 @@
 #### Install
+windows:: [Home · pyenv-win/pyenv-win Wiki · GitHub](https://github.com/pyenv-win/pyenv-win/wiki)
 ```sh
 pacman -S pyenv
 echo 'export PYENV_ROOT="$HOME/.local/.pyenv"' >> ~/.zshrc

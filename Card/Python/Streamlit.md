@@ -1,4 +1,4 @@
-up:: [[Python]]
+
 
 
 ## Why should data scientists use Streamlit? 

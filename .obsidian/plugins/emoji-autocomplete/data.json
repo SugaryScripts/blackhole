@@ -4,6 +4,7 @@
   "considerHistory": true,
   "historyLimit": 25,
   "history": [
+    "ballot_box_with_check",
     "white_check_mark",
     "construction",
     "coffee",
@@ -12,7 +13,6 @@
     "heavy_plus_sign",
     "heavy_minus_sign",
     "pushpin",
-    "ballot_box_with_check",
     "frowning",
     "heavy_check_mark",
     "robot",

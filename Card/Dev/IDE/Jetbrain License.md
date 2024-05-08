@@ -39,6 +39,7 @@
 |           | Catpuccin Themes       |           |         |
 |           | Catpuccin Icons        |           |         |
 | **Misc**  | anime memes            |    ☑️     |         |
+|           | Open Gitmoji           |    ☑️     |   ☑️    |
 |           | gitmoji intellij       |           |         |
 |           | gitmoji plus           |           |         |
 # FAQ

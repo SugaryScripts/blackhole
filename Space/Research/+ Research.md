@@ -37,3 +37,7 @@ Reference of free deploy flask
 pacman -S tk
 pipenv install pywhatkit
 ```
+
+
+# Streamlit Chat ChatGPT
+[Build a basic LLM chat app - Streamlit Docs](https://docs.streamlit.io/develop/tutorials/llms/build-conversational-apps)
