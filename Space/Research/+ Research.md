@@ -41,3 +41,6 @@ pipenv install pywhatkit
 
 # Streamlit Chat ChatGPT
 [Build a basic LLM chat app - Streamlit Docs](https://docs.streamlit.io/develop/tutorials/llms/build-conversational-apps)
+- Reference other projects:
+	- [GitHub - gerardrbentley/st-openai-embeddings-connection: Streamlit Connection for querying Openai embeddings](https://github.com/gerardrbentley/st-openai-embeddings-connection)
+	- [GitHub - undo76/st-chat-message: Streamlit chat message component](https://github.com/undo76/st-chat-message)
