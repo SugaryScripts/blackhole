@@ -12,6 +12,8 @@ Comparison:
 	- [[Virtualenv]]
 	- Conda
 - [[Streamlit]]
+- HTTP
+	- 
 # Command
 ```sh
 python --version
