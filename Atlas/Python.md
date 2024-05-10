@@ -23,9 +23,11 @@ python --version
 > Manjaro comes with Python and pip by default. It's **recommended** to install Python packages using **pamac** or **pacman** for better system integration and dependency management. **Except python w/ virtual env** of course.
 
 
-## pip list
+## pip basic
 ```sh
-pip list
+pip list | grep $tada
+pip list | findstr $tada
+pip install/uninstall
 ```
 **Show**/display **list** of packages that installed using pip
 
