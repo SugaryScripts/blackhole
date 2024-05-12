@@ -2,8 +2,8 @@ tags::
 time:: 01:37
 
 ```wakatime
-Python       4 mins     █████████████▎░░░░░░     66.4 %
-Markdown     2 mins     ██████▋░░░░░░░░░░░░░     33.6 %
+Markdown     27 mins     █████████████████▏░░     85.76 %
+Python       4 mins      ██▊░░░░░░░░░░░░░░░░░     14.24 %
 ```
 
 
