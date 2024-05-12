@@ -76,3 +76,13 @@ git count-objects -vH
 ```
 - Look for the `size-pack` value to see if it has decreased after running `git lfs prune`. This value represents the packed size of the Git objects.
 
+# Untested
+```sh
+git lfs track path/to/directory/file1 
+git lfs track path/to/directory/file2
+```
+
+```ini
+*.[^.]* filter=lfs diff=lfs merge=lfs -text 
+!*.dat
+```
