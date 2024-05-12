@@ -7,6 +7,7 @@ These are maps to launch your `efforts`. Where would you like to go?
 
 
 [[+ Research]]
+[[+ Entertainment]]
 
 - Apps
 	- [[Tridactyl]]
@@ -23,25 +24,6 @@ These are maps to launch your `efforts`. Where would you like to go?
 	- [[Pamac - Package Manager Manjaro]]
 	- [[Reset Manjaro Password]]
 	- [[Reinstall Linux]]
-- Entertainment
-	- [[movie]]
-	- [[music-manage]]
-	- [[ps2]]
-	- [[Online Daily Reset Time]]
-	- Games
-		- Offline
-			- [[Dwarf Fortress]] -> Names, Jobs
-			- [[euro-truck]] -> Name
-			- [[Final Fantasy XII]] -> Jobs
-			- [[Kingdom and Castles]] -> Seeds, Names
-			- [[rimworld]] -> names, yandere-trait
-			- [[sims4]] -> dlc
-			- [[stellaris]] -> name federation
-			- [[Timberborn]]
-		- Online
-			- [[Online Daily Reset Time]]
-			- [[Honkai Impact]] -> Alleysyan Realm buffs unlock
-			- 
 - Personal
 	- [[Email Account Guideline]]
 	- [[Tags Management]]

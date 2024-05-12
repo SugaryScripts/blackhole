@@ -18,3 +18,14 @@ The Eternal Throne
 6. metal
 7. cut|set, 
 8. doctor. mech, fish, hunt
+
+# Mods
+- Audible Alert
+- Squad & Burrow Icons
+- Interface Tweaks
+- Rounded hills
+- Training Hall
+- Creature Graphics Extended
+- Specific Decoration
+- Shaped Shoes_Boots
+- Shaped Gloves
