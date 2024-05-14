@@ -6,7 +6,11 @@ time:: 05:05
 
 
 # To do
-- [ ] 
+- [ ] Requesting assistance payment
+- [ ] Tracer
+	- [ ] Make a note from record video
+	- [ ] Understanding flow by making a note flow from it
+	- [ ] Making a first chart
 
 # Accomplished Today (Other than todo)
 - 
@@ -15,3 +19,4 @@ time:: 05:05
 - 
 
 # Self Note
+Dreamt about grnd mother skn is easily to joke with
