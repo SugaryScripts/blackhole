@@ -1,37 +1,3 @@
-# Installation
-## Windows
-- install xampp -> set xampp control to administrator
-- install composer.exe -> check dev?  verify with composer --version 
-- composer self-update
-## Linux
-- Install [[N]]
-- `pacman -S composer`
-- `composer global require laravel/installer`
-- 
-
-# Artisan Command
-## make:model
-`php artisan make:model User -mcr`
--a
--m migration
--c controller
--r resource
--f factory
--s seed
-
-# Remove package composer
-1. Remove declaration from composer.json (in “require” section)
-2. **Remove Service Provider from** app/config/app.php (reference in “providers” array)
-3. Remove any Class Aliases from app/config/app.php
-4. Remove any references to the package from your code
-5. Run composer update vendor/package-name. This will remove the package folder from vendor folder and will rebuild composer autoloading map.
-6. Manually delete the published files
-
-``` sh
-composer clearcache
-composer dump -o
-```
-
 # Localization
 
 ```sh
@@ -78,13 +44,4 @@ config/app.php
 | localized telephone numbers, street address information and more.  
 |  
 */'faker_locale' => 'id_ID',
-```
-
-
-# Trouble shoots
-## Maximum execution time of 30 seconds exceeded
-```sh
-sudo vim /etc/php/php.ini
-/execution to 360
-lamp restart
 ```
