@@ -27,3 +27,4 @@ sudo vim /etc/php/php.ini
 lamp restart
 ```
 
+## Vite Sourcemap for ... points to missing source files
