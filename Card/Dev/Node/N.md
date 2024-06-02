@@ -38,6 +38,6 @@ npm config set cache ~/.local/.node/.npm --global
 YARN
 ```sh
 yarn global dir
-yarn config set prefix ~/.local/.root/.yarn
+yarn config set prefix ~/.local/.node/.yarn
 yarn global bin
 ```

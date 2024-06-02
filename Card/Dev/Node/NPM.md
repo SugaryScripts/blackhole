@@ -18,6 +18,7 @@ npm audit
 > list the packages that are out of date with respect to what is installed in package.json
 ```sh
 npm outdated
+npm -g outdated
 ```
 
 > Use to update an individual package that has already been installed.

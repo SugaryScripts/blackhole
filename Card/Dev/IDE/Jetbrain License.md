@@ -59,3 +59,12 @@ Dev
 Theme
 - Doki Theme by Unthrottled
 - Rainbow Brackets by izhangzhihao
+
+
+# Settings
+- node js
+  go to Languages & Frameworks | Node. js
+- Fonts -> Default; size:13 Lheight:1.2
+  Editor | Font
+  Editor | Color Scheme | Color Scheme Font
+  
