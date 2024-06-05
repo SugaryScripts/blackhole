@@ -4,3 +4,6 @@
 	- Data Kemendikbud
 	- Dictionary
 	- Result / Summary
+
+- Notes from record
+- 
