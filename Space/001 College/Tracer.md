@@ -4,10 +4,23 @@
 	- Data Kemendikbud
 	- Dictionary
 	- Result / Summary
-		- Kemampuan???
+		- Kemampuan
 		- Relevansi Pekerjaan
 		- Waktu tunggu mendapatkan pekerjaan pertama
 
+# Notes
+- Kemampuan
+	- GF: BZ, 
+- Relevansi pekerjaan
+	- 5 rendah, 1 tinggi
+- Waktu tunggu
+	- Kolom ALL:AQ, 
+	- Data type yg masuk: Sblm/sdh lulus saja
+	- AM
+		- Sebelum lulus = 0 bulan
+		- Tdk mencari = -
+		- Stlh lulus = next column => minimal 1 bulan
+	- 
 
 Material
 Pivot table
