@@ -1,26 +1,44 @@
 ##### File Tree Structure
 - Root
-	- Data
-	- Data Kemendikbud
-	- Dictionary
-	- Result / Summary
-		- Kemampuan
-		- Relevansi Pekerjaan
-		- Waktu tunggu mendapatkan pekerjaan pertama
+	- dashboard.xlxs
+	- Dataset
+		- ts_2018.xlxs
+		- ts_2019.xlxs
+		- gf_2023.xlxs
+
+- Dictionary // *Not needed*
+- Result / Summary
+	- Kemampuan
+	- Relevansi Pekerjaan
+	- Waktu tunggu mendapatkan pekerjaan pertama
 
 # Notes
 - Kemampuan
-	- GF: BZ, 
+	- GF23: BZ, TS(guide): F15
 - Relevansi pekerjaan
+	- GF23: BY, TS(guide): F14
 	- 5 rendah, 1 tinggi
 - Waktu tunggu
-	- Kolom ALL:AQ, 
 	- Data type yg masuk: Sblm/sdh lulus saja
 	- AM
 		- Sebelum lulus = 0 bulan
 		- Tdk mencari = -
 		- Stlh lulus = next column => minimal 1 bulan
-	- 
+	- Options => AO, AQ, AS, AT (Sheet ALL)
+		- Status
+			- **Bekerja (ya)**
+				- Sebelum lulus
+					- **Dapat kerja**
+						- **0 Bulan**
+					- Belum dpt kerja
+						- -
+				- Setelah lulus
+					- **Dapat kerja**
+						- **Sesuai bulan**
+					- Belum dpt kerja
+						- -
+			- **Bekerja (Tidak)**
+				- -
 
 Material
 Pivot table
