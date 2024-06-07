@@ -13,12 +13,12 @@
 	- Waktu tunggu mendapatkan pekerjaan pertama
 
 # Notes
-- Kemampuan
+- Kemampuan ✔️
 	- GF23: BZ, TS(guide): F15
-- Relevansi pekerjaan
+- Relevansi pekerjaan ✔️
 	- GF23: BY, TS(guide): F14
 	- 5 rendah, 1 tinggi
-- Waktu tunggu
+- Waktu tunggu 
 	- Data type yg masuk: Sblm/sdh lulus saja
 	- AM
 		- Sebelum lulus = 0 bulan
