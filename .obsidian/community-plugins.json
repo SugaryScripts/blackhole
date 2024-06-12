@@ -14,5 +14,6 @@
   "cm-editor-syntax-highlight-obsidian",
   "vim-yank-highlight",
   "highlightr-plugin",
-  "obsidian-quiet-outline"
+  "obsidian-quiet-outline",
+  "nl-syntax-highlighting"
 ]
