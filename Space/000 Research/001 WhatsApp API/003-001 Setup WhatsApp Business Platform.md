@@ -25,3 +25,12 @@ Requirement
 
 Token
 [EAAQjPJoqXKIBOyVg8I76qZAzSY3WWocO2DVZAiNLLOoITuUVBYMqU3ZBJCgoh14nM434Acrn6nkhInVGBuuE18Iz6A1dYRJRQ82pUoZBONUQgQ3gCgh7P3WZCoVUPh395HV7jV0k9zW2xR0aktK7BZBZAQbiL0MQ5vHVIlmT50ZB8efwejkgXBkp9uYgb13ZAGwTr](https://developers.facebook.com/tools/debug/accesstoken/?access_token=EAAQjPJoqXKIBOyVg8I76qZAzSY3WWocO2DVZAiNLLOoITuUVBYMqU3ZBJCgoh14nM434Acrn6nkhInVGBuuE18Iz6A1dYRJRQ82pUoZBONUQgQ3gCgh7P3WZCoVUPh395HV7jV0k9zW2xR0aktK7BZBZAQbiL0MQ5vHVIlmT50ZB8efwejkgXBkp9uYgb13ZAGwTr)|
+
+
+
+Chat gpt sanders api key
+
+
+#### Conclusion
+API for sending message: [Text - Cloud API](https://developers.facebook.com/docs/whatsapp/cloud-api/messages/text-messages)
+[Glitch :](https://glitch.com/edit/#!/quanta-squire-py)
