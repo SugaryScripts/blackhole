@@ -1,4 +1,16 @@
 # Main
+WaBa and then webhooks
+
+[WhatsApp Business Platform](https://developers.facebook.com/docs/whatsapp/), consist 3 primary app:
+- Cloud API, hosted by META      | default choose this
+- [On-Premises API](https://developers.facebook.com/docs/whatsapp/on-premises)                 | Deploy with docker
+- Business Management API       | is required regardless of which u choose
+[Get Started - WhatsApp Business Management API](https://developers.facebook.com/docs/whatsapp/business-management-api/get-started/#business-integration-system-user-access-tokens)
+	- [[003-001 Setup WhatsApp Business Platform]]
+
+[Get Started - Cloud API](https://developers.facebook.com/docs/whatsapp/cloud-api/get-started)
+
+#### 
 
 
 # Read More
