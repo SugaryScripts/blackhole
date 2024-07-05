@@ -68,4 +68,8 @@ Theme
 - Fonts -> Default; size:13 Lheight:1.2
   Editor | Font
   Editor | Color Scheme | Color Scheme Font
-  
+
+# Reset Eval version 2021
+```sh
+KEY=/home/$(whoami)/.config/JetBrains/*/eval/*.key;OTHER=/home/$(whoami)/.config/JetBrains/*/options/other.xml;PHPSTORM=/home/$(whoami)/.java/.userPrefs/jetbrains/phpstorm;WEBSTORM=/home/$(whoami)/.java/.userPrefs/jetbrains/webstorm;PYCHARM=/home/$(whoami)/.java/.userPrefs/jetbrains/pycharm;RIDER=/home/$(whoami)/.java/.userPrefs/jetbrains/rider;CLION=/home/$(whoami)/.java/.userPrefs/jetbrains/clion;DATALORE=/home/$(whoami)/.java/.userPrefs/jetbrains/datalore;DATAGRIP=/home/$(whoami)/.java/.userPrefs/jetbrains/datagrip;RUBYMINE=/home/$(whoami)/.java/.userPrefs/jetbrains/rubymine;APPCODE=/home/$(whoami)/.java/.userPrefs/jetbrains/appcode;GOLAND=/home/$(whoami)/.java/.userPrefs/jetbrains/goland;rm -f $KEY $OTHER;rm -rf $PHPSTORM $WEBSTORM $PYCHARM $RIDER $CLION $DATALORE $DATAGRIP $RUBYMINE $APPCODE $GOLAND;echo "processing: find existing file, please wait ...";echo "processing: delete existing eval key ...";echo "processing: file deleted.";echo "done: success reseting your Jerbrains IDE.";
+```

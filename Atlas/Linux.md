@@ -33,6 +33,7 @@ xset led || xset -led
 ```sh
 xrdb .Xresources && xrdb -merge ~/.cache/wal/colors.Xresources
 ```
+- Resume suspended process `fg`
 # Shell
 - [[Shell ZSH]]
 - [[Improve Productivity by Getting used to Terminal]]
