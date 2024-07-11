@@ -13,6 +13,10 @@
 |       | Inventory        | - Stocks                                                                        | - Gudang / Inventory<br>- Stock / qty    | 3   |
 |       | Transaction      | - Transaction<br>- History                                                      | - Transaction<br>- History               | 5   |
 |       | Dashboard        | - Profit / Loss                                                                 |                                          | 2   |
+|       | cloud            |                                                                                 |                                          |     |
+|       | local            | Tiap perubahan, gk bs update DB                                                 |                                          |     |
+|       | security         |                                                                                 |                                          |     |
+|       | laporan keuangan |                                                                                 |                                          |     |
 |       |                  |                                                                                 |                                          |     |
 1 = 1-2 day
 2 = 1/2 week
