@@ -15,5 +15,6 @@
   "vim-yank-highlight",
   "highlightr-plugin",
   "obsidian-quiet-outline",
-  "nl-syntax-highlighting"
+  "nl-syntax-highlighting",
+  "table-checkboxes"
 ]

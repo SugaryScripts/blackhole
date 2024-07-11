@@ -1,8 +1,15 @@
 ### Pharma Predictions
-| works        | tasks                                         | features |
-| ------------ | --------------------------------------------- | -------- |
-| init project | - Database<br>- Front-end Scaffolding<br><br> |          |
-|              |                                               |          |
+| usage                                         | works        | tasks                                                                           | features                                                      |
+| --------------------------------------------- | ------------ | ------------------------------------------------------------------------------- | ------------------------------------------------------------- |
+| <input type="checkbox" unchecked id="611461"> | init project | - Database<br>- Front-end Scaffolding                                           |                                                               |
+| ✔️                                            | App Settings | - Company Detail                                                                | - Company Profile                                             |
+|                                               | Auth         | - Role & Permission<br>- Login Logout Register<br>-                             | - Manage User<br>- (Staff / Admin)<br>- User Access<br>- Auth |
+|                                               | Profile      | - User Detail<br>- Profile Picture                                              | - User Profile                                                |
+|                                               | Membership   | - CRUD Membership                                                               | - Manage Membership                                           |
+|                                               | Promos       |                                                                                 |                                                               |
+|                                               | Discounts    | - By product<br>- By category<br>- By sub-category<br>- By promo<br>- By member |                                                               |
+|                                               | Products     | - Category<br>- Sub-Category<br>- Brands                                        |                                                               |
+|                                               |              |                                                                                 |                                                               |
  
  ### EPOS
 #### Web
