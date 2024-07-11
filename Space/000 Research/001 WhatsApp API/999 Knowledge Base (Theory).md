@@ -6,7 +6,7 @@
 		- Lack of Specialized Information:
 		  'There is no widely available information'
 	- What is Rag
-		- 
+
 - Python RAG with PDF on **Local LLM**:
 	- [Python RAG Tutorial (with Local LLMs): AI For Your PDFs - YouTube](https://www.youtube.com/watch?v=2TJxpyO3ei4&t=202s)
 - Comparing FAIS & Chroma for vectorstores database
