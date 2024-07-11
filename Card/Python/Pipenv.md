@@ -14,7 +14,7 @@ sudo pacman -S python python-pipenv
 | ------------------------------------------ | ------------------------------------------ | -------------------------- |
 | [[#Initializing a Project\|=]]             | `pipenv install`                           | Init pipenv project        |
 | [[#Activating the Virtual Environment\|=]] | `pipenv shell`                             | Start shell                |
-|                                            | `pipenv --rm`<br>`rm Pipfile Pipfile.lock` | Remove pipenv from project |
+| [[#Uninstall Pipenv from Project\|=]]      | `pipenv --rm`<br>`rm Pipfile Pipfile.lock` | Remove pipenv from project |
 |                                            | `pipenv install $package`                  | Install package            |
 |                                            | `pipenv uninstall $package`                | Uninstall package          |
 |                                            | `pip list`                                 | List installed package     |
@@ -116,7 +116,8 @@ requests  2.30.2    /home/user/my_project/venv/lib/python3.9/site-packages
 		  `pipenv uninstall <package_name> --leave-optional`
 
 # Case
-
+##### Change python version
+Change python_version on Pipfile.lock then `pipenv install --python=...`
 
 # Troubleshoot
 
