@@ -4,6 +4,7 @@
   "considerHistory": true,
   "historyLimit": 25,
   "history": [
+    "x",
     "heavy_check_mark",
     "white_check_mark",
     "ballot_box_with_check",

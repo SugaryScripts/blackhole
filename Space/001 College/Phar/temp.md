@@ -1,15 +1,19 @@
 ### Pharma Predictions
-| usage                                         | works        | tasks                                                                           | features                                                      |
-| --------------------------------------------- | ------------ | ------------------------------------------------------------------------------- | ------------------------------------------------------------- |
-| <input type="checkbox" unchecked id="611461"> | init project | - Database<br>- Front-end Scaffolding                                           |                                                               |
-| ✔️                                            | App Settings | - Company Detail                                                                | - Company Profile                                             |
-|                                               | Auth         | - Role & Permission<br>- Login Logout Register<br>-                             | - Manage User<br>- (Staff / Admin)<br>- User Access<br>- Auth |
-|                                               | Profile      | - User Detail<br>- Profile Picture                                              | - User Profile                                                |
-|                                               | Membership   | - CRUD Membership                                                               | - Manage Membership                                           |
-|                                               | Promos       |                                                                                 |                                                               |
-|                                               | Discounts    | - By product<br>- By category<br>- By sub-category<br>- By promo<br>- By member |                                                               |
-|                                               | Products     | - Category<br>- Sub-Category<br>- Brands                                        |                                                               |
-|                                               |              |                                                                                 |                                                               |
+| check | works            | tasks                                                                           | features                                 |
+| ----- | ---------------- | ------------------------------------------------------------------------------- | ---------------------------------------- |
+|       | init **project** | - Database<br>- Front-end Scaffolding                                           |                                          |
+|       | **App** Settings | - Company Detail                                                                | - Company Profile                        |
+|       | Branch           | - Manage Branch                                                                 | - Company Branch                         |
+|       | **Auth**         | - Role & Permission<br>- Login Logout Register<br>- Manage Staff/User           | - Manage User<br>- User Access<br>- Auth |
+|       | **Profile**      | - User Detail<br>- Profile Picture                                              | - User Profile                           |
+|       | **Membership**   | - CRUD Membership                                                               | - Manage Membership                      |
+|       | **Promos**       |                                                                                 |                                          |
+|       | **Discounts**    | - By product<br>- By category<br>- By sub-category<br>- By promo<br>- By member |                                          |
+|       | **Products**     | - Category<br>- Sub-Category<br>- Brands                                        |                                          |
+|       | Inventory        | - Stocks                                                                        | - Gudang / Inventory<br>- Stock / qty    |
+|       | Transaction      | - Transaction<br>- History                                                      | - Transaction<br>- History               |
+|       | Dashboard        | - Profit / Loss                                                                 |                                          |
+|       |                  |                                                                                 |                                          |
  
  ### EPOS
 #### Web
