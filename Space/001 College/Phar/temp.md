@@ -1,21 +1,36 @@
 ### Pharma Predictions
-| check | works            | tasks                                                                           | features                                 |
-| ----- | ---------------- | ------------------------------------------------------------------------------- | ---------------------------------------- |
-|       | init **project** | - Database<br>- Front-end Scaffolding                                           |                                          |
-|       | **App** Settings | - Company Detail                                                                | - Company Profile                        |
-|       | Branch           | - Manage Branch                                                                 | - Company Branch                         |
-|       | **Auth**         | - Role & Permission<br>- Login Logout Register<br>- Manage Staff/User           | - Manage User<br>- User Access<br>- Auth |
-|       | **Profile**      | - User Detail<br>- Profile Picture                                              | - User Profile                           |
-|       | **Membership**   | - CRUD Membership                                                               | - Manage Membership                      |
-|       | **Promos**       |                                                                                 |                                          |
-|       | **Discounts**    | - By product<br>- By category<br>- By sub-category<br>- By promo<br>- By member |                                          |
-|       | **Products**     | - Category<br>- Sub-Category<br>- Brands                                        |                                          |
-|       | Inventory        | - Stocks                                                                        | - Gudang / Inventory<br>- Stock / qty    |
-|       | Transaction      | - Transaction<br>- History                                                      | - Transaction<br>- History               |
-|       | Dashboard        | - Profit / Loss                                                                 |                                          |
-|       |                  |                                                                                 |                                          |
- 
+| check | works            | tasks                                                                           | features                                 | 1-5 |
+| ----- | ---------------- | ------------------------------------------------------------------------------- | ---------------------------------------- | --- |
+|       | init **project** | - Database<br>- Front-end Scaffolding                                           |                                          | 3   |
+|       | **App** Settings | - Company Detail                                                                | - Company Profile                        | 1   |
+|       | Branch           | - Manage Branch                                                                 | - Company Branch                         | 1   |
+|       | **Auth**         | - Role & Permission<br>- Login Logout Register<br>- Manage Staff/User           | - Manage User<br>- User Access<br>- Auth | 2   |
+|       | **Profile**      | - User Detail<br>- Profile Picture                                              | - User Profile                           | 1   |
+|       | **Membership**   | - CRUD Membership                                                               | - Manage Membership                      | 1   |
+|       | **Promos**       |                                                                                 |                                          | 4   |
+|       | **Discounts**    | - By product<br>- By category<br>- By sub-category<br>- By promo<br>- By member |                                          | 5   |
+|       | **Products**     | - Category<br>- Sub-Category<br>- Brands                                        | - Manage Products                        | 4   |
+|       | Inventory        | - Stocks                                                                        | - Gudang / Inventory<br>- Stock / qty    | 3   |
+|       | Transaction      | - Transaction<br>- History                                                      | - Transaction<br>- History               | 5   |
+|       | Dashboard        | - Profit / Loss                                                                 |                                          | 2   |
+|       |                  |                                                                                 |                                          |     |
+1 = 1-2 day
+2 = 1/2 week
+3 = 1 week
+4 = 1-2 week
+5 = 2 week
+
  ### EPOS
+ - Staff
+	 - Absent
+	 - Invoices
+	 - Shift
+ - Company
+	 - Bill (electricity, water, staff payment, inventory stocks supply)
+	 - Branch
+ - Phone & PC are the same?
+ - Possibility of merge multiple company into one database
+ - ~~Staff Author for each transaction or changes~~?
 #### Web
 - Company
 - Staff - role
