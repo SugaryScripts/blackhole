@@ -1,3 +1,10 @@
+### Pharma Predictions
+| works        | tasks                                         | features |
+| ------------ | --------------------------------------------- | -------- |
+| init project | - Database<br>- Front-end Scaffolding<br><br> |          |
+|              |                                               |          |
+ 
+ ### EPOS
 #### Web
 - Company
 - Staff - role
