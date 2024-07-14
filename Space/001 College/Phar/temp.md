@@ -24,7 +24,30 @@
 4 = 1-2 week
 5 = 2 week
 
+List Templates
+- Able Light $9
+	- [Light Able Admin & Dashboard Template by phoenixcoded | ThemeForest](https://themeforest.net/item/light-able-admin-dashboard-template/51628885)
+	- [Preview](https://html.phoenixcoded.net/light-able/bootstrap/dashboard/index.html)
+- Able Pro $17
+	- [Able Pro Bootstrap Admin Dashboard Template Preview - ThemeForest](https://preview.themeforest.net/item/able-pro-bootstrap-admin-dashboard-template/full_screen_preview/50170229)
+	- [Preview](https://preview.themeforest.net/item/able-pro-bootstrap-admin-dashboard-template/full_screen_preview/50170229)
+	  Theme: Accent color picker
+	  Add extra space on heading for background color (or image if u can of course)
+	  Landing pages
+	  pro and light are slightly different, i even can't noticed it yet
+- Tailwise $22
+	- [Tailwise - Tailwind CSS HTML, Vue, React, Laravel Admin Dashboard Kit + Figma Design File by Left4code](https://themeforest.net/item/tailwise-intuitive-tailwind-dashboard-kit/48659596)
+	- [Preview](https://tailwise.vercel.app/)
+	- Sleek & modern design
+	- Theme: color palette, (note: background on auth or profile maybe)
+- Digiboard $14
+	- [Digiboard - Multipurpose Admin Dashboard Template HTML + VueJs + Reactjs +Nextjs + Nuxtjs + Laravel by Codebasket](https://themeforest.net/item/digiboard-multipurpose-admin-dashboard-template/47154328)
+	- [Preview](https://digiboard-html.codebasket.xyz/index.html)
+	- Theme -> primary color, background side/main page content
+	- Boxy and minimalistic
+
  ### EPOS
+ a
  - Staff
 	 - Absent
 	 - Invoices
