@@ -11,6 +11,7 @@ Comparison:
 	- [[Pipenv]]
 	- [[Virtualenv]]
 	- Conda
+- [[Packages]]
 - [[Streamlit]]
 - HTTP
 	- [[API - python]]
@@ -37,9 +38,20 @@ pip freeze
 ```
 **Generate** list of installed package and their versions as `requirements.txt`. **Excludes** system-wide packages or those not installed by pip.
 
+## Install from requirements
+```sh
+pip3 install --user -r requirements.txt
+```
+**--user** : installed on current user only. not system wide
+**-r** : install from a file, named requirements.txt
 
 
-
+# Tips
+### Remove unused dependencies that brought by specific package
+```sh
+pip install pip-autoremove
+pip-autoremove streamlit -y
+```
 # Troubleshoot
 ## illegal hardware instruction (core dumped)
 Tried:

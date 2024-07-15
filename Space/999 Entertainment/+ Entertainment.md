@@ -3,3 +3,5 @@
 	- [[ps2]]
 	- [[Online Daily Reset Time]]
 	- [[Plays Candidates]]
+- Tools
+	- [[Steam CMD]]

@@ -43,7 +43,14 @@
 |           | Open Gitmoji           |    ☑️     |   ☑️    |
 |           | gitmoji intellij       |           |         |
 |           | gitmoji plus           |           |         |
-# FAQ
+## Best Themes
+| plugin    | mode  | theme      |
+| --------- | ----- | ---------- |
+| Catpuccin | light | Latte      |
+|           | dark  | Mocha      |
+| Doki      |       |            |
+| Material  | dark  | Deep Ocean |
+ # FAQ
 - Location config on linux sys
 
 

@@ -12,7 +12,7 @@ tags:: #map
 
 # Command
 - [[Understanding command]]
-- [[chmod]]
+- [[chmod]] || [[chown]]
 - [[find]]
 - [[mv - rename or move file]]
 - which
@@ -20,6 +20,7 @@ tags:: #map
 - [[rm & rmdir]]
 - [[tree]]
 - [[xprop - (i3-get-window-criteria)]]
+- [[Multiple User]]
 
 - Logout
 ```sh

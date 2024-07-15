@@ -10,14 +10,17 @@ sudo pacman -S python python-pipenv
 
 # Commands
 ## Summary
-| ref                                        | command                                    | do                         |
-| ------------------------------------------ | ------------------------------------------ | -------------------------- |
-| [[#Initializing a Project\|=]]             | `pipenv install`                           | Init pipenv project        |
-| [[#Activating the Virtual Environment\|=]] | `pipenv shell`                             | Start shell                |
-| [[#Uninstall Pipenv from Project\|=]]      | `pipenv --rm`<br>`rm Pipfile Pipfile.lock` | Remove pipenv from project |
-|                                            | `pipenv install $package`                  | Install package            |
-|                                            | `pipenv uninstall $package`                | Uninstall package          |
-|                                            | `pip list`                                 | List installed package     |
+| ref                                        | command                                                 | do                           |
+| ------------------------------------------ | ------------------------------------------------------- | ---------------------------- |
+| [[#Initializing a Project\|=]]             | `pipenv install`                                        | Init pipenv project          |
+| [[#Activating the Virtual Environment\|=]] | `pipenv shell`                                          | Start shell                  |
+| [[#Uninstall Pipenv from Project\|=]]      | `pipenv --rm`<br>`rm Pipfile Pipfile.lock`              | Remove pipenv from project   |
+|                                            | `pipenv install $package`                               | Install package              |
+|                                            | `pipenv uninstall $package`                             | Uninstall package            |
+|                                            | `pip list`                                              | List installed package       |
+|                                            | `pipenv requirements > requirements.txt`                | Generate requirement.txt     |
+|                                            | `pipenv requirements --dev > dev-requirements.txt<br>`  | Optional for dev build       |
+|                                            | `pipenv requirements --from-pipfile > requirements.txt` | From pipfile instead of lock |
 
 ## Project
 ### Initializing a Project

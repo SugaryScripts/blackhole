@@ -18,7 +18,9 @@ These are maps to launch your `efforts`. Where would you like to go?
 	- [[Jetbrain License]]
 	- [[Atlas/Git]]
 	- [[Python]]
-	- [[Deploy Laravel on Jagoan Hosting]]
+	- Site Tools Devops
+		- [[Deploy Laravel on Jagoan Hosting]]
+		- [[Glitch]]
 - [[Linux]]
 	- [[Improve Productivity by Getting used to Terminal]]
 	- [[Pamac - Package Manager Manjaro]]

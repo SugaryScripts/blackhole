@@ -1,0 +1,1 @@
+- FAISS => `pytorch faiss-gpu` or `faiss-cpu`
