@@ -5,3 +5,6 @@
 - If you’re not worried about git history, remove the `.git` folder using `$ rm -rf .git`
 - Remove unused dependencies from your `package.json`
 - Review your dependencies in the `node_modules` folder.
+```sh
+rm -rf .git .node_modules .local .cache
+```

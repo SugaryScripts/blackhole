@@ -24,7 +24,51 @@
 4 = 1-2 week
 5 = 2 week
 
-List Templates
+#### Database
+- User
+- Membership
+- Staff
+- Product
+- Settings
+- Medical_Records
+	- 
+- Medical_History
+- Transactions
+Example of store
+[Optika Lunett | Clear Out Sale](https://optikalunett.com/collections/clearout-sale)
+
+
+
+#### Web
+- Company
+- Staff - role
+- Group of discounts
+- Garages
+	- name - address - telephone
+	- List Item
+- Vehicles
+	- Name - type - brand - license number
+- Branch
+- Member
+	- id - name - phone - email - ktp - gender - birth - address - exp_date - status
+- Category
+	- name - profit_sharing - color
+	- Sub Categories
+- Delivery Partner
+	- name - profit_sharing - color
+	- Sub Categories
+- Item
+	- Category - 
+- Inventory
+
+reporting - inventory - transaksi - membership
+
+#### Android
+- Absensi
+	- Scan & check in/out
+- Login
+
+#### List Templates
 - Able Light $9
 	- [Light Able Admin & Dashboard Template by phoenixcoded | ThemeForest](https://themeforest.net/item/light-able-admin-dashboard-template/51628885)
 	- [Preview](https://html.phoenixcoded.net/light-able/bootstrap/dashboard/index.html)
@@ -58,31 +102,3 @@ List Templates
  - Phone & PC are the same?
  - Possibility of merge multiple company into one database
  - ~~Staff Author for each transaction or changes~~?
-#### Web
-- Company
-- Staff - role
-- Group of discounts
-- Garages
-	- name - address - telephone
-	- List Item
-- Vehicles
-	- Name - type - brand - license number
-- Branch
-- Member
-	- id - name - phone - email - ktp - gender - birth - address - exp_date - status
-- Category
-	- name - profit_sharing - color
-	- Sub Categories
-- Delivery Partner
-	- name - profit_sharing - color
-	- Sub Categories
-- Item
-	- Category - 
-- Inventory
-
-reporting - inventory - transaksi - membership
-
-#### Android
-- Absensi
-	- Scan & check in/out
-- Login
