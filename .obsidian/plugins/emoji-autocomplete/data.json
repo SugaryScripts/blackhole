@@ -4,11 +4,11 @@
   "considerHistory": true,
   "historyLimit": 25,
   "history": [
+    "construction",
     "x",
     "heavy_check_mark",
     "white_check_mark",
     "ballot_box_with_check",
-    "construction",
     "coffee",
     "cross_mark",
     "heavy_exclamation_mark",

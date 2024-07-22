@@ -1,4 +1,20 @@
-# Php Storm
+## PyCharm Professional
+
+
+| version    | selorejo | sanders | main |     |
+| ---------- | -------- | ------- | ---- | --- |
+| 2022.1.4   |          |         |      |     |
+| 2022.2.5   |          |         |      |     |
+| 2022.3.3   |          |         |      |     |
+| 2023.1.6   |          |         |      |     |
+| 2023.2.3   |          |         |      |     |
+| 2024.2 EAP | 🚧       |         |      |     |
+| 2023.1.4   |          |         |      |     |
+| 2023.1.5   |          |         |      |     |
+| 2023.2.5   |          |         |      |     |
+| 2023.3.5   |          |         |      |     |
+
+## Php Storm
 
 | version    | selorejo | sanders | main |     |
 | ---------- | -------- | ------- | ---- | --- |
@@ -22,33 +38,35 @@
 
 # Plugins
 
-| Category  | plugins                | PHP storm | Pycharm |
-| --------- | ---------------------- | :-------: | :-----: |
-| **Core**  | wakatime               |    ☑️     |   ☑️    |
-|           | key promoter x         |    ☑️     |   ☑️    |
-|           |                        |           |         |
-|           | php annotations        |    ☑️     |         |
-|           | laravel plugin         |           |         |
-|           | laravel tinker         |    ☑️     |         |
-| **Theme** | rainbow brackets       |    ☑️     |   ☑️    |
-|           | material theme ui      |           |         |
-|           | material theme ui lite |           |         |
-|           | atom material icon     |           |         |
-|           | doki icon              |    ☑️     |         |
-|           | doki theme jetbrain    |    ☑️     |         |
-|           | Catpuccin Themes       |           |         |
-|           | Catpuccin Icons        |           |         |
-|           | HardHacker Theme       |    ☑️     |         |
-| **Misc**  | anime memes            |    ☑️     |         |
-|           | Open Gitmoji           |    ☑️     |   ☑️    |
-|           | gitmoji intellij       |           |         |
-|           | gitmoji plus           |           |         |
+| Category  | plugins                       | PHP storm | Pycharm |
+| --------- | ----------------------------- | :-------: | :-----: |
+| **Core**  | wakatime                      |    ☑️     |   ☑️    |
+|           | key promoter x                |    ☑️     |   ☑️    |
+|           |                               |           |         |
+|           | php annotations               |    ☑️     |         |
+|           | laravel plugin                |           |         |
+|           | laravel tinker                |    ☑️     |         |
+| **Theme** | rainbow brackets              |    ☑️     |   ☑️    |
+|           | material theme ui             |           |         |
+|           | material theme ui lite        |           |         |
+|           | atom material icon            |           |         |
+|           | doki icon                     |    ☑️     |         |
+|           | doki theme jetbrain           |    ☑️     |         |
+|           | Noctumsempra's Color megapack |           |         |
+|           | Catpuccin Themes              |           |         |
+|           | Catpuccin Icons               |           |         |
+|           | HardHacker Theme              |    ☑️     |         |
+| **Misc**  | anime memes                   |    ☑️     |         |
+|           | Open Gitmoji                  |    ☑️     |   ☑️    |
+|           | gitmoji intellij              |           |         |
+|           | gitmoji plus                  |           |         |
 ## Best Themes
 | plugin    | mode  | theme      |
 | --------- | ----- | ---------- |
 | Catpuccin | light | Latte      |
 |           | dark  | Mocha      |
-| Doki      |       |            |
+| Doki      | light |            |
+|           | dark  | Kanna      |
 | Material  | dark  | Deep Ocean |
  # FAQ
 - Location config on linux sys

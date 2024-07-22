@@ -1,7 +1,7 @@
 
 
 - IDE
-	- [[Jetbrain License]]
+	- [[Jetbrain]]
 	- [[Sublime]]
 	- [[Visual Studio Code]]
 	- [[IDE  Configuration]]
