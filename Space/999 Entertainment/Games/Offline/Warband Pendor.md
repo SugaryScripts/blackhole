@@ -1,4 +1,4 @@
-Mods:
+##### Mods:
 - Pendor Enhanced: Replace all to module pendor
 - More metal sound: 
 	- replace all sounds to module/.../sounds/
@@ -34,3 +34,12 @@ Mods:
 		woman_hit_10.wav 112  
 		woman_die_1.wav 2464  
 		woman_die_2.wav 2464
+
+
+
+#### beginning
+- mysterious figure
+	- banner: physician
+- hunt in the wild
+- bard
+- a letter that changed your life
