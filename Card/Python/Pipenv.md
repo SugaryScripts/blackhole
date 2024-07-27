@@ -23,6 +23,16 @@ sudo pacman -S python python-pipenv
 |                                            | `pipenv requirements --from-pipfile > requirements.txt` | From pipfile instead of lock |
 
 ## Project
+### Change .venv to project dir
+Set the environment variable
+```
+export PIPENV_VENV_IN_PROJECT=1
+```
+.zshrc
+windows just
+```cmd
+set PIPENV_VENV_IN_PROJECT=1
+```
 ### Initializing a Project
 ```
 pipenv install
@@ -121,6 +131,7 @@ requests  2.30.2    /home/user/my_project/venv/lib/python3.9/site-packages
 # Case
 ##### Change python version
 Change python_version on Pipfile.lock then `pipenv install --python=...`
+Change it on Pipfile then `pipenv install --python=/path/to/your/python` This would remove the previous virtual environment and create a new one using the python version specified. 
 
 # Troubleshoot
 

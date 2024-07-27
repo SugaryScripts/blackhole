@@ -21,6 +21,7 @@ These are maps to launch your `efforts`. Where would you like to go?
 	- Site Tools Devops
 		- [[Deploy Laravel on Jagoan Hosting]]
 		- [[Glitch]]
+		- [[Fly IO]]
 - [[Linux]]
 	- [[Improve Productivity by Getting used to Terminal]]
 	- [[Pamac - Package Manager Manjaro]]

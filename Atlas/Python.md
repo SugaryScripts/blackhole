@@ -11,6 +11,8 @@ Comparison:
 	- [[Pipenv]]
 	- [[Virtualenv]]
 	- Conda
+	- [[Poetry]]
+- 
 - [[Packages]]
 - [[Streamlit]]
 - HTTP
