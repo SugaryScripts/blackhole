@@ -18,3 +18,24 @@
 	- Account GitHub, Facebook
 	- Nomor WhatsApp
 - GPT 4?
+
+
+bu lianda atau pak tomo
+ menjadi 
+4 kategori, 
+sesuai, tidak sesuai 0, 1 kurang sesua, 2 sesuai, 3 sangat sesuai
+
+
+2
+mahasiswa baru, mau mendaftar
+5 pertanyaan yg seting ditanyakan
+5 perlu atau penting 
+1 sesuai, 
+
+
+mahasiswa yg sudah aktif
+BAA, sekretariat fakultas ftd
+5 pertanyaan 
+
+
+dosen pa 2 pak
