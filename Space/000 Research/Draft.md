@@ -1,0 +1,20 @@
+- Change subject?
+	- Pemanfaatan OPENAI Sebagai Customer Service untuk menjawab FAQ Perusahaan/Organisasi Melalui Platform WhatsApp
+	- Pemanfaatan OPENAI sebagai aplikasi Retrieval-Augmented Generation untuk 
+	- Pemanfaatan Aplikasi RAG yang menggunakan OpenAI sebagai 
+- Pengujian
+- Semua kode di lampiran?
+- Semua yang membutuhkan CC gratis?
+- Chat bot bisa menjawab di luar yang konteks PDF
+- Langchain tidak bisa di custom atau di inspect
+- History disimpan, tapi bukan instruksi, tapi history untuk dapat informasi
+- Sometimes double answer, or bug: Further feedback receiver is required to calculate how many bugs are there, and what kind?
+- Using template? Akreditasi di website?
+- Fokus TA nya di aplikasi, open AI, whatsapp? Perlu dijelaskan detail mengenai RAG, Langchain, Integrasi WhatsApp
+- Kendala tidak perlu dijelaskan
+- Requirement -> batasan masalah?
+	- Kartu Kredit untuk render
+	- token $5 OpenAI
+	- Account GitHub, Facebook
+	- Nomor WhatsApp
+	- 
