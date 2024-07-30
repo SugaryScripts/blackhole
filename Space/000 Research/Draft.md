@@ -24,6 +24,10 @@ bu lianda atau pak tomo
  menjadi 
 4 kategori, 
 sesuai, tidak sesuai 0, 1 kurang sesua, 2 sesuai, 3 sangat sesuai
+0 tidak sesuai
+1 kurang sesuai
+2 sesuai
+3 sangat sesuai
 
 
 2
