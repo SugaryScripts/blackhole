@@ -43,3 +43,11 @@ BAA, sekretariat fakultas ftd
 
 
 dosen pa 2 pak
+40
+
+- Tanda tangan bimbingan
+- Nilai E
+- Minta sebagai responden data
+- Schedul pengajuan semhas jika nilai bisa teratasi
+- Protokol cara meminta data survey yang baik
+- 
