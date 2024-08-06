@@ -19,5 +19,5 @@ Tech:
 - WhatsApp WebHook
 
 ##### Sistem Percakapan 
-Dalam penelitian ini, pengembangan sistem percakapan dilakukan dengan memanfaatkan *framework* langchain. 
+Dalam penelitian ini, pengembangan sistem percakapan dilakukan dengan memanfaatkan *framework* langchain. Agar pengguna dapat berinteraksi
 Pengembangan aplikasi percakapan yang dilakukan menggunakan 
