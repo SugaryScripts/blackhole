@@ -18,7 +18,13 @@ Tech:
 - Deploy
 - WhatsApp WebHook
 
-##### Sistem Percakapan 
-
-
-##### percakapan
+## Implementasi desain dan fitur
+### Sistem generasi vectorstore
+### Integrasi Sistem dengan WhatsApp
+### Pengembangan Tampilan Website
+### Implementasi Chat Bot Pada Sistem
+### Sistem Penyimpanan Umpan Balik Pengguna
+## Peluncuran Aplikasi
+### Pembuatan Database
+### Pemasangan Aplikasi Pada Server
+## Hasil Pengujian
