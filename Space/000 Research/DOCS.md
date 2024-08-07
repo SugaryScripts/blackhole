@@ -28,3 +28,10 @@ Tech:
 ### Pembuatan Database
 ### Pemasangan Aplikasi Pada Server
 ## Hasil Pengujian
+
+
+Pemanfaatan OpenAI dalam Aplikasi RAG Melalui WhatsApp sebagai Customer Service Universitas Ma Chung
+
+Pemanfaatan OpenAI dalam Aplikasi RAG Melalui WhatsApp sebagai Customer Service Universitas Ma Chung
+
+Pemanfaatan OpenAI sebagai Customer Service untuk Menjawab FAQ PERUSAHAAN / ORGANISASI Melalui PLATFORM WHATSAPP
