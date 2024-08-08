@@ -27,6 +27,7 @@ These are maps to launch your `efforts`. Where would you like to go?
 	- [[Pamac - Package Manager Manjaro]]
 	- [[Reset Manjaro Password]]
 	- [[Reinstall Linux]]
+- [[Windows]]
 - Personal
 	- [[Email Account Guideline]]
 	- [[Tags Management]]
