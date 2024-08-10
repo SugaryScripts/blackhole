@@ -45,3 +45,23 @@ Pemanfaatan OpenAI dalam Aplikasi RAG Melalui WhatsApp sebagai Customer Service 
 Pemanfaatan OpenAI dalam Aplikasi RAG Melalui WhatsApp sebagai Customer Service Universitas Ma Chung
 
 Pemanfaatan OpenAI sebagai Customer Service untuk Menjawab FAQ PERUSAHAAN / ORGANISASI Melalui PLATFORM WHATSAPP
+
+
+
+Integrasi Sistem dengan WhatsApp
+- Pembuatan Akun WhatsApp
+	- Make Meta Account and its business app type
+	- Add phone number
+	- Check WA integration
+- Kon
+	- Add code with verification code
+		- Ex url webhook
+		- Code verivication
+	- Subscribe webhook
+		- Key verifvy token
+		- Subscribe
+	- check webhook
+
+- Pembuatan Akun WhatsApp'
+- Penyediaan Rute untuk Webhook
+- Verifikasi Webhook
