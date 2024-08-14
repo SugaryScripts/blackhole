@@ -28,7 +28,8 @@ Pemanfaatan OpenAI dalam Aplikasi RAG Melalui WhatsApp sebagai Customer Service 
 
 Pemanfaatan OpenAI dalam Aplikasi RAG Melalui WhatsApp sebagai Customer Service Universitas Ma Chung
 
-Pemanfaatan OpenAI sebagai Customer Service untuk Menjawab FAQ PERUSAHAAN / ORGANISASI Melalui PLATFORM WHATSAPP
+Rancang Bangun RAG dengan OpenAI melalui WHATSAPP
+
 
 
 
