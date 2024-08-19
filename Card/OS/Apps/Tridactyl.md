@@ -38,20 +38,20 @@ C = Ctrl
 | focus an element                                    | ;;                    |
 ### Navigating current page
 
-| Navigate Page                               |                |
-| ------------------------------------------- | -------------- |
-| Scroll up/down                              | j/k            |
-| Scroll left/right                           | h/l            |
-| Scroll to top/bottom of page                | gg/G           |
-| Reload­/Hard reload                         | r/R            |
-| Focus the last-used input on page           | gi             |
-| Copy URL page to clipboard                  | yy             |
-| Go to parent of current URL                 | gu             |
-| Go to root domain of current URL            | gU             |
-| Zoom in/Zoom out/De­fault                   | zi/zo/zz       |
-| Jump to the next/p­revious part of the page | <C-­f>/­<C-­b> |
-|                                             |                |
-|                                             |                |
+| Navigate Page                                               |                |
+| ----------------------------------------------------------- | -------------- |
+| Scroll up/down                                              | j/k            |
+| Scroll left/right                                           | h/l            |
+| Scroll to top/bottom of page                                | gg/G           |
+| Reload­/Hard reload                                         | r/R            |
+| Focus the last-used input on page<br>Then <Tab> to cycle it | gi             |
+| Copy URL page to clipboard                                  | yy             |
+| Go to parent of current URL                                 | gu             |
+| Go to root domain of current URL                            | gU             |
+| Zoom in/Zoom out/De­fault                                   | zi/zo/zz       |
+| Jump to the next/p­revious part of the page                 | <C-­f>/­<C-­b> |
+|                                                             |                |
+|                                                             |                |
 
 ### Navigating tabs
 
