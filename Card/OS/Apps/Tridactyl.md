@@ -17,25 +17,25 @@ C = Ctrl
 
 ### Hint mode
 
-|                                                     |                       |
-| --------------------------------------------------- | --------------------- |
-| Note : Hint characters should be typed in lowercase |                       |
-| Semicolon can be replaced by the command "­:hint -" |                       |
-|                                                     |                       |
-| Enter Hint mode                                     | f                     |
-| Open link in background tab                         | F                     |
-| **Extented hint mode**                              |                       |
-| Open image in curren­t/new tab                      | ;i/;I                 |
-| Save/ Save-as the linked source                     | ;s/;a                 |
-| Save / Save-as the select image                     | ;S/;A                 |
-| Copy an element's text to the clipboard             | ;p                    |
-| copy an element's title/alt text to the clipboard   | ;P                    |
-| copy an element's link URL to the clipboard         | ;y                    |
-| copy an element's anchor URL to the clipboard       | ;#                    |
-| read the element's text with text-t­o-s­peech       | ;r                    |
-| Kill an element of the page                         | ;k                    |
-| Kill an element (can be restored)                   | ;K (:elem­ent­unhide) |
-| focus an element                                    | ;;                    |
+|                                                            |                       |
+| ---------------------------------------------------------- | --------------------- |
+| Note : Hint characters should be typed in lowercase        |                       |
+| Semicolon can be replaced by the command "­:hint -"        |                       |
+|                                                            |                       |
+| Enter Hint mode                                            | f                     |
+| Open link in background tab                                | F                     |
+| **Extented hint mode**                                     |                       |
+| Open image in curren­t/new tab                             | ;i/;I                 |
+| Save/ Save-as the linked source                            | ;s/;a                 |
+| Save / Save-as the select image                            | ;S/;A                 |
+| Copy an element's text to the clipboard                    | ;p                    |
+| copy an element's title/alt text to the clipboard          | ;P                    |
+| copy an element's link URL to the clipboard                | ;y                    |
+| copy an element's anchor URL to the clipboard              | ;#                    |
+| read the element's text with text-t­o-s­peech              | ;r                    |
+| Kill an element of the page                                | ;k                    |
+| Kill an element (can be restored)                          | ;K (:elem­ent­unhide) |
+| focus an element<br>Pick container for scrolling behaviour | ;;                    |
 ### Navigating current page
 
 | Navigate Page                                               |                |
