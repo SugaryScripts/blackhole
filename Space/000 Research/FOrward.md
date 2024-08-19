@@ -8,6 +8,10 @@
 ###### Batasan masalah
 - Menghiraukan media apapun dalam platform WA
 - Menghiraukan dokumen dengan gambar
+Saran
+- Diperlukan untuk embedding gambar juga selain text
+- Melakukan verifikasi bisnis WhatsApp agar dapat menggunakan token permanent dari official WhatsApp
+- Instruksi penggunaan didetailkan pada saat pengumpulan survei data, agar mendapatkan feedback yang sesuai dengan aplikasi
 ##### Challenge naive RAG
 - Bad retrieval
 	- Low precision
