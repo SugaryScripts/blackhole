@@ -1,3 +1,13 @@
+##### Less
+###### Latar Belakang
+- Diperlukannya desain halaman dengan UI/UX yang menarik agar pengguna membaca FAQ [How many people really read the FAQs of any website? - Quora](https://www.quora.com/How-many-people-really-read-the-FAQs-of-any-website)
+- Butuh waktu dan ketelitian dalam pencarian informasi dari FAQ
+- Adanya realitas pelanggan malu untuk bertanya
+- Penyediaan pelayanan pelanggan membutuhkan ekstra waktu dan biaya
+- Pelanggan terkadang harus datang dan bertanya
+###### Batasan masalah
+- Menghiraukan media apapun dalam platform WA
+- Menghiraukan dokumen dengan gambar
 ##### Challenge naive RAG
 - Bad retrieval
 	- Low precision
