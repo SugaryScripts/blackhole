@@ -26,8 +26,6 @@ https://aws.amazon.com/what-is/restful-api/?nc1=h_ls
 Original:
 Pemanfaatan OpenAI Sebagai Customer Service Untuk Menjawab FAQ Perusahaan / Organisasi Melalui Platform WhatsApp
 
-Pengembangan Virtual Assistant Chatbot Berbasis Whatsapp Pada Pusat Layanan Informasi Mahasiswa Institut Pendidikan Indonesia - Garut
-
 Improving the Domain Adaptation of Retrieval Augmented Generation
 (RAG) Models for Open Domain Question Answering
 
@@ -35,12 +33,6 @@ Chatbot LangChain Sebagai Pengganti Layanan Pelanggan dengan Model Retrieval Aug
 Key: Langchain, ChatBot, RAG, Virtual Assistant, WhatsApp API
 
 Integrasi Retrieval Augmented Generation (RAG) Pada Chatbot OpenAI Menggunakan LangChain sebagai alternatif Layanan Pelanggan berbasis WhatsApp
-
-Pemanfaatan OpenAI dalam Aplikasi RAG Melalui WhatsApp sebagai Customer Service Universitas Ma Chung
-
-Pemanfaatan OpenAI dalam Aplikasi RAG Melalui WhatsApp sebagai Customer Service Universitas Ma Chung
-
-Rancang Bangun RAG dengan OpenAI melalui WHATSAPP
 
 
 
