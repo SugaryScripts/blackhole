@@ -7,3 +7,15 @@ Recent advancements in natural language processing have introduced Retrieval-Aug
 LangChain, a framework designed to facilitate the development and management of language model-driven applications, offers a robust environment for integrating RAG into chatbot systems. LangChain provides tools and functionalities to seamlessly orchestrate complex interactions between language models and external information sources, making it an ideal platform for deploying advanced chatbot solutions.
 
 This paper explores the integration of RAG with OpenAI chatbots using the LangChain framework to enhance customer service on WhatsApp. We investigate how this combination can improve response accuracy, contextual relevance, and overall user experience. By leveraging RAG's ability to integrate retrieval mechanisms with generative responses, and LangChain's capabilities for managing sophisticated language model workflows, we aim to provide a more effective and efficient customer support alternative. This study seeks to demonstrate the potential of this innovative approach to transform customer service interactions and set a new standard for automated support systems in digital communication platforms.
+
+
+
+feature
+- website
+	- change document
+	- preview data
+	- question
+	- feedback
+- whatsapp
+	- question
+	- feedback
