@@ -34,7 +34,7 @@ Improving the Domain Adaptation of Retrieval Augmented Generation
 Chatbot LangChain Sebagai Pengganti Layanan Pelanggan dengan Model Retrieval Augmented Generation (RAG) Berbasis WhatsApp
 Key: Langchain, ChatBot, RAG, Virtual Assistant, WhatsApp API
 
-Integrasi Retrieval Augmented Generation (RAG) Pada Chatbot Menggunakan LangChain sebagai alternatif Layanan Pelanggan berbasis WhatsApp
+Integrasi Retrieval Augmented Generation (RAG) Pada Chatbot OpenAI Menggunakan LangChain sebagai alternatif Layanan Pelanggan berbasis WhatsApp
 
 Pemanfaatan OpenAI dalam Aplikasi RAG Melalui WhatsApp sebagai Customer Service Universitas Ma Chung
 
