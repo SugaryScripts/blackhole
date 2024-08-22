@@ -19,3 +19,10 @@ feature
 - whatsapp
 	- question
 	- feedback
+[8:52 AM, 8/22/2024] Khasanudin: mas, untuk format generate report dari tombol "Cetak Laporan" di menu penanaman pohon, minta tolong nanti di sesuaikan seperti ini layout ini ya mas
+[8:53 AM, 8/22/2024] Khasanudin: yg format kemarin, ada beberapa data yg tidak terakomodir soalnya....
+[8:53 AM, 8/22/2024] Khasanudin: sehingga mereka minta d sesuaikan dg format berikut
+[8:53 AM, 8/22/2024] Khasanudin: terima kasih mas
+[9:08 AM, 8/22/2024] OwO: Pagi, siap mas
+[9:19 AM, 8/22/2024] Khasanudin: siap, terima kasih mas
+[10:33 AM, 8/22/2024] OwO: ya mas sama-sama
