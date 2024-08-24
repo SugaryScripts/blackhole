@@ -14,8 +14,7 @@ These are maps to launch your `efforts`. Where would you like to go?
 	- [[Vim]]
 	- [[Termux]]
 	- [[Sublime]]
-- Dev World ☕
-	- [[Jetbrain]]
+- [[Development]] ☕
 	- [[Atlas/Git]]
 	- [[Python]]
 	- Site Tools Devops

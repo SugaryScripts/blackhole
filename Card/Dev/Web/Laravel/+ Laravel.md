@@ -1,11 +1,16 @@
 - [[Setup Laravel]]
-- [[Installing]]
+	- [[Installing]]
 - [[Basic Command]]
+- [[Storage & Link & Upload]]
 - [[Case]]
 	- [[Migrate Laravel Mix Vite]]
 	- [[Localization]]
 
 
+# Recommended Library
+- [[Hashid]]
+- [[Laravel faker]]
+- [[Livewire]]
 
 # Structure
 #### Public
