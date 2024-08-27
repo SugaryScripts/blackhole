@@ -1,6 +1,7 @@
 # Generate new ssh
 ```shell
 ssh-keygen -t ed25519 -C "your_email@example.com"
+ssh-keygen -t ed25519 -C "fryctze@AI-chan"
 ```
 This creates a new SSH key, using the provided email as a label.
 #### type of ssh
