@@ -1,6 +1,7 @@
 
 | asdf                                                 | asd                               |
 | ---------------------------------------------------- | --------------------------------- |
+| `poetry new poetry-demo`                             |                                   |
 | `poetry install`                                     |                                   |
 | `~ env info` -p                                      | `-p` for location .venv           |
 | `~ config virtualenvs.in-project true`               | Change .venv to be within project |
