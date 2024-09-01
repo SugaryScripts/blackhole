@@ -18,3 +18,9 @@
 
 #### Pyproject
 Use poetry as solely for dependency management
+```json
+[tool.poetry]
+package-mode = false
+# then run
+poetry install -> check it by shell -> pip list
+```

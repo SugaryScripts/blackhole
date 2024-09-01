@@ -24,6 +24,13 @@
 4 = 1-2 week
 5 = 2 week
 
+i. Manajemen pelanggan toko
+ii. Transaksi penjualan
+iii. Rekam medis
+iv. Laporan Keuangan dan Pajak
+v. Stock Opname Barang
+vi. Absensi pegawai
+
 #### Database
 - User
 - Membership

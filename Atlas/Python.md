@@ -16,6 +16,7 @@ Comparison:
 - 
 - [[Packages]]
 - [[Streamlit]]
+- [[Flask]]
 - HTTP
 	- [[API - python]]
 # Command

@@ -15,7 +15,7 @@ a regular sleep takes at least 3 days to establish. Then,
 # 3 Maximize Your Screen Time
 Always fall asleep with a screen in your palm & put your eyes back on it as soon as you wake.
 
-# 4 Use Your Screen to Stoke Your Negative Emotions
+# ![[Install-Linux-tar.txt]]4 Use Your Screen to Stoke Your Negative Emotions
 To feed your anger or anxiety about things over which you have no control or influence.
 - Be well informed while doing nothings
 
