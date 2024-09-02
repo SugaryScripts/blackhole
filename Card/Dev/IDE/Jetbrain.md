@@ -60,13 +60,15 @@
 |           | gitmoji intellij              |           |         |
 |           | gitmoji plus                  |           |         |
 ## Best Themes
-| plugin    | mode  | theme                 |
-| --------- | ----- | --------------------- |
-| Catpuccin | light | Latte                 |
-|           | dark  | Mocha                 |
-| Doki      | light | Charlotte: Tomori Nao |
-|           | dark  | Kanna                 |
-| Material  | dark  | Deep Ocean            |
+| plugin    | mode         | theme                 |
+| --------- | ------------ | --------------------- |
+| Catpuccin | light        | Latte                 |
+|           | dark         | Mocha                 |
+| Doki      | light        | Charlotte: Tomori Nao |
+|           | dark         | Kanna                 |
+|           |              | Gasai Yuno            |
+|           | light & dark | Darkness              |
+| Material  | dark         | Deep Ocean            |
  # FAQ
 - Location config on linux sys
 

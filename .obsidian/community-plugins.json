@@ -11,10 +11,10 @@
   "obsidian-image-gallery",
   "obsidian-wakatime",
   "link-favicon",
-  "cm-editor-syntax-highlight-obsidian",
   "vim-yank-highlight",
   "highlightr-plugin",
   "obsidian-quiet-outline",
   "nl-syntax-highlighting",
-  "table-checkboxes"
+  "table-checkboxes",
+  "cm-editor-syntax-highlight-obsidian"
 ]

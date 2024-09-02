@@ -13,7 +13,7 @@ Comparison:
 	- [[Virtualenv]]
 	- Conda
 	- [[Poetry]]
-- 
+- [[Python Code]]
 - [[Packages]]
 - [[Streamlit]]
 - [[Flask]]

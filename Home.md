@@ -31,6 +31,7 @@ These are maps to launch your `efforts`. Where would you like to go?
 	- [[Email Account Guideline]]
 	- [[Tags Management]]
 	- [[Music Management]]
+	- [[App SaaS]]
 - Systems
 	- [[Setup Obsidian Vault]]
 	- [[Plugins]]
