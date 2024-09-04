@@ -1,0 +1,7 @@
+- [ ] Add field jumlah pohon penyedia pjlh
+- [ ] Validate jumlah pohon pemanfaat <- Penyedia
+- [ ] Validate luas lahan <- Penyedia
+- [ ] Permohonan, filter print period by current company that have
+- [ ] Print validation by company only and it's exist
+- [ ] Typo in map
+- [ ] Filter company that have pemanfaat pjlh only
