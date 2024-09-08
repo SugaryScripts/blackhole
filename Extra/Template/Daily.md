@@ -1,10 +1,6 @@
 tags:: 
 time:: {{time}}
 
-```wakatime
-```
-
-
 # To do
 - [ ] 
 

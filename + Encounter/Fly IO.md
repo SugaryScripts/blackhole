@@ -1,3 +1,0 @@
-```sh
-pamac install fyctl
-```

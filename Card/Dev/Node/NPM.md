@@ -19,6 +19,7 @@ npm audit
 ```sh
 npm outdated
 npm -g outdated
+npm -g --depth=0 outdated
 ```
 
 > Use to update an individual package that has already been installed.

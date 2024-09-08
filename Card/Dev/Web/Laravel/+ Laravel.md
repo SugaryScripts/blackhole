@@ -1,3 +1,4 @@
+- [[Vite]]
 - [[Setup Laravel]]
 	- [[Installing]]
 - [[Basic Command]]
@@ -12,7 +13,13 @@
 - [[Laravel faker]]
 - [[Livewire]]
 
-# Structure
+# Extras
+Great tutorials:
+Manage layout component livewire
+[Josh Hanley](https://joshhanley.com.au/articles/how-to-structure-your-layout-file-for-livewire)
+
+# Theory Basics
+## Structure
 #### Public
 Assets placed in the `public` folder are served directly without any processing. This is useful for static assets that do not need to be transformed or optimized, such as favicon files or static images that rarely change.
 **Pros**:
@@ -23,6 +30,7 @@ Assets placed in the `resources` folder are intended to be processed by your bui
 **Pros**:
 - **Build Process**: Assets can be optimized, hashed, and versioned during the build.
 - **Modular**: Keeps source assets together with your source code.
+
 
 # Trouble shoots
 ## Maximum execution time of 30 seconds exceeded

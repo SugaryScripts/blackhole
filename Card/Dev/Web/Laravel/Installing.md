@@ -45,3 +45,5 @@ npm install
 @import 'bootstrap-icons/font/bootstrap-icons.css';
 ```
 
+
+#### Basic
