@@ -47,8 +47,17 @@ url:: [Fetching Title#ddog](https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins)
 
 # Case
 - [[Change User-Display name]]
+
 #### Change zsh logo
 read more:
 [Change OS\_ICON · Issue #515 · romkatv/powerlevel10k · GitHub](https://github.com/romkatv/powerlevel10k/issues/515?ref=dnsmichi.at)
 [How to change icons in p10k · Issue #990 · romkatv/powerlevel10k · GitHub](https://github.com/romkatv/powerlevel10k/issues/990)
 icon list: [Nerd Fonts - Iconic font aggregator, glyphs/icons collection, & fonts patcher](https://www.nerdfonts.com/cheat-sheet)
+
+#### Show known wifi 
+```sh
+sudo su
+cd /etc/NetworkManager/system-connections
+ls -a
+bat [wifi name]
+```
