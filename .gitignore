@@ -1,5 +1,5 @@
 # to exclude Obsidian workspace settings (including plugin and hotkey configurations)
-.obsidian/*
+.obsidian/
 .obsidian/workspace.json
 
 # Exclude all except obsidian-git => for different hostname config
