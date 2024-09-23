@@ -1,4 +1,4 @@
-###### Install
+###### Install (classic)
 ```sh
 npm i -g yarn
 ```
@@ -8,10 +8,13 @@ yarn global add
 yarn global list
 ```
 
-###### yarn 4
+###### yarn 4 (new install)
 ```sh
-# goto project dir
+# npm i -g corepack -> if corepack doesnt found
 corepack enable
+yarn exec env
+# go to project
+# or create by -> yarn init -2
 yarn set version stable
 yarn set version from sources
 yarn install

@@ -12,7 +12,10 @@
 - [[N]]
 	- [[NPM]]
 	- [[Yarn]]
+- [[xampp]]
 
+###### Frameworks
+[[+ Laravel]]
 
 ###### Extras
 [[Template Website]]
