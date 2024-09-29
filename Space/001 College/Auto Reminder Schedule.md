@@ -2,10 +2,12 @@
 Eat medicine # daily # 15.00 # 3
 Eat medicine # daily # 15.00 # 5/8/24
 Eat medicine # daily # 15.00 # 4/8/24 # 5/8/24
+Eat medicine # daily # 15.00 # 4/8/24 # [quantity]
 
 Eat medicine # weekly # 15.00 # 3
 Eat medicine # weekly # 15.00 # 5/8/24
 Eat medicine # weekly # 15.00 # 4/8/24 # 5/8/24
+Eat medicine # weekly # 15.00 # 4/8/24 # [quantity]
 
 ##### Further info required
 Weekly quantity case:
