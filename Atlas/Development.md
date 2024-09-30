@@ -9,7 +9,7 @@
 - [[IDE  Configuration]]
 
 ###### Environments
-- [[N]]
+- [[N]] - [[NVM]]
 	- [[NPM]]
 	- [[Yarn]]
 - [[xampp]]
