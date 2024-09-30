@@ -1,6 +1,6 @@
 [submodule "Extra/Image"]
 	path = Extra/Image
-	url = git@github.com:SugaryScripts/blackhole-sub-images.git
+	url = https://github.com/SugaryScripts/blackhole-sub-images.git
 [submodule "Extra/Document"]
 	path = Extra/Document
 	url = git@github.com:SugaryScripts/blackhole-sub-document.git
