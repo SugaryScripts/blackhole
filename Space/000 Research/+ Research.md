@@ -38,7 +38,17 @@ url:: [Get Started - WhatsApp Business Management API](https://developers.facebo
 
 
 
-
+# Helper  Website for Journal
+perplexity.ai
+- searching journal reference
+deepl.com
+- translate journal/abstract to BI or viceversa
+bypassai.ai
+- paraphrase
+- reduce ai or plagiarism
+quillbot.com
+- paraphrase
+- reduce ai or plagiarism
 
 
 

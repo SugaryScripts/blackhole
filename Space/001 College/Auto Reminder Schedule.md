@@ -61,7 +61,9 @@ date_start + 1
 ```
 
 
-
+#### http request to google app script
+[How to send HTTP requests using Google App Script - Automation Help](https://automation-help.com/http-requests-google-app-script/)
+[How to Handle GET and POST HTTP Requests in Google Apps Script - Digital Inspiration](https://www.labnol.org/code/19871-get-post-requests-google-script)
 
 
 

@@ -49,3 +49,17 @@ Pivot table
 ### main
 ###### Seberapa erat hubungan antara bidang studi dengan pekerjaan anda ?
 = 1 - 6
+
+### new form
+validation email contains @student.machung.ac.id
+size logo
+custom thank you message or redirect to link
+
+paid:
+surveymonkey
+zoho form -> 10 qna per form -> 100 response per form -> 80k rupiah per month  for a year
+jotform -> free -> 100 submission per month
+	34 annually per month
+surveyjs -> free -> unlimited -> disclaimer of liability -> 64kb per response
+	500 one time to 12 month latest update
+

@@ -7,6 +7,7 @@
 	- [[Migrate Laravel Mix Vite]]
 	- [[Migrate tailwind to bootstrap]]
 	- [[Localization]]
+	- [[Recursive Table Relation Laravel]]
 
 
 # Recommended Library
