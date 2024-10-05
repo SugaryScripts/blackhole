@@ -109,3 +109,6 @@ reporting - inventory - transaksi - membership
  - Phone & PC are the same?
  - Possibility of merge multiple company into one database
  - ~~Staff Author for each transaction or changes~~?
+
+
+- Feature: Tags or Categories

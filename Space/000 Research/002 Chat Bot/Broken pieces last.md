@@ -17,19 +17,25 @@ libz.so.1
 
 
 ```
-hmm, enggak keren kok
+halo
 namaku jane doe
-mau tanya, kalo kamu punya asisten pribadi, kira-kira apa yang bakal kamu suruh pertama kali
-hmm yah klasik
-btw, bisa gak kamu bantu aku ngerjain pr?
-bisa jelaskan tentang cara kerja listrik?
-i see
-okay terima kasih banyak
+hmm, enggak keren kok
+enggak, cuma mau tanya doang
+kira-kira kalau kamu punya asisten pribadi, apa yang bakal kamu suruh pertama kali?
+ku suruh kerja dong wkwk
+btw, bisa bantu aku ngerjain pr?
+bisa jelaskan cara kerja listrik?
+wokey terima kasih banyak
 ```
 
 Start:
 caption untuk hook penonton
 Mau Asisten AI MELALUI WA?
+
+pernah bayangin punya asisten pribadi di WhatsApp?
+
+sekarang bisa! yuk dilihat contoh percakapannya
+Sudah bisa nih! Penasaran gimana cara ngobrolnya? Cekidot!
 
 End:
 Mau tau caranya? 100 like akan dibuatkan tutorialnya
@@ -48,30 +54,6 @@ rf-classifier.net: Rp.60k
 Termasuk SSL
 
 
-
-### Pendek dan Menarik:
-
-- **"Obrolan dengan masa depan."**
-- **"Asisten AI Anda, didukung oleh Rails."**
-- **"Tanyakan apa saja. Serius, apa saja."**
-
-### Menarik dan Berbasis Pertanyaan:
-
-- **"Siap terpesona? Coba chatbot AI kami yang baru."**
-- **"Ingin mengobrol dengan robot yang mengerti Anda? Klik di sini."**
-- **"Pernah bertanya-tanya seperti apa rasanya memiliki asisten AI pribadi? Coba kami."**
-
-### Menekankan Rails dan Teknologi:
-
-- **"Kekuatan Rails, di ujung jari Anda."**
-- **"Rasakan masa depan AI, dibangun dengan Rails."**
-- **"Chatbot kami bukan hanya kode. Ini adalah percakapan."**
-
-### Menyenangkan dan Bermain-main:
-
-- **"Ayo ngobrol! Saya berjanji tidak akan menghakimi lelucon buruk Anda."**
-- **"Saya bukan hanya chatbot. Saya teman terbaik Anda yang baru (yah, semacamnya)."**
-- **"Bosan? Perlu seseorang untuk diajak bicara? Saya di sini untuk Anda."**
 
 Hosting aplikasi
 Rp. 2,588,304

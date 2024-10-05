@@ -1,5 +1,5 @@
 
-[[+ Laravel]]
+
 
 
 ###### IDE
@@ -9,10 +9,13 @@
 - [[IDE  Configuration]]
 
 ###### Environments
-- [[N]]
+- [[N]] - [[NVM]]
 	- [[NPM]]
 	- [[Yarn]]
+- [[xampp]]
 
+###### Frameworks
+[[+ Laravel]]
 
 ###### Extras
 [[Template Website]]

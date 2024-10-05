@@ -5,7 +5,9 @@
 - [[Storage & Link & Upload]]
 - [[Case]]
 	- [[Migrate Laravel Mix Vite]]
+	- [[Migrate tailwind to bootstrap]]
 	- [[Localization]]
+	- [[Recursive Table Relation Laravel]]
 
 
 # Recommended Library
@@ -17,6 +19,14 @@
 Great tutorials:
 Manage layout component livewire
 [Josh Hanley](https://joshhanley.com.au/articles/how-to-structure-your-layout-file-for-livewire)
+
+Understanding slot include layout
+[Laravel Flexible Layouts: Yields, Includes, Slots](https://dcblog.dev/creating-flexible-layouts-in-laravel-with-yields-includes-and-slots)
+
+Pass object into anonymous component
+[php - Pass Anonymous Components Attribute as object - Stack Overflow](https://stackoverflow.com/questions/69274581/pass-anonymous-components-attribute-as-object)
+
+
 
 # Theory Basics
 ## Structure
