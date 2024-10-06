@@ -264,9 +264,7 @@ A benchmark is usually used to compare your results to industry standards. In da
 
 For example, the MNIST data set is a benchmark dataset for the task of image and number recognition in computer vision. For time series anomaly detection, the NAB dataset is used as a benchmark to measure the accuracy of various anomaly detection models.
 
-#### 
-
-Baseline models are starting points
+#### Baseline models are starting points
 
 An important first step is to build a baseline model. This is a low-complexity model that is used to measure performance gains by more complex models. As you iterate through the model-building process, you perform experiments and build from low complexity to high complexity.
 
@@ -287,9 +285,7 @@ Key things to keep in mind regarding the complexity of a model:
 - How many computational steps are required to train the model?
 - How much computation is required to score new data?
 
-#### 
-
-Benchmarks are measuring sticks
+#### Benchmarks are measuring sticks
 
 Unlike baseline models, benchmarks are used to assess models and methods on how well they solve a general task such as digit identification or image recognition. In CRISP-DM, if it is your goal to create a state-of-the-art model to perform well on a general task, then keeping track of benchmarks would be important.
 
@@ -429,10 +425,11 @@ Although the [CRISP-DM Guide](https://web.archive.org/web/20220401041957/https:
 
 # Modeling
 
-| A                | B                 | C                       |
-| ---------------- | ----------------- | ----------------------- |
-| Model Selection  | Choose model      | Select Model technieque |
-| Building Models  | Model calibration | Generate test design    |
-| Parameter Tuning | business goals    | build model             |
-| Model Assessment | iteration         | asses model             |
-|                  |                   |                         |
+| 4                | 2                 | 5 & 7                   | 6                                   |
+| ---------------- | ----------------- | ----------------------- | ----------------------------------- |
+| Model Selection  | Choose model      | Select Model technieque | Revisit project goals               |
+| Building Models  | Model calibration | Generate test design    | select modelling techniques         |
+| Parameter Tuning | business goals    | build model             | Baseline model or benchmark         |
+| Model Assessment | iteration         | asses model             | Experiment with models & complexity |
+|                  |                   |                         | track experiments                   |
+|                  |                   |                         | assess the models                   |

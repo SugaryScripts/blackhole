@@ -46,13 +46,6 @@ Fase ini adalah untuk mengubah kumpulan data menjadi pengetahuan yang dapat menj
 - Prototype Models
 - Iterate and refine
 
-#### Building Models
-
-
-#### Assessment of Model Quality
-#### Iterative Nature
-#### Documentation
-
 
 
 
