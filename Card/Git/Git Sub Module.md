@@ -37,6 +37,24 @@ tags:: #vc/git
 # Requirements
 - The submodule repository must be **INITIALIZED** with a commit before being used
 # How
+## Clone repo with its submodule
+##### Short Way
+```sh
+git clone --recurse-submodules <repository-url>
+```
+##### Long Way
+1. Clone the Main Repository:
+```sh
+git clone https://github.com/your/project.git
+```
+ 2. Navigate to the Project Directory:
+ ```sh
+ cd project
+```
+ 3. Initialize and Update Submodules:
+ ```sh
+ git submodule update --init --recursive
+```
 ## Setup
 1. on your current repo root folder
 ```sh
