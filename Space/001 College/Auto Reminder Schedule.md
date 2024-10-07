@@ -1,3 +1,6 @@
+#### Webs
+![[whatsapp reminder web wireframe.jpg]]
+#### App Script
 ##### Possibility
 Eat medicine # daily # 15.00 # 3
 Eat medicine # daily # 15.00 # 5/8/24

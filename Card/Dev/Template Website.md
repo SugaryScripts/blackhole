@@ -89,3 +89,12 @@ Detail:
 **Soft UI** $59
 Preview:
 [Preview - Bootstrap Themes](https://themes.getbootstrap.com/preview/?theme_id=93682)
+
+
+### Dashboard
+[GitHub - zuramai/mazer: Free and Open-source Bootstrap 5 Admin Dashboard Template and Landing Page](https://github.com/zuramai/mazer)
+
+### Landing Page
+Similiar
+[Space Dynamic - Free Bootstrap 5 HTML5 Digital Marketing Website Template - ThemeWagon](https://themewagon.com/themes/free-bootstrap-5-html-5-digital-marketing-template-space-dynamic/)
+[Onix - Free Bootstrap 5 HTML5 SEO & Digital Marketing Website Template](https://themewagon.com/themes/free-bootstrap-5-html-5-seo-digital-marketing-website-template-onix/)
