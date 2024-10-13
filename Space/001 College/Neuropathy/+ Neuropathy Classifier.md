@@ -43,3 +43,12 @@ Dataset
 		- normal
 		- ragu
 		- non dm (orang sehat) => used
+
+
+Neuropathy 483
+Non Neuropathy 675
+
+Train 926
+Test 232
+Epoch 100
+

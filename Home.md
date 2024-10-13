@@ -14,6 +14,7 @@ These are maps to launch your `efforts`. Where would you like to go?
 	- [[Vim]]
 	- [[Termux]]
 	- [[Sublime]]
+	- [[App Helper]]
 - [[Development]] ☕
 	- [[Atlas/Git]]
 	- [[Python]]
