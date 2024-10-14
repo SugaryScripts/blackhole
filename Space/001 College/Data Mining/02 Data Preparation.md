@@ -1,7 +1,11 @@
+##### My Own Sources
+[Data Cleaning Techniques in Python: the Ultimate Guide - Just into Data](https://www.justintodata.com/data-cleaning-techniques-python-guide/)
+
+##### Intro Quizz
 Berikut beberapa sumber yang dapat memantu untuk data preparation :
-Sumber bacaan 1 : [https://towardsdatascience.com/data-cleaning-in-python-the-ultimate-guide-2020-c63b88bf0a0d](https://towardsdatascience.com/data-cleaning-in-python-the-ultimate-guide-2020-c63b88bf0a0d "https://towardsdatascience.com/data-cleaning-in-python-the-ultimate-guide-2020-c63b88bf0a0d"). 
-Sumber bacaan 2 : [https://towardsdatascience.com/practical-guide-to-data-cleaning-in-python-f5334320e8e](https://towardsdatascience.com/practical-guide-to-data-cleaning-in-python-f5334320e8e "https://towardsdatascience.com/practical-guide-to-data-cleaning-in-python-f5334320e8e"). 
-Sumber bacaan 3 : [https://machinelearningmastery.com/standardscaler-and-minmaxscaler-transforms-in-python/](https://machinelearningmastery.com/standardscaler-and-minmaxscaler-transforms-in-python/ "https://machinelearningmastery.com/standardscaler-and-minmaxscaler-transforms-in-python/")
+Sumber bacaan 1 : [data-cleaning-in-python-the-ultimate-guide-2020](https://towardsdatascience.com/data-cleaning-in-python-the-ultimate-guide-2020-c63b88bf0a0d "https://towardsdatascience.com/data-cleaning-in-python-the-ultimate-guide-2020-c63b88bf0a0d"). 
+Sumber bacaan 2 : [practical-guide-to-data-cleaning-in-python](https://towardsdatascience.com/practical-guide-to-data-cleaning-in-python-f5334320e8e "https://towardsdatascience.com/practical-guide-to-data-cleaning-in-python-f5334320e8e"). 
+Sumber bacaan 3 : [standardscaler-and-minmaxscaler-transforms-in-python](https://machinelearningmastery.com/standardscaler-and-minmaxscaler-transforms-in-python/ "https://machinelearningmastery.com/standardscaler-and-minmaxscaler-transforms-in-python/")
 
 
 ##### Kualitas bangunan
