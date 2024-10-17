@@ -1,0 +1,31 @@
+- Google Cloud: Create credentials OAuth client ID
+	- Configure consent screen
+	- Set the type to “Web application”
+	- Copy the “Client ID” (leave this window open)
+	- /.env and paste the ID next to GOOGLE_CLIENT_ID=
+	- /config/google.php and paste the ID into 'client_id' => env('GOOGLE_CLIENT_ID', ''),
+	- back to the Google Console and copy the “Client Secret”
+	- /.env and paste the ID next to GOOGLE_CLIENT_SECRET=
+	-  /config/google.php and paste the ID into 'client_secret'    => env('GOOGLE_CLIENT_SECRET', '')
+- Setup google sheet
+	- [http://sheets.google.com](http://sheets.google.com/) and create a new
+	- [[laravel-gsheet.jpg]]
+	- Copy the ID of the document from the URL
+	- /.env and paste the document ID next to POST_SPREADSHEET_ID=
+- Setup Google Credentials service account type
+	- You can get if on menu service keys, tab keys, create json key
+	- Save the .json file under the project’s `/storage/` folder as “`credentials.json`”
+	- From the console, click on “Manage service accounts”
+- Set Permission on Google Sheet
+	- Go back to your Sheet
+	- Click on “Share”
+	- Paste the email address for the service account and make sure to give it “edit” access
+- Enable required Google APIs
+	- Return to the main Developer Dashboard ([apis/dashboard](https://console.developers.google.com/apis/dashboard))
+	- Click “ENABLE API AND SERVICES”
+	- “Google Drive API” option
+	- “Google Sheets API”
+- Final configuration of Laravel Settings / Files
+	- .env and set the following:
+		- GOOGLE_SERVICE_ENABLED=true
+		- GOOGLE_SERVICE_ACCOUNT_JSON_LOCATION=../storage/credentials.json
