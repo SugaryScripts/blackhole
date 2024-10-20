@@ -1850,7 +1850,7 @@ Avg Kills per turn: >4
   
 [![](https://steamcommunity.com/sharedfiles/filedetails/?id=3000270049)](https://steamcommunity.com/sharedfiles/filedetails/?id=3000270049)  
 
-Class Skills
+#### Class Skills
 
 - L2 - Fighter  
     
@@ -2162,7 +2162,7 @@ Avg Kills per turn: >1
   
 [![](https://steamuserimages-a.akamaihd.net/ugc/2313225941437564721/BD8757468C331088D462DE4CEABFDDBB784F2E52/)](https://steamuserimages-a.akamaihd.net/ugc/2313225941437564721/BD8757468C331088D462DE4CEABFDDBB784F2E52/)  
 
-Class Skills
+#### Class Skills
 
 - L2 - Sentinel  
     
