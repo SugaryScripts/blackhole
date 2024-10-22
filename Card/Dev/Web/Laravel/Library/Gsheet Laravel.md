@@ -1,3 +1,4 @@
+source: [Connecting Laravel to a Google Sheet | Drive Marketing](https://drivemarketing.ca/en/blog/connecting-laravel-to-a-google-sheet/)
 - Google Cloud: Create credentials OAuth client ID
 	- Configure consent screen
 	- Set the type to “Web application”

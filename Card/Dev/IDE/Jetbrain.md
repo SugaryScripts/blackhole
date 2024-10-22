@@ -99,3 +99,20 @@ Theme
 ```sh
 KEY=/home/$(whoami)/.config/JetBrains/*/eval/*.key;OTHER=/home/$(whoami)/.config/JetBrains/*/options/other.xml;PHPSTORM=/home/$(whoami)/.java/.userPrefs/jetbrains/phpstorm;WEBSTORM=/home/$(whoami)/.java/.userPrefs/jetbrains/webstorm;PYCHARM=/home/$(whoami)/.java/.userPrefs/jetbrains/pycharm;RIDER=/home/$(whoami)/.java/.userPrefs/jetbrains/rider;CLION=/home/$(whoami)/.java/.userPrefs/jetbrains/clion;DATALORE=/home/$(whoami)/.java/.userPrefs/jetbrains/datalore;DATAGRIP=/home/$(whoami)/.java/.userPrefs/jetbrains/datagrip;RUBYMINE=/home/$(whoami)/.java/.userPrefs/jetbrains/rubymine;APPCODE=/home/$(whoami)/.java/.userPrefs/jetbrains/appcode;GOLAND=/home/$(whoami)/.java/.userPrefs/jetbrains/goland;rm -f $KEY $OTHER;rm -rf $PHPSTORM $WEBSTORM $PYCHARM $RIDER $CLION $DATALORE $DATAGRIP $RUBYMINE $APPCODE $GOLAND;echo "processing: find existing file, please wait ...";echo "processing: delete existing eval key ...";echo "processing: file deleted.";echo "done: success reseting your Jerbrains IDE.";
 ```
+
+
+windows
+[JetBrains IDE trial reset windows · GitHub](https://gist.github.com/rjescobar/4b7200d7b2274c029107ca8b9d02f3a3)
+```bat
+REM Delete eval folder with licence key and options.xml which contains a reference to it
+for %%I in ("WebStorm", "IntelliJ", "CLion", "Rider", "GoLand", "PhpStorm", "Resharper", "PyCharm") do (
+    for /d %%a in ("%USERPROFILE%\.%%I*") do (
+        rd /s /q "%%a/config/eval"
+        del /q "%%a\config\options\other.xml"
+    )
+)
+
+REM Delete registry key and jetbrains folder (not sure if needet but however)
+rmdir /s /q "%APPDATA%\JetBrains"
+reg delete "HKEY_CURRENT_USER\Software\JavaSoft" /f
+```
