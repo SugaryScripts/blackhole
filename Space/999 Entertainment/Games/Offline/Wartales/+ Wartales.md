@@ -3,6 +3,9 @@
 
 [[Wartales best build fandom]]
 [[Wartales others]]
+[[Wartales steam]]
+[[Wartales guide]]
+
 STart
 - apprentice
 - excelent at slap games

@@ -5,3 +5,5 @@
 	- [[Plays Candidates]]
 - Tools
 	- [[Steam CMD]]
+- Games
+	- [[+ Wartales]]
