@@ -426,7 +426,7 @@ This build is viable for solo play. Watch out for DOT effects & being kited by r
 
 _
 
-### Brute - Nutcracker
+#### Brute - Nutcracker
 
 Offense: ★★★★☆  
 Defense: ★★★★☆  
@@ -438,18 +438,13 @@ Avg Kills per turn: 2
   
 [![](https://steamuserimages-a.akamaihd.net/ugc/2149964195984336744/B3934C048767C3B4173CE24CD0C3F8788D80B1D2/)](https://steamuserimages-a.akamaihd.net/ugc/2149964195984336744/B3934C048767C3B4173CE24CD0C3F8788D80B1D2/)  
 
-#### Class Skills
+##### Class Skills
 
 - L2 - Destroyer  
-    
 - L3 - Valorous Duel  
-    
 - L5 - Armour Breaker  
-    
 - L8 - Guard Breaker or Temperance  
-    
 - L10 - Defensive Riposte  
-    
 - L12 - Class Specialization - Temperance or Guard Breaker
 
 Other Skills: Wrath, Taunt, Run  
@@ -457,7 +452,7 @@ Recommended starting Traits: Strong, Thick-skinned, Solitary, Bloodthirsty
   
 [![](https://steamuserimages-a.akamaihd.net/ugc/2149964195984335854/7512546A7874314CBEB2CE2823653154C5E6B82E/)](https://steamuserimages-a.akamaihd.net/ugc/2149964195984335854/7512546A7874314CBEB2CE2823653154C5E6B82E/)  
 
-#### Gear
+##### Gear
 
 - Helm - Any heavy helm (+Willpower, +Critical Damage, +AO damage)  
     
@@ -475,22 +470,18 @@ Recommended starting Traits: Strong, Thick-skinned, Solitary, Bloodthirsty
     
 - Belt - complementary **Oil Concentrate** or any other oil.
 
-#### Stats
+##### Stats
 
 - **Profession** - Master Tinkerer (+12% Critical Hit Chance), Master Blacksmith (+10 Strength), or Master Woodcutter (+4 Strength, +6% Critical Hit Chance)  
     
 - **Aptitude Points** - raise base Willpower to 12/14, 16~20 base movement (or DLC 20~24 base movement) & remainder into critical hit
 
-#### Strategy
+##### Strategy
 
 - This build starts at level 5 with upgraded **Armour Breaker**, getting it upgraded grants **Inspiration** after dealing with the first enemy allows for movement to hunt down **Leaders** & other high value threats.  
-    
 - If need to chase target that is far away, pick a medium or light armoured target to kill or break armour first to gain **Inspiration**  
-    
 - Use **Taunt** null damage taken on toughest target before starting.  
-    
 - Take **Temperance** over **Guard Breaker** if tanking is higher priority. Use **Perforating Oil** to make up for choosing **Temperance** at level 8 until getting it at level 12.  
-    
 - To use **Defensive Riposte** aggressively, use **Disengage** after each engagement for 50% chance AO strike. If **Defensive Riposte** fails to trigger, upgraded **Temperance** will counter with AO every 2 hits.  
     
 - **
@@ -631,7 +622,7 @@ Class Specialization (Passive)
 
 - Unlocks skill from a previous level
 
-### Pugilist - Iron-bodied Monk
+#### Pugilist - Iron-bodied Monk
 
 Offense: ★★★☆☆  
 Defense: ★★★★★  
@@ -684,27 +675,19 @@ Stats
     
 - **Aptitude Points** - raise base Willpower to 12/14, 16~20 base movement (or DLC 20~24 base movement) & remainder into critical hit
 
-Strategy
+##### Strategy
 
 - Great for early game as just kit him with whatever gear you can get.  
-    
 - Use Wrestler skill **Takedown** first to get the **In Position** effect with **Focus**  
-    
 - With (Colossal) Layer of the Ox, its easy to reach >40% guard to get max 80% guard with **In Position** to work as a main tank.  
-    
-- **
-    
-    Extreme Difficulty
-    
+
+- **Extreme Difficulty**
     **Use Brave Oil to reduce VP consumption.  
     
-- **
-    
-    DLC Ship fights
-    
+- **DLC Ship fights
     **Use **Small Spikes Belt** to counter **Boarding Attack** or **Sea Dog's Flask belt** to land immediately without delay after using **Boarding Attack**
 
-### Pugilist - Street Fighter
+#### Pugilist - Street Fighter
 
 Offense: ★★★★☆  
 Defense: ★★★☆☆  
@@ -719,15 +702,10 @@ Avg Kills per turn: 2
 Class Skills
 
 - L2 - Valorous Victory  
-    
 - L3 - Bruiser  
-    
 - L5 - Focus or Personal Challenge  
-    
 - L8 - Stance Mastery  
-    
 - L10 - Defensive Riposte  
-    
 - L12 - Class Specialization - Personal Challenge or Focus
 
 Other Skills: Taunt, Wrath, Run  
@@ -757,14 +735,11 @@ Stats
     
 - **Aptitude Points** - raise base Willpower to 12/14, 16~20 base movement (or DLC 20~24 base movement) & remainder into critical hit
 
-Strategy
+##### Strategy
 
 - Great for early game as just kit him with whatever gear you can get.  
-    
 - Focus on killing other heavy armoured high guard units  
-    
 - Great for taking down leaders & bosses  
-    
 - Be wary of Guard faction's Defender (Retaliate with AO on crit) & Brotherhood's Sentry (Return damage taken & return health damage) as they could hurt very bad when attacked with multiple hits  
     
 - **
@@ -779,7 +754,7 @@ Strategy
     
     **Use **Small Spikes Belt** to counter **Boarding Attack** or **Sea Dog's Flask belt** to land immediately without delay after using **Boarding Attack**
 
-### Pugilist - Ravager (DLC)
+#### Pugilist - Ravager (DLC)
 
 Offense: ★★★★★  
 Defense: ★★★☆☆  
@@ -794,15 +769,10 @@ Avg Kills per turn: >2
 Class Skills
 
 - L2 - Valorous Victory  
-    
 - L3 - Tyrant  
-    
 - L5 - Focus  
-    
 - L8 - Brutal Frenzy  
-    
 - L10 - Defensive Riposte  
-    
 - L12 - Class Specialization - Stance Knowledge
 
 Other Skills: Taunt, Wrath, Run  
@@ -826,7 +796,7 @@ Gear
     
 - Belt - Trophy of Legends (Once per fight can use 2 base skills for that turn)
 
-#### Stats
+##### Stats
 
 - **Profession** - Master Tinkerer (+12 Critical Hit Chance), Master Alchemist (+10 Dexterity), or Master Thief (+4 Dexterity, +6% Critical Hit Chance)  
     
@@ -835,24 +805,15 @@ Gear
 Strategy
 
 - Great for early game as just kit him with whatever gear you can get.  
-    
 - DLC required for Tyrant unlock & Weapon.  
-    
 - Trophy of Legend belt lets this build stack hit counts & kills quickly from the first turn.  
-    
 - Use weapon skill **Hysterical Pummeling** on first target to make use of **Focus**. Use Quick Attacks on 2nd target then switch to Defence Stance & use **Hysterical Pummeling** again on 3rd target to end the first turn with 4 Delirium counts.  
     
-- **
+- **Extreme Difficulty**
+  This build is VP efficient, no change.  
     
-    Extreme Difficulty
-    
-    **This build is VP efficient, no change.  
-    
-- **
-    
-    DLC Ship fights
-    
-    **30 ~ 40 total movement needed to reach enemy without **Boarding Attack!**
+- **DLC Ship fights**
+  30 ~ 40 total movement needed to reach enemy without **Boarding Attack!**
 
 _
 
@@ -986,7 +947,7 @@ Class Specialization (Passive)
 
 - Unlocks skill from a previous level
 
-### Ranger - Busybody
+#### Ranger - Busybody
 
 Offense: ★★★☆☆  
 Defense: ★☆☆☆☆  
@@ -998,7 +959,7 @@ Avg Kills per turn: >1
   
 [![](https://steamuserimages-a.akamaihd.net/ugc/2313225941456220541/8F1739B2D73676F735ABC0F0DC3B387065532B9D/)](https://steamuserimages-a.akamaihd.net/ugc/2313225941456220541/8F1739B2D73676F735ABC0F0DC3B387065532B9D/)  
 
-#### Class Skills
+##### Class Skills
 
 - L2 - Valorous Support  
     
@@ -1014,7 +975,7 @@ Avg Kills per turn: >1
 
 Other Skills: Taunt, Wrath, First Aid, Tactical Order (Lieutenant), Galvanise Troops (Captain) Recommended starting Traits: Nimble, Solitary  
 
-#### Gear
+##### Gear
 
 - Helm - Any light helm  
     
@@ -1057,7 +1018,7 @@ Strategy
     
     **Use **Small Spikes Belt** to counter **Boarding Attack** or **Sea Dog's Flask belt** to land immediately without delay after using **Boarding Attack**.
 
-### Ranger - Bodybagger
+#### Ranger - Bodybagger
 
 Offense: ★★★★☆  
 Defense: ★☆☆☆☆  
@@ -1137,7 +1098,7 @@ Strategy
     
     **Use **Small Spikes Belt** to counter **Boarding Attack** or **Sea Dog's Flask belt** to land immediately without delay after using **Boarding Attack**.
 
-### Ranger - Shinobi Reaper
+#### Ranger - Shinobi Reaper
 
 Offense: ★★★★★  
 Defense: ★☆☆☆☆  
@@ -1150,7 +1111,7 @@ _Note: This is the only build able to achieve ≥10 kills per turn & clear the e
   
 [![](https://steamuserimages-a.akamaihd.net/ugc/2313225941456204921/7A6ED288699289AAF46F7F2A328F924CFD08DF8A/)](https://steamuserimages-a.akamaihd.net/ugc/2313225941456204921/7A6ED288699289AAF46F7F2A328F924CFD08DF8A/)  
 
-#### Class Skills
+##### Class Skills
 
 - L2 - Valorous Victory  
     
@@ -1169,7 +1130,7 @@ _Note: Having more active skills means more procs of Instinctive Throw to soften
   
 [![](https://steamuserimages-a.akamaihd.net/ugc/2313225941456205360/98F23A2129E3709B2BE3F0352BE8AFAF2E9E6A5C/)](https://steamuserimages-a.akamaihd.net/ugc/2313225941456205360/98F23A2129E3709B2BE3F0352BE8AFAF2E9E6A5C/)  
 
-#### Gear
+##### Gear
 
 - Helm - Any light helm (+Willpower, +Critical Chance)  
     
@@ -1189,13 +1150,13 @@ _Note: Having more active skills means more procs of Instinctive Throw to soften
     
 - _Note: Mysterious Insignia fits the theme & is acquired from Crime & Chaos Path quest. Other belts may provide specific or better utility._
 
-#### Stats
+##### Stats
 
 - **Profession** - Master Tinkerer (+12 Critical Hit Chance), Master Alchemist (+10 Dexterity), or Master Thief (+4 Dexterity, +6% Critical Hit Chance)  
     
 - **Aptitude Points** - raise base Willpower to 12/14, 16~20 base movement (or DLC 18~22 base movement) & remainder into critical hit
 
-#### Strategy
+##### Strategy
 
 - This is a very VP intensive slaughter machine, Brave oil lets it be self-sufficient. It is most effective against groups of 2 or 3. It can kill every light & medium armoured enemies on the map by ownself. Heavy armoured enemies need to be softened by (1) engaged by another unit or (2) use active skills to proc **Instinctive Throw**.  
     
@@ -1339,7 +1300,7 @@ Class Specialization (Passive)
 
 - Unlocks skill from a previous level
 
-### Spearman - Watchtower
+#### Spearman - Watchtower
 
 Offense: ★★★★☆  
 Defense: ★★☆☆☆  
@@ -1426,7 +1387,7 @@ This is one of the most flexible builds while growing. Since the role is to boos
 
 _
 
-### Spearman - Ballista
+#### Spearman - Ballista
 
 Offense: ★★★★☆  
 Defense: ★☆☆☆☆  
@@ -1503,7 +1464,7 @@ Strategy
     
     **40 movement total to cross the bridge & attack enemies. Make use of **Inspiration** (x2 movement) & **Alertness** (+50% movement)
 
-### Spearman - Martial Master (DLC)
+#### Spearman - Martial Master (DLC)
 
 Offense: ★★★★★  
 Defense: ★★☆☆☆  
@@ -1717,7 +1678,7 @@ Class Specialization (Passive)
 
 - Unlocks skill from a previous level
 
-### Swordsman - The Workhorse
+#### Swordsman - The Workhorse
 
 Offense: ★★★★☆  
 Defense: ★★★☆☆  
@@ -1810,7 +1771,7 @@ This build has been radically changed by **Counter-Attack** nerf as it relied 
 
 _
 
-### Swordsman - Bloodletter
+#### Swordsman - Bloodletter
 
 Offense: ★★★★★  
 Defense: ★★★★★  
@@ -1822,7 +1783,7 @@ Avg Kills per turn: >4
   
 [![](https://steamcommunity.com/sharedfiles/filedetails/?id=3000270049)](https://steamcommunity.com/sharedfiles/filedetails/?id=3000270049)  
 
-#### Class Skills
+##### Class Skills
 
 - L2 - Fighter  
 - L3 - Valorous Duel  
@@ -1839,28 +1800,21 @@ Recommended starting Traits: Strong, Thick-skinned, Bloodthirsty, Solitary
 Gear
 
 - Helm - Any heavy helm (+Willpower, +Critical Chance, +Critical Damage, +AO Damage)  
-    
 - Helm Skill - **Legionary's Ointment** (Gain all attacks apply bleeding for 1 round)  
-    
 - Weapon - **Clink's Sword** (20-40% damage, Triple Strike, Knockback), **Mehyt's Kopis** (80-100% damage, +2 VP on kill), **Glory** (70-90% damage, if engaged, gain **Protection** for 1 round), _DLC>> **Maelstrom** (40-60% damage & apply **Bleeding**, then deal 40-60% damage & 4m knockback), **Groac'h** (80-100% damage & 3m knockback)  
     _
 - Oils - **Perforating Oil** (Ignore 50% guard) & **Bleeding Oil** (25% proc on dealing damage to trigger **Bleeding** damage on target)  
-    
 - Shield - **Alazarian Heater Shield** (When hit by engaged opponent, retaliates with AO)  
-    
 - Armour - Any heavy Armour (+Willpower, +Critical Chance, +Critical Damage, +AO Damage)  
-    
 - Layers - **Colossal Horse Layer**(+4 Strength, +6 Guard), **Colossal Rat Layer** (+1 Movement, +6% Critical Hit), **Colossal Serpent Layer**(+4 Strength, +6% Critical Hit), _DLC>> **Mihr Brooch** (-1 Movement, +15 Critical Hit), Hessura Brooch (+10 Strength, -9 Armour)_  
-    
 - Belt - **Bleeding Oil Concentrate**
 
 Stats
 
 - **Profession** - Master Tinkerer (+12 Critical Hit Chance), Master Blacksmith (+10 Strength), or Master Woodcutter (+4 Strength, +6% Critical Hit Chance)  
-    
 - **Aptitude Points** - raise base Willpower to 12/14, 16~20 base movement (or DLC 20~24 base movement) & remainder into critical hit
 
-Strategy
+##### Strategy
 
 - This build is optimized for solo play. Swap **Hardcore Training** for any of the other level 5 skills if **Bleeding**, **Poison** & **Burning** immunity is not needed.  
 - The essential pieces are **Legionary's Ointment**, **Bleeding Oil**, **Bleeding Oil Concentrate** & **Alazarian Heater Shield**  
@@ -1898,7 +1852,7 @@ Bear Fight
 [![](https://steamuserimages-a.akamaihd.net/ugc/2056505632883097156/F7828B4522811F95B133BA8851CCFCEBB4D6E5BA/)](https://steamuserimages-a.akamaihd.net/ugc/2056505632883097156/F7828B4522811F95B133BA8851CCFCEBB4D6E5BA/)[![](https://steamuserimages-a.akamaihd.net/ugc/2056505632883097381/8D56E307E032F6D60A7C503BBD831B91436158D2/)](https://steamuserimages-a.akamaihd.net/ugc/2056505632883097381/8D56E307E032F6D60A7C503BBD831B91436158D2/)[![](https://steamuserimages-a.akamaihd.net/ugc/2056505632883097752/4414F2650BC1B57EFB194790766B22F7CFAA53D0/)](https://steamuserimages-a.akamaihd.net/ugc/2056505632883097752/4414F2650BC1B57EFB194790766B22F7CFAA53D0/)[![](https://steamuserimages-a.akamaihd.net/ugc/2056505632883098119/E32CC8FE06D0C92BF46CFE1289486CDEEF0EA094/)](https://steamuserimages-a.akamaihd.net/ugc/2056505632883098119/E32CC8FE06D0C92BF46CFE1289486CDEEF0EA094/)[![](https://steamuserimages-a.akamaihd.net/ugc/2056505632883098484/017C3601DA12A38E521B387FE515953B3305F76A/)](https://steamuserimages-a.akamaihd.net/ugc/2056505632883098484/017C3601DA12A38E521B387FE515953B3305F76A/)[![](https://steamuserimages-a.akamaihd.net/ugc/2056505632883098861/6F6E1AAD5A9321BEF14C5DBDF6EC70638D699D58/)](https://steamuserimages-a.akamaihd.net/ugc/2056505632883098861/6F6E1AAD5A9321BEF14C5DBDF6EC70638D699D58/)  
 [![](https://steamuserimages-a.akamaihd.net/ugc/2056505632883100175/C6FE1D7BBB2FEFAAEFC9D8E4A79B76289752781E/)](https://steamuserimages-a.akamaihd.net/ugc/2056505632883100175/C6FE1D7BBB2FEFAAEFC9D8E4A79B76289752781E/)
 
-### Swordsman - Captain Vanguard
+#### Swordsman - Captain Vanguard
 
 Offense: ★★★★★  
 Defense: ★★★★★  
@@ -1910,7 +1864,7 @@ Avg Kills per turn: 3
   
 [![](https://steamuserimages-a.akamaihd.net/ugc/2313225941434634373/704633841983484210FFD34406385AD8EA5DF3CB/)](https://steamuserimages-a.akamaihd.net/ugc/2313225941434634373/704633841983484210FFD34406385AD8EA5DF3CB/)  
 
-#### Class Skills
+##### Class Skills
 
 - L2 - Fighter  
 - L3 - Valorous Duel  
@@ -1936,13 +1890,13 @@ Gear
 - Shield - Any shield, preferably one with active attack, eg: **Legion Buckler (**Motivated**)**, **Rampart** (armour & bonus ability damage), **Hothead's Scutum** (highest ability damage, **Confused**), _DLC>> **Privateer's Roundel** (+1 Fervour on engage), Solar Aspis (forced engage or +1 Fervour)_  
 - Belt - **Mehyt's Ivory Horn** (**Inspiration** for 1 round on allies affected by Captain or Lieutenant skill)
 
-#### Stats
+##### Stats
 
 - **Profession** - Master Tinkerer (+12 Critical Hit Chance), Master Blacksmith (+10 Strength), or Master Woodcutter (+4 Strength, +6% Critical Hit Chance)  
 - **Aptitude Points** - raise base Willpower to 12/14, total Critical Hit Chance up to 75% after equipment, 16~20 base movement (or DLC 20~24 base movement) & excess into strength  
 - _Note: Other Sources of Critical Chance: Bloodthirsty Trait (+3%), Duelist Trait (+5%), Path Title (0 ~ 25% based on Wanted level), Stuffed Cabbage Food(+10%, Delicious +15%), Colossal Rat Layer x3 (+18%), DLC>> Mihr Brooch Layer x3 (+45%)_
 
-Strategy
+##### Strategy
 
 - This is a level 12 variant of the **Workhorse** build, it also requires completing all the tombs & getting Sepulchre belt reward.  
 - This build will start every fight by using Captain skill **Galvanise** to gain VP & apply **Inspiration** to allies (4m radius) & apply **Exhort** (6m radius).  
@@ -2090,7 +2044,7 @@ Class Specialization (Passive)
 
 - Unlocks skill from a previous level
 
-### Warrior - Songmaster
+#### Warrior - Songmaster
 
 Offense: ★★☆☆☆  
 Defense: ★★★★★  
@@ -2102,18 +2056,13 @@ Avg Kills per turn: >1
   
 [![](https://steamuserimages-a.akamaihd.net/ugc/2313225941437564721/BD8757468C331088D462DE4CEABFDDBB784F2E52/)](https://steamuserimages-a.akamaihd.net/ugc/2313225941437564721/BD8757468C331088D462DE4CEABFDDBB784F2E52/)  
 
-#### Class Skills
+##### Class Skills
 
 - L2 - Sentinel  
-    
 - L3 - Valorous Duel  
-    
 - L5 - First Blood  
-    
-- L8 - Battle Cry  
-    
-- L10 - Lone Wolf  
-    
+- L8 - Battle Cry 
+- L10 - Lone Wolf 
 - L12 - Class Specialization - Limit Break or Madness
 
 Other Skills: Taunt, Wrath, First Aid, Tactical Order (Lieutenant), Galvanise Troops (Captain)  
@@ -2163,7 +2112,7 @@ Strategy
     
     **Apply team buffs then drop beside enemies to watch them beat themselves to death. Use **Small Spikes Belt** to counter **Boarding Attack** or **Sea Dog's Flask belt** to land immediately without delay after using **Boarding Attack**.
 
-### Warrior - Axecutioner
+#### Warrior - Axecutioner
 
 Offense: ★★★★★  
 Defense: ★★☆☆☆  
@@ -2250,7 +2199,7 @@ Strategy
     
     **40 movement total to cross the bridge & destroy 2 clusters of enemies. Make use of **Inspiration** (x2 movement) & **Alertness** (+50% movement)
 
-### Warrior - Whirlstorm
+#### Warrior - Whirlstorm
 
 Offense: ★★★★★  
 Defense: ★★★★☆  
@@ -2262,18 +2211,13 @@ Avg Kills per turn: 5
   
 [![&lt;&lt;Image&gt;&gt;](https://steamuserimages-a.akamaihd.net/ugc/2056507678941452622/D37441F151D3D6130836A1DE5C630EEF10279B4E/ "&lt;&lt;Image&gt;&gt;")](https://steamuserimages-a.akamaihd.net/ugc/2056507678941452622/D37441F151D3D6130836A1DE5C630EEF10279B4E/)  
 
-#### Class Skills
+##### Class Skills
 
 - L2 - Executioner  
-    
 - L3 - Valorous Chain  
-    
 - L5 - First Blood  
-    
 - L8 - Challenging Shout  
-    
 - L10 - Lone Wolf  
-    
 - L12 - Class Specialization - Limit Break or Recklessness
 
 Other Skills: Run, Wrath, Taunt  
