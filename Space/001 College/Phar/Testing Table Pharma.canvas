@@ -1,18 +1,17 @@
 {
 	"nodes":[
-		{"id":"4823851c6e250cd9","type":"text","text":"Staff\n- name\n- role","x":-156,"y":-324,"width":160,"height":140,"color":"6"},
-		{"id":"6457f469f779c370","type":"text","text":"User\n- username\n- password","x":-380,"y":-324,"width":200,"height":140,"color":"6"},
-		{"id":"a2da74bf38328763","type":"text","text":"Permission & Roles","x":-292,"y":-430,"width":250,"height":50},
 		{"id":"1f626fed607f3848","type":"text","text":"Notes:\nFrame, Lenses, width, height, length, thickness,...\nSystem Tag / category\nDetail Medical history\n","x":-704,"y":-430,"width":300,"height":279},
-		{"id":"3d5136e2cf6c5377","type":"text","text":"Member\n- name\n- birth_date\n- address","x":29,"y":-372,"width":205,"height":164,"color":"6"},
 		{"id":"57f13844ff4f51f9","type":"text","text":"Category\n- name","x":-766,"y":-74,"width":200,"height":102,"color":"3"},
 		{"id":"8d7da0d92d834714","type":"text","text":"Sub Category\n- name\n- category_id","x":-766,"y":54,"width":224,"height":124,"color":"3"},
 		{"id":"0c73f2ad9ea2ec5f","type":"text","text":"Product\n- name\n- price\n- code\n- stock","x":-746,"y":228,"width":180,"height":200,"color":"3"},
 		{"id":"c222df5ee3aa329f","type":"text","text":"Discounts\n- start date\n- end date\n- product_id\n- category_id\n- discount_type (cat, member, prod)\n- discount_value\n  (percentage/\n  nominal)\n- discount","x":-446,"y":-118,"width":290,"height":391,"color":"5"},
-		{"id":"d559ac97c2c672c0","type":"text","text":"Transactions\n- date\n- customer_name\n- is_member\n- customer_no\n- customer_id\n- is_settled\n- total","x":-96,"y":-74,"width":250,"height":302,"color":"5"},
 		{"id":"61fd508cf1946b91","type":"text","text":"Transaction Item\n- transaction id\n- product id\n- qty\n- discount id\n- price_final","x":-446,"y":428,"width":253,"height":232,"color":"5"},
-		{"id":"281d69feaa6df59a","type":"text","text":"Medical Records\n- Name","x":-154,"y":437,"width":250,"height":95,"color":"1"},
-		{"id":"f60d3811d1c0ab9e","type":"text","text":"Medical History\n- Date\n- Left eye\n- Right eye\n- transaction_id","x":234,"y":382,"width":250,"height":205,"color":"1"}
+		{"id":"f60d3811d1c0ab9e","type":"text","text":"Medical History\n- Date\n- Left eye\n- Right eye\n- transaction_id","x":234,"y":382,"width":250,"height":205,"color":"1"},
+		{"id":"d559ac97c2c672c0","type":"text","text":"Transactions\n- date\n- customer_name\n- is_member\n- customer_no\n- customer_id\n- is_settled\n- total","x":-16,"y":-97,"width":250,"height":302,"color":"5"},
+		{"id":"281d69feaa6df59a","type":"text","text":"Medical Records\n- Name","x":-141,"y":485,"width":250,"height":95,"color":"1"},
+		{"id":"6457f469f779c370","type":"text","text":"User\n- username\n- password\n- name\n\nStaff\n- bio","x":-283,"y":-430,"width":187,"height":279,"color":"6"},
+		{"id":"a2da74bf38328763","type":"text","text":"Permission & Roles","x":-314,"y":-560,"width":250,"height":50},
+		{"id":"3d5136e2cf6c5377","type":"text","text":"Member\n- name\n- birth_date\n- address","x":132,"y":-372,"width":205,"height":164,"color":"6"}
 	],
 	"edges":[
 		{"id":"473d3dd36fc97462","fromNode":"281d69feaa6df59a","fromSide":"right","toNode":"f60d3811d1c0ab9e","toSide":"left"},
@@ -20,8 +19,6 @@
 		{"id":"7d8e49afdf60c96a","fromNode":"d559ac97c2c672c0","fromSide":"bottom","toNode":"61fd508cf1946b91","toSide":"top"},
 		{"id":"807a9af7faa5ad44","fromNode":"c222df5ee3aa329f","fromSide":"bottom","toNode":"61fd508cf1946b91","toSide":"top"},
 		{"id":"224743ebe4c689cc","fromNode":"0c73f2ad9ea2ec5f","fromSide":"right","toNode":"c222df5ee3aa329f","toSide":"left"},
-		{"id":"4a0bf01d85cddab1","fromNode":"4823851c6e250cd9","fromSide":"left","toNode":"6457f469f779c370","toSide":"right"},
-		{"id":"3527b9ea02d227db","fromNode":"4823851c6e250cd9","fromSide":"top","toNode":"a2da74bf38328763","toSide":"bottom"},
 		{"id":"55a9c60e3cc6e0f8","fromNode":"a2da74bf38328763","fromSide":"bottom","toNode":"6457f469f779c370","toSide":"top"},
 		{"id":"3f20eb1f780c8780","fromNode":"f60d3811d1c0ab9e","fromSide":"top","toNode":"d559ac97c2c672c0","toSide":"right"},
 		{"id":"e22a0cae19de94de","fromNode":"3d5136e2cf6c5377","fromSide":"bottom","toNode":"d559ac97c2c672c0","toSide":"top"}

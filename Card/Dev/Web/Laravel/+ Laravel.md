@@ -9,6 +9,8 @@
 	- [[Localization]]
 	- [[Recursive Table Relation Laravel]]
 	  [[Gsheet Laravel]]
+- Deployment
+	- [[Hostinger Laravel]]
 
 
 

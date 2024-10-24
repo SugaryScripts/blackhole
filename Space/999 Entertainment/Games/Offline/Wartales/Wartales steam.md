@@ -166,15 +166,10 @@ Avg Kills per turn: >3
 ##### Class Skills
 
 - L2 - Valorous Victory or Valorous Support  
-    
 - L3 - Hunter  
-    
 - L5 - Precision or Reinforced Arrows  
-    
 - L8 - Easy Prey  
-    
 - L10 - Second Weapon  
-    
 - L12 - Class Specialization - Thrill of the Hunt or Valorous Support
 
 Other Skills: Aim, Wrath, First Aid, Tactical Order (Lieutenant), Galvanise Troops (Captain)  
@@ -357,7 +352,7 @@ Class Specialization (Passive)
 
 - Unlocks skill from a previous level
 
-### Brute - Iron Maiden
+#### Brute - Iron Maiden
 
 Offense: ★★★★★  
 Defense: ★★★★★  
@@ -372,15 +367,10 @@ Avg Kills per turn: >4
 ##### Class Skills
 
 - L2 - Destroyer  
-    
 - L3 - Valorous Duel  
-    
 - L5 - Cruelty  
-    
 - L8 - Temperance  
-    
 - L10 - Defensive Riposte  
-    
 - L12 - Class Specialization - Overwhelming Presence
 
 Other Skills: Wrath, Taunt, Run  
@@ -391,49 +381,31 @@ Recommended starting Traits: Strong, Thick-skinned, Solitary
 ##### Gear
 
 - Helm - Any heavy helm (+Willpower, +Critical Damage, +AO damage)  
-    
 - Helm Skill - **Legionary's Ointment** (Gain all attacks apply bleeding for 1 round)  
-    
 - Weapon - **Erkeshet's Mace** (50-60% damage, If Stength of unit > target, damage dealt is doubled and always crit)  
-    
 - Oils - **Perforating Oil** (Ignore 50% guard) & **Bleeding Oil** (25% proc on dealing damage to trigger **Bleeding** damage on target)  
-    
 - Shield - **Alazarian Heater Shield** (When hit by engaged opponent, retaliates with AO)  
-    
 - Armour - Any heavy Armour (+Willpower, +Critical Damage, +AO damage)  
-    
 - Layers - **Colossal Horse Layer**(+4 Strength, +6 Guard), **Colossal Stag Layer**(+4 Strength, +18 Armour), **Colossal Ox Layer**(+6 Guard, +18 Armour), _DLC>> Hessura Brooch (+10 Strength, -9 Armour)_  
-    
 - Belt - **Bleeding Oil Concentrate**
 
 ##### Stats
 
 - **Profession** - Master Blacksmith (+10 Strength)  
-    
 - **Aptitude Points** - raise base Willpower to 12/14, 16~20 base movement (or DLC 20~24 base movement) & remainder into Strength
 
 ##### Strategy
 
 - **This the only build that will always critical hit even without raising the critical hit stat.**  
-    
 - At level 8 with upgraded **Temperance** giving **Riposte** after taking 2 attacks.  
-    
 - The essential pieces are **Legionary's Ointment**, **Bleeding Oil**, **Bleeding Oil Concentrate** & **Alazarian Heater Shield**  
-    
 - Bleeding oil deals 20% of max hp (25% if **Path** upgraded)  
-    
 - Since we are not taking **Guard-Breaker**, **Perforating oil** is needed to negate enemy guard  
-    
 - **Overwhelming Presence** guarantees critical hits for every attack while engaged.  
-    
 - Use Horse layer to get max guard (80%) & swap out with Stag layer when over the guard cap for more armour to keep critical hits going longer.  
-    
 - Start the fight by activating anticoagulant weapon, focus on killing high value targets.  
-    
 - Use disengage to trigger AO after each strike.  
-    
 - Taunt & disengage to take less damage & trigger more AO. Best to prioritize taunt on a tank as will need several disengages to kill.  
-    
 - End turn by positioning adjacent to ranged melee units such as spearmen & axe throwers as they will still strike at melee range & trigger your AO.
 
 - **
@@ -1853,15 +1825,10 @@ Avg Kills per turn: >4
 #### Class Skills
 
 - L2 - Fighter  
-    
 - L3 - Valorous Duel  
-    
 - L5 - Bulwark  
-    
 - L8 - Master Opportunist  
-    
 - L10 - Defensive Riposte  
-    
 - L12 - Class Specialization - Hardcore Training
 
 Other Skills: Taunt, Wrath, Run, Galvanize Troops (Captain)  
@@ -1896,19 +1863,12 @@ Stats
 Strategy
 
 - This build is optimized for solo play. Swap **Hardcore Training** for any of the other level 5 skills if **Bleeding**, **Poison** & **Burning** immunity is not needed.  
-    
 - The essential pieces are **Legionary's Ointment**, **Bleeding Oil**, **Bleeding Oil Concentrate** & **Alazarian Heater Shield**  
-    
 - Use Horse layer to get max guard (80%) & swap out with Rat layer when over the guard cap  
-    
 - This build is tougher than **The Iron Maiden**, but deals less damage due to lower critical hit chance  
-    
 - **Clink's Sword** procs bleed more times (up to 3), but last strike causes knock back. If your target isnt against a wall & you cant kill it, you lose 1 AO strike because of this.  
-    
 - Start the fight by activating **Anticoagulant Weapon**, focus on high value targets first.  
-    
 - Use Taunt to engage threat, then disengage to trigger AO. If **Defensive Riposte** fails, most AO recieved will do no damage due to **Bulwark**, **Taunt** & **Master Opportunist**.  
-    
 - End turn by positioning adjacent to ranged melee units such as enemy spearmen or axe throwers as they will still strike at melee range & trigger your AO.  
     
 - **
@@ -1953,15 +1913,10 @@ Avg Kills per turn: 3
 #### Class Skills
 
 - L2 - Fighter  
-    
 - L3 - Valorous Duel  
-    
 - L5 - Counter-Attack  
-    
 - L8 - Master Opportunist  
-    
 - L10 - Defensive Riposte  
-    
 - L12 - Exhort
 
 Other Skills: Galvanize Troops (Captain), Wrath, Taunt, Run  
@@ -1972,43 +1927,28 @@ Recommended starting Traits: **Solitary**, **Strong**, **Bloodthirsty**, **T
 Gear
 
 - Helm - Any heavy helm (+Willpower, +Critical Chance, +Critical Damage)  
-    
 - Helm Skill - **Enhanced Visibility** (Perform AO when engaged)  
-    
 - Weapon - **Mehyt's Kopis** (+2 VP on kill)  
-    
 - Oil 1 - **Perforating Oil** (Attacks dealt ignore 50% of the target's guard)  
-    
 - Oil 2 - **Unstable Oil** (25% proc AO), **Misty Oil** (50% proc 5% health damage), **Sharpening Oil** (+10% Crit Chance), _DLC>> **Initiative Oil** (25% proc when attacked to get 1 VP)_  
-    
 - Armour - Any heavy armor (+Willpower, +Critical Chance, +Critical Damage)  
-    
 - Layers - **Colossal Reinforced Layer of the Rat** (+1 Movement, +6 Critical Hit), _DLC>> **Mihr Brooch** (-1 Movement, +15 Critical Hit)_  
-    
 - Shield - Any shield, preferably one with active attack, eg: **Legion Buckler (**Motivated**)**, **Rampart** (armour & bonus ability damage), **Hothead's Scutum** (highest ability damage, **Confused**), _DLC>> **Privateer's Roundel** (+1 Fervour on engage), Solar Aspis (forced engage or +1 Fervour)_  
-    
 - Belt - **Mehyt's Ivory Horn** (**Inspiration** for 1 round on allies affected by Captain or Lieutenant skill)
 
 #### Stats
 
 - **Profession** - Master Tinkerer (+12 Critical Hit Chance), Master Blacksmith (+10 Strength), or Master Woodcutter (+4 Strength, +6% Critical Hit Chance)  
-    
 - **Aptitude Points** - raise base Willpower to 12/14, total Critical Hit Chance up to 75% after equipment, 16~20 base movement (or DLC 20~24 base movement) & excess into strength  
-    
 - _Note: Other Sources of Critical Chance: Bloodthirsty Trait (+3%), Duelist Trait (+5%), Path Title (0 ~ 25% based on Wanted level), Stuffed Cabbage Food(+10%, Delicious +15%), Colossal Rat Layer x3 (+18%), DLC>> Mihr Brooch Layer x3 (+45%)_
 
 Strategy
 
 - This is a level 12 variant of the **Workhorse** build, it also requires completing all the tombs & getting Sepulchre belt reward.  
-    
 - This build will start every fight by using Captain skill **Galvanise** to gain VP & apply **Inspiration** to allies (4m radius) & apply **Exhort** (6m radius).  
-    
 - Taunt the first target to gain **Inspiration** on self & disengage to use AO.  
-    
 - Use a combination of active skills & disengage AO to kill up to 3 more targets.  
-    
 - Focus on high value targets first. Prioritize **Destabilizing Strike** on units with a lot of guard.  
-    
 - End turn by positioning adjacent to ranged melee units such as enemy spearmen or axe throwers as they will still strike at melee range, engage & trigger AO because of helm skill.  
     
 - **
@@ -2322,7 +2262,7 @@ Avg Kills per turn: 5
   
 [![&lt;&lt;Image&gt;&gt;](https://steamuserimages-a.akamaihd.net/ugc/2056507678941452622/D37441F151D3D6130836A1DE5C630EEF10279B4E/ "&lt;&lt;Image&gt;&gt;")](https://steamuserimages-a.akamaihd.net/ugc/2056507678941452622/D37441F151D3D6130836A1DE5C630EEF10279B4E/)  
 
-Class Skills
+#### Class Skills
 
 - L2 - Executioner  
     

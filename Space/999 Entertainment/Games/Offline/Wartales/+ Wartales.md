@@ -16,19 +16,20 @@ STart
 Start 5
 Mid 7
 ###### Starting profession
+pony - stocky - brawn
 archer - mortar - alchemy
 	archer - sniper - angler
 ranger - shinobi - thief
 	ranger - busy body - tinker
-sword - captain vanguard - tinker / blacksmith
-brute - iron maiden - woodcutter
+sword - captain vanguard - tinker / blacksmith || DPS
+brute - iron maiden - woodcutter || DPS
 
-brute - nutcracker - cooker
+brute - nutcracker - cooker || TANK
 warrior - songmaster - bard
 spearman -  martial master - brewer
 
-pugilist - ravager - scholar
-sword - tank - miner
+pugilist - ravager - scholar || DPS
+sword - tank - miner || TANK
 
 ###### Based on profession
 alchemist
