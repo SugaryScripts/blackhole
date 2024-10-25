@@ -1,0 +1,1 @@
+[Self Host with IPv6rs - IPv6 Provider - How to Install Samba on Windows 10](https://ipv6.rs/tutorial/Windows_10/Samba/)

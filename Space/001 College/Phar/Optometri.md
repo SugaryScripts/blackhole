@@ -112,3 +112,15 @@ reporting - inventory - transaksi - membership
 
 
 - Feature: Tags or Categories
+
+
+Users
+	staff id
+Staff
+	user id
+staff
+	user
+staff
+	user
+staff
+	user

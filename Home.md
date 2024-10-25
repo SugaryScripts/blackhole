@@ -42,7 +42,10 @@ These are maps to launch your `efforts`. Where would you like to go?
 xrdb -m ~/.Xresources
 tree --gitignore ~/Project
 ```
-
+# Spaces
+- [[+ Research]]
+- [[+ College]]
+- [[+ Entertainment]]
 # todo
 
 > [!NOTE]+ Example Notes on notes teehee

@@ -49,15 +49,10 @@ Recommended starting Traits: Nimble, Cooperative, Bloodthirsty
 ##### Strategy
 
 - The main strength of this build is to kill 2 high value targets from afar or kill 1 & maim the other so that target remains out of reach of your team.  
-    
 - Marksman's **Aimed Shot** does more damage but costs 1 more VP, making it useful early game when damage is not enough to kill. Reaching late game & properly equipped, **Aimed Shot** becomes a penalty as the extra VP cost is wasted overkill. No point killing an enemy with 2K damage when 1K is enough.  
-    
 - This is growth build, you can start with level 3 Hunter. However, you will need at least level 8 to output enough damage to kill targets.  
-    
 - Use **Aim** & the weapon skill (**Volley of Arrows**) to take out the enemy leader or high damage target. Then use **Recoil Shot** to kill or prevent the next target from reaching your team.  
-    
 - Choosing between **Lone Wolf** or **Second Weapon** is a bit of a toss up: Do you want more utility with 2 weapons of different skills or do you want a little bit more damage when archer is far from your main force? A good candidate for the alternate weapon is **The Indomitable One**. Higher **Dexterity**, knockback on **critical hit** for all enemies in a line is quite handy to kill more or stall longer.  
-    
 - This build can exceed 100% critical hit chance. If you are confident in your luck, you can swap out your items to maintain 80% critical hit chance & squeeze out a bit more range with the +1 range amour for a total of 12 range (24 range when used with **Deftness**).  
     
 - **
@@ -199,17 +194,13 @@ Recommended starting Traits: Nimble, Cooperative, Bloodthirsty
 ##### Stats
 
 - **Profession** - Master Tinkerer (+12 Critical Hit Chance), Master Alchemist (+10 Dexterity), or Master Thief (+4 Dexterity, +6% Critical Hit Chance)  
-    
 - **Aptitude Points** - raise base Willpower to 12/14, 16~20 base movement (or DLC 18~24 base movement) & remainder into critical hit
 
 ##### Strategy
 
 - Once fully equiped with fully upgraded gear, this build has such overwhelming damage that 1 more skill can be diverted to earning VP.  
-    
 - Use the 2nd weapon War Bow to deal with champions, or heavy armoured enemies, or when only single targets left.  
-    
 - Alternatively, use both Ihrian Bow & Pirate Bow and swap based on whether need knockback or **Fervour**.  
-    
 - **
     
     Extreme Difficulty
@@ -455,25 +446,17 @@ Recommended starting Traits: Strong, Thick-skinned, Solitary, Bloodthirsty
 ##### Gear
 
 - Helm - Any heavy helm (+Willpower, +Critical Damage, +AO damage)  
-    
 - Helm Skill - **Enhanced Visibility** (Perform AO when engaged)  
-    
 - Weapon - **Hothead's Mace** (+50% damage to health if not first attack)  
-    
 - Oils - **Misty Oil** (50% proc 5% health damage), **Strength Oil** (50% chance to +10% Strength), **Sharpening Oil** (+10% Crit Chance), **Unstable Oil** (25% proc AO)  
-    
 - Shield - Any shield, preferably one with active attack. Eg.: **Legion Buckler** (**Motivated**), **Rampart** (armour & bonus ability damage), **Alazarian Buckler** (**Fragility**), **Hothead's Scutum** (highest ability damage, **Confused**), _DLC>> **Privateer's Roundel** (+1 Fervour on engage), Solar Aspis (forced engage or +1 Fervour)_  
-    
 - Armour - Any heavy Armour (+Willpower, +Critical Damage, +AO damage)  
-    
 - Layers - Any (crit chance > guard > others)  
-    
 - Belt - complementary **Oil Concentrate** or any other oil.
 
 ##### Stats
 
 - **Profession** - Master Tinkerer (+12% Critical Hit Chance), Master Blacksmith (+10 Strength), or Master Woodcutter (+4 Strength, +6% Critical Hit Chance)  
-    
 - **Aptitude Points** - raise base Willpower to 12/14, 16~20 base movement (or DLC 20~24 base movement) & remainder into critical hit
 
 ##### Strategy
@@ -1114,15 +1097,10 @@ _Note: This is the only build able to achieve ≥10 kills per turn & clear the e
 ##### Class Skills
 
 - L2 - Valorous Victory  
-    
-- L3 - Cutthroat  
-    
+- L3 - Cutthroat 
 - L5 - Instinctive Throw  
-    
-- L8 - Low Blow  
-    
+- L8 - Low Blow 
 - L10 - Unstoppable  
-    
 - L12 - Class Specialization - Ordeal or Deadly Contract
 
 Other Skills: Get all support skills, Galvanise Troops (Captain), Tactical Order (Lieutenant), Recommended starting Traits: Nimble, Bloodthirsty, Thick-skinned, Solitary  
@@ -1153,7 +1131,6 @@ _Note: Having more active skills means more procs of Instinctive Throw to soften
 ##### Stats
 
 - **Profession** - Master Tinkerer (+12 Critical Hit Chance), Master Alchemist (+10 Dexterity), or Master Thief (+4 Dexterity, +6% Critical Hit Chance)  
-    
 - **Aptitude Points** - raise base Willpower to 12/14, 16~20 base movement (or DLC 18~22 base movement) & remainder into critical hit
 
 ##### Strategy
@@ -2228,52 +2205,33 @@ Recommended starting Traits: Strong, Solitary, Bloodthirsty, Thick-skinned
 Gear
 
 - Helm - Any medium helm (+Willpower, +Critical Chance, +Critical Damage)  
-    
 - Helm Skill - **Enhanced Visibility** (Perform AO when engaged)  
-    
 - Weapon - **Nepti's Axe** (Deals 70% damage, 3m cone & applies 2 **Corrosion** and **Poison** to all targets)  
-    
 - Shield - **Peacebearer's Roundel** (Damage +half of guard)  
-    
 - Oils - Perforating Oil (50% ignore guard), Sharpening Oil (+10% Crit Chance), Brave Oil (50% chance to return VP used) or any other oil  
-    
 - Armour - Any medium armor (+Willpower, +Critical Chance, +Critical Damage)  
-    
 - Layers - **Colossal Reinforced Layer of the Rat** (+1 Movement, +6 Critical Hit), _DLC>> **Mihr Brooch** (-1 Movement, +15 Critical Hit)_  
-    
 - Belt - complementary **Oil Concentrate** or any other belt  
-    
 - _Note: Only Nepti's Axe will work well for this build with 3m AOE range. Any other 1H axe will not benefit from Valorous Chain_
 
 Stats
 
 - **Profession** - Master Tinkerer (+12 Critical Hit Chance), Master Blacksmith (+10 Strength), or Master Woodcutter (+4 Strength, +6% Critical Hit Chance)  
-    
 - **Aptitude Points** - raise base Willpower to 12/14, 18~22 base movement (or DLC 22~26 base movement) & remainder into critical hit
 
 Strategy
 
 - This is a variant of the **Axecutioner**, does more damage & is tougher. All the tactics above will apply.  
-    
 - Additionally, **Enhance Visibility** allows him to 1 shot any light & medium armoured melee attackers with AO in retaliation.  
-    
 - Be cautioned that when switching between 2H & 1H builds with the same character. There is a limit to the number of each trait that you can have in your party. Try to focus 1H or 2H without switching by getting a another character for each build to avoid locking up unused weapon traits(eg.: Tormentor, Giant, Duelist).  
-    
 - At 50% guard, he gains +25% damage & can also be an off-tank  
-    
-- **
-    
-    Extreme Difficulty
-    
+- **Extreme Difficulty
     **Use Brave Oil & Brave Oil Concentrate to return VP.  
     
-- **
-    
-    DLC Ship fights
-    
+- **DLC Ship fights
     **40 movement total to cross the bridge & destroy 2 clusters of enemies. Make use of **Inspiration** (x2 movement) & **Alertness** (+50% movement)
 
-Freed Prisoner
+### Freed Prisoner
 
 Freed prisoners are weaker as compared to main classees due to lack of skills. However, they have higher base stats especially when captured at higher levels. While prisoners are weak, they are not entirely useless.
 
