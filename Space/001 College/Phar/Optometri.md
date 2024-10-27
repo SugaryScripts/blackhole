@@ -114,13 +114,23 @@ reporting - inventory - transaksi - membership
 - Feature: Tags or Categories
 
 
-Users
-	staff id
-Staff
-	user id
-staff
-	user
-staff
-	user
-staff
-	user
+users
+	edit
+		assigned staff
+		email
+		password
+	create new user
+		assigned staff
+		email
+		password
+	create with staff
+		name
+		email
+		address
+		password
+		....
+Role & permission
+	Associate with users
+	Staff use title instead
+	hard coded role & permission via edit user
+active inactive unregistered

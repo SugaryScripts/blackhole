@@ -11,6 +11,9 @@
 	  [[Gsheet Laravel]]
 - Deployment
 	- [[Hostinger Laravel]]
+- GUIDE
+	- [GitHub - michael-rubel: Livewire Best Practices](https://github.com/michael-rubel/livewire-best-practices?tab=readme-ov-file)
+	- 
 
 
 
