@@ -120,9 +120,10 @@ users
 		email
 		password
 	create new user
-		assigned staff
+		select staff
 		email
 		password
+		confirm password
 	create with staff
 		name
 		email
