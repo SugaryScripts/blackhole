@@ -105,6 +105,7 @@ Drombach (The newly added Alazar Territory):
 - Gunbald > Ranger *Loc: Drombach Jail *Rec.Cost: 150 Gold (Unique trait: Hates  
 Heleth)  
 - Heleth > Warrior *Loc: Drombach Jail *Rec.Cost: 150 Gold (Unique trait: Hates  
+- Both at high level 10 or 12 at starting game
 Gunbald)  
 *** Recruiting both will give you the Hate/Hate Relationship achievement  
 ****** Tip: Despite hating each other, it is possible that recruiting one and  
