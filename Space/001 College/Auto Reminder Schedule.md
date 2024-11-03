@@ -89,4 +89,15 @@ Reference Upgrade landing page
 [Home || AglieTech - IT Solutions & Technology NEXT JS Template](https://next.aglietech.wowtheme7.com/index-11)
 
 
+Content
+- Berita
+beritanya ada 2 artikel. satu lagi:
+https://news.unair.ac.id/2020/12/22/efek-apoptosis-ekstrak-tanaman-ciplukan-pada-sel-kanker-payudara/?lang=id
+content di-copas ke website ya. di bawah sendiri diberikan 
+sumber: https://upk.kemkes.go.id/new/deteksi-dini-kanker-payudara-dengan-sadari-dan-sadanis
 
+- Video
+https://www.youtube.com/watch?v=2iOfV5kM6yM&
+https://www.youtube.com/watch?v=5A5dQnSPRFE&
+https://www.youtube.com/watch?v=nbIbSOCfU7E&
+https://www.youtube.com/watch?v=IXEt_ZPPfjk
