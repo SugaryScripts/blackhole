@@ -46,7 +46,6 @@ tree --gitignore ~/Project
 - [[+ Research]]
 - [[+ College]]
 - [[+ Entertainment]]
-- [[Auto Reminder Schedule]]
 # todo
 
 > [!NOTE]+ Example Notes on notes teehee
