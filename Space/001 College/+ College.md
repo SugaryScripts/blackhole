@@ -7,4 +7,4 @@ Project:
 - [Prediksi | Quanta Quire](https://rf-classifierapp.onrender.com/)
 - [[Optometri]]
 - [[Auto Reminder Schedule]]
-
+Course

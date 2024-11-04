@@ -85,9 +85,22 @@ Reference Upgrade landing page
 
 
 [Demo || AglieTech - IT Solutions & Technology NEXT JS Template](https://next.aglietech.wowtheme7.com/?storefront=envato-elements)
-[Home || AglieTech - IT Solutions & Technology NEXT JS Template](https://next.aglietech.wowtheme7.com/index-8)
-[Home || AglieTech - IT Solutions & Technology NEXT JS Template](https://next.aglietech.wowtheme7.com/index-11)
+[index 8 || AglieTech - IT Solutions & Technology NEXT JS Template](https://next.aglietech.wowtheme7.com/index-8)
+[index 11 - IT Solutions & Technology NEXT JS Template](https://next.aglietech.wowtheme7.com/index-11)
 
+
+- article
+	- author
+	- category
+	- is_original -> false / true
+	- content
+	- title
+	- slug
+	- created-at
+- article-source
+	- article-id
+	- name
+	- url
 
 Content
 - Berita
