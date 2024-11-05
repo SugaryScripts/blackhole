@@ -1,5 +1,8 @@
 
 
+[Wartales Walkthrough and Guide - Neoseeker](https://www.neoseeker.com/wartales/walkthrough)
+
+
 
 [[Wartales best build fandom]]
 [[Wartales others]]

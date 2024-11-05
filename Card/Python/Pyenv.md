@@ -1,3 +1,4 @@
+### Linux
 #### Install
 windows:: [Home · pyenv-win/pyenv-win Wiki · GitHub](https://github.com/pyenv-win/pyenv-win/wiki)
 from windows shell, you need to set execution policy first => [[All#Power Shell]]
@@ -32,5 +33,16 @@ Remove pyenv manual
 ```sh
 rm -rf ~/.pyenv/versions/"X.Y.Z"
 ```
-# Read More
+### Read More
 source:: [GitHub - pyenv/pyenv: Simple Python version management](https://github.com/pyenv/pyenv)
+
+### Windows
+#### Install 
+[[All]]
+```
+Invoke-WebRequest -UseBasicParsing -Uri "https://raw.githubusercontent.com/pyenv-win/pyenv-win/master/pyenv-win/install-pyenv-win.ps1" -OutFile "./install-pyenv-win.ps1"; &"./install-pyenv-win.ps1"
+```
+Check variables environment for pyenv and it's directory location
+### Uninstall
+Remove .pyenv folder
+Clear the desktop environment variables too
