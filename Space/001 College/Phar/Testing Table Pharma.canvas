@@ -8,7 +8,7 @@
 		{"id":"61fd508cf1946b91","type":"text","text":"Transaction Item\n- transaction id\n- product id\n- qty\n- discount id\n- price_final","x":-446,"y":428,"width":253,"height":232,"color":"5"},
 		{"id":"f60d3811d1c0ab9e","type":"text","text":"Medical History\n- Date\n- Left eye\n- Right eye\n- transaction_id","x":234,"y":382,"width":250,"height":205,"color":"1"},
 		{"id":"d559ac97c2c672c0","type":"text","text":"Transactions\n- date\n- customer_name\n- is_member\n- customer_no\n- customer_id\n- is_settled\n- total","x":-16,"y":-97,"width":250,"height":302,"color":"5"},
-		{"id":"281d69feaa6df59a","type":"text","text":"Medical Records\n- Name","x":-141,"y":485,"width":250,"height":95,"color":"1"},
+		{"id":"281d69feaa6df59a","type":"text","text":"Medical Records Biodata\n- Name","x":-141,"y":485,"width":273,"height":95,"color":"1"},
 		{"id":"6457f469f779c370","type":"text","text":"User\n- username\n- password\n- name\n\nStaff\n- bio","x":-283,"y":-430,"width":187,"height":279,"color":"6"},
 		{"id":"a2da74bf38328763","type":"text","text":"Permission & Roles","x":-314,"y":-560,"width":250,"height":50},
 		{"id":"3d5136e2cf6c5377","type":"text","text":"Member\n- name\n- birth_date\n- address","x":132,"y":-372,"width":205,"height":164,"color":"6"}

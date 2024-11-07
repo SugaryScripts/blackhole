@@ -98,43 +98,31 @@ reporting - inventory - transaksi - membership
 	- Boxy and minimalistic
 
  ### EPOS
- a
+ Features:
  - Staff
-	 - Absent
-	 - Invoices
-	 - Shift
- - Company
-	 - Bill (electricity, water, staff payment, inventory stocks supply)
-	 - Branch
- - Phone & PC are the same?
- - Possibility of merge multiple company into one database
- - ~~Staff Author for each transaction or changes~~?
+ - Users
+ - Absent
+ - Category
+ - Brand
+ - Frame
+	 - bridge
+	 - weight
+	 - shape
+ - Accessory
+	 - name
+ - Soft lens
+	 - ?
+ - Lens (Each prescription has different price)
+	 - left right eye are can be different
+	 - axis
+	 - cylinder
+	 - sphere
+ - Transaction
+	 - Choose Product
+		 - Check stock
+	 - Add detail lens
 
 
-- Feature: Tags or Categories
-
-
-users
-	edit
-		assigned staff
-		email
-		password
-	create new user
-		select staff
-		email
-		password
-		confirm password
-	create with staff
-		name
-		email
-		address
-		password
-		....
-Role & permission
-	Associate with users
-	Staff use title instead
-	hard coded role & permission via edit user
-active inactive unregistered
 
 
 Security
@@ -147,7 +135,9 @@ User & Staff
 Frame
 	stock keeping unit for tracking inventory
 		is it on each item or each product type/name
+		fill the kpu at her/his own => must matches with the real frame
 	category & brand
+	SKU for lens? soft lens? accessory?
 Lens
 	belongs to frame
 	for medical record
@@ -156,6 +146,8 @@ tax -> per product, per transaction?
 discount -> per product, category, brand, event, date, membership
 Softlens
 Aksesoris
+
+Medical  record -> is it need to saved all history transaction (previous prescription || with product (brand, model, category)) OR just need newest latest prescription
 
 FRAME
 ```php
@@ -213,3 +205,5 @@ $table->enum('tint_level', [
     'Light', 'Medium', 'Dark', 'None'  
 ])->default('None');
 ```
+
+
