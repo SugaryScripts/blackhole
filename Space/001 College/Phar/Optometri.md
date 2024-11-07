@@ -135,3 +135,81 @@ Role & permission
 	Staff use title instead
 	hard coded role & permission via edit user
 active inactive unregistered
+
+
+Security
+User (customer)  → pembelian (transaksi) ??
+	customer can have account?
+User & Staff
+	User need activation first
+	User always belongs to a staff
+	Staff can be optionally have user
+Frame
+	stock keeping unit for tracking inventory
+		is it on each item or each product type/name
+	category & brand
+Lens
+	belongs to frame
+	for medical record
+	
+tax -> per product, per transaction?
+discount -> per product, category, brand, event, date, membership
+Softlens
+Aksesoris
+
+FRAME
+```php
+$table->string('sku')->unique();  
+$table->string('name');  
+$table->string('description')->nullable();  
+  
+$table->decimal('price', 10, 2);  
+$table->decimal('cost_price', 10, 2);  
+  
+$table->string('model')->nullable();  
+$table->string('color')->nullable();  
+$table->enum('gender', ['men', 'women', 'unisex', 'kids'])->nullable();  
+$table->string('material')->nullable();  
+  
+$table->string('frame_shape')->nullable();  
+$table->string('frame_size')->nullable();  
+  
+$table->integer('lens_width')->nullable();  
+$table->integer('bridge_width')->nullable();  
+$table->integer('temple_length')->nullable();  
+$table->decimal('weight', 5, 2)->nullable();  
+$table->integer('stock_quantity')->default(0);
+```
+LENS
+```php
+$table->string('lens_material')->nullable();  
+$table->string('lens_color')->nullable();  
+$table->string('lens_tech')->nullable();  
+$table->boolean('uv_protection')->default(false);  
+$table->boolean('polarized')->default(false);  
+  
+$table->enum('prescription_type', ['Single Vision', 'Bifocal', 'Progressive', 'Readers', 'Plano'])->nullable();  
+$table->enum('visual_impairment', ['Myopia', 'Hyperopia', 'Astigmatism', 'Presbyopia', 'None'])->nullable();  
+// SPH (sphere) power for left lens  
+$table->decimal('left_sphere_power', 4, 2)->default(0);  
+// SPH (sphere) power for right lens  
+$table->decimal('right_sphere_power', 4, 2)->default(0);  
+// CYL (cylinder) power for astigmatism (left)  
+$table->decimal('left_cylinder_power', 4, 2)->default(0);  
+// CYL (cylinder) power for astigmatism (right)  
+$table->decimal('right_cylinder_power', 4, 2)->default(0);  
+// Axis for astigmatism (left)  
+$table->integer('left_axis')->default(0);  
+// Axis for astigmatism (right)  
+$table->integer('right_axis')->default(0);  
+// Additional power for bifocals/progressives  
+$table->decimal('add_power', 4, 2)->default(0);  
+  
+$table->enum('coating', [  
+    'Anti-Reflective', 'Scratch-Resistant', 'Blue Light Blocking', 'UV Coating', 'None'  
+])->default('None');  
+// Optional tint level  
+$table->enum('tint_level', [  
+    'Light', 'Medium', 'Dark', 'None'  
+])->default('None');
+```
