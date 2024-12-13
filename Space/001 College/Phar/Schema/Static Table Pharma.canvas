@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"843b033b711b15a0","type":"text","text":"Frame","x":-240,"y":-100,"width":173,"height":60},
+		{"id":"4b451ac565766f39","type":"text","text":"Lens","x":-240,"y":20,"width":173,"height":60},
+		{"id":"47c82a21886974eb","type":"text","text":"Soft Lens","x":-240,"y":160,"width":173,"height":60},
+		{"id":"99004a2269695f80","type":"text","text":"Brand","x":60,"y":20,"width":160,"height":60},
+		{"id":"53b38d4aff9d6638","type":"text","text":"Medical Spec","x":60,"y":-160,"width":250,"height":60},
+		{"id":"7506ade5dd7f6581","type":"text","text":"Misc","x":-240,"y":280,"width":250,"height":60},
+		{"id":"67fa35e78ee7fc76","type":"text","text":"Misc can be:\naccessories\nsunglasses\nentertainment\ncase\nhandkerchief","x":-660,"y":240,"width":250,"height":200},
+		{"id":"700bb57d7e730c42","type":"text","text":"Medical Records","x":280,"y":180,"width":250,"height":60},
+		{"id":"4f17aa34e81619a0","x":140,"y":380,"width":250,"height":60,"type":"text","text":"Product Type"}
+	],
+	"edges":[
+		{"id":"2234cc6664e02f08","fromNode":"843b033b711b15a0","fromSide":"right","toNode":"99004a2269695f80","toSide":"left"},
+		{"id":"a48e250a2ff31297","fromNode":"4b451ac565766f39","fromSide":"right","toNode":"99004a2269695f80","toSide":"left"},
+		{"id":"2e45fa2ef59f6788","fromNode":"47c82a21886974eb","fromSide":"right","toNode":"99004a2269695f80","toSide":"left"},
+		{"id":"db8f4ccabfd562bc","fromNode":"67fa35e78ee7fc76","fromSide":"right","toNode":"7506ade5dd7f6581","toSide":"left"}
+	]
+}

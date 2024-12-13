@@ -1,4 +1,4 @@
-Dataset
+#### Dataset First
 - Lavalet 2023
 	- Bukan Neuropathy (On progress)
 		- Data
@@ -53,4 +53,54 @@ Category: DM but it's not neuro, DM Neuro, Non DM
 Train 926
 Test 232
 Epoch 100
+
+#### Dataset Second
+- Lavalet 2023
+	- Bukan Neuropathy (On progress)
+		- Data
+		- A449
+		- BMP
+			- abnormal
+			- normal => used ✔️
+			- ragu
+		- JPEG
+	- Neuropathy
+		- Data
+		- A417
+		- A418
+		- A437
+		- A438
+		- A444
+		- A453
+		- JPEG File
+			- abnormal => used ✔️
+			- normal => used ✔️
+			- ragu
+- Puskesmas Dinoyo + Janti
+	- Non Neuropathy
+		- abnormal
+		- normal => used ✔️
+		- ragu
+	- Neuropathy
+		- abormal => used ✔️
+		- normal => used ✔️
+		- ragu
+- Riset 2020
+	- DM Bukan Neuropathy
+		- abnormal
+		- normal => used ✔️
+		- ragu
+	- DM Neuropathy
+		- abnormal => used ✔️
+		- normal => used ✔️
+		- ragu
+	- Non DM
+		- abnormal
+		- normal => used ✔️
+		- ragu
+		- non dm (orang sehat)
+
+
+Neuropathy 610
+Non Neuropathy 829
 

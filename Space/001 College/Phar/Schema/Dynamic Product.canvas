@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"738937a9d48077b1","type":"text","text":"Product","x":-125,"y":-20,"width":250,"height":60},
+		{"id":"6ecc79cd07f58010","type":"text","text":"Product Type","x":-440,"y":-20,"width":250,"height":60},
+		{"id":"e605303df1b0d1a1","type":"text","text":"Product type attribute\n- name, type, required","x":-480,"y":100,"width":290,"height":100},
+		{"id":"0a827eb4689ea13f","type":"text","text":"Product Variant","x":-125,"y":100,"width":250,"height":60},
+		{"id":"7cd1e5267f54a76d","type":"text","text":"Variant Attribute","x":-125,"y":200,"width":250,"height":60},
+		{"id":"49e367544cc62d25","type":"text","text":"Sales\n- ","x":180,"y":-140,"width":250,"height":60},
+		{"id":"5ce59024b6147917","type":"text","text":"Brand","x":-125,"y":-140,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"32cccfcf25115a47","fromNode":"6ecc79cd07f58010","fromSide":"right","toNode":"738937a9d48077b1","toSide":"left"},
+		{"id":"303265804c702fb2","fromNode":"6ecc79cd07f58010","fromSide":"bottom","toNode":"e605303df1b0d1a1","toSide":"top"},
+		{"id":"b6aed457b1b39dea","fromNode":"738937a9d48077b1","fromSide":"bottom","toNode":"0a827eb4689ea13f","toSide":"top"},
+		{"id":"2dd507f523dc24b7","fromNode":"0a827eb4689ea13f","fromSide":"bottom","toNode":"7cd1e5267f54a76d","toSide":"top"},
+		{"id":"01e960094a046772","fromNode":"5ce59024b6147917","fromSide":"bottom","toNode":"738937a9d48077b1","toSide":"top"}
+	]
+}

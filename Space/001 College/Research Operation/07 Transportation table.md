@@ -1,0 +1,1 @@
+Nortwest corner rule

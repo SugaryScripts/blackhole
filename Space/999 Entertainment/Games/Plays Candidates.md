@@ -16,11 +16,22 @@
 
 - Clouded
 	- [[euro-truck]] -> name
-	- Frostpunk
 	- Total War Rome II
 	- This is the police 2
 	- CrossCode 1.4.2-3
-	- Triangle Strategy
 	- Thronefall 1.36
 	- [[Final Fantasy XII]] -> Jobs
 	- [[sims4]] -> dlc
+- management
+	- timberborn
+	- rise of industry
+	- transport fever
+	- ixion - frostpunk 
+	- kingdom reborn - surviving the abyss
+	- hearth of iron - ck3 - stellaris
+- Tactical rpg
+	- wartales - triangle strategy
+- Casual indie
+	- Potionomics
+	- little witch in the woods
+	- 

@@ -1,7 +1,7 @@
 ### Linux
 #### Install
 windows:: [Home · pyenv-win/pyenv-win Wiki · GitHub](https://github.com/pyenv-win/pyenv-win/wiki)
-from windows shell, you need to set execution policy first => [[All#Power Shell]]
+from windows shell, you need to set execution policy first => [[+ Windows#Power Shell]]
 ```sh
 pacman -S pyenv
 echo 'export PYENV_ROOT="$HOME/.local/.pyenv"' >> ~/.zshrc
@@ -38,7 +38,7 @@ source:: [GitHub - pyenv/pyenv: Simple Python version management](https://github
 
 ### Windows
 #### Install 
-[[All]]
+[[+ Windows]]
 ```
 Invoke-WebRequest -UseBasicParsing -Uri "https://raw.githubusercontent.com/pyenv-win/pyenv-win/master/pyenv-win/install-pyenv-win.ps1" -OutFile "./install-pyenv-win.ps1"; &"./install-pyenv-win.ps1"
 ```

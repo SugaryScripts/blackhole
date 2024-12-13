@@ -117,10 +117,13 @@ reporting - inventory - transaksi - membership
 	 - axis
 	 - cylinder
 	 - sphere
- - Transaction
+ - Cashier
 	 - Choose Product
 		 - Check stock
 	 - Add detail lens
+	 - Biodata 
+	 - Add to cart
+	 - Receipt DONE
 
 
 
@@ -207,3 +210,5 @@ $table->enum('tint_level', [
 ```
 
 
+# Second Eval
+Frame

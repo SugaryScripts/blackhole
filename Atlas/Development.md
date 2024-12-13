@@ -13,6 +13,7 @@
 	- [[NPM]]
 	- [[Yarn]]
 - [[xampp]]
+- [[Composer]]
 
 ###### Frameworks
 [[+ Laravel]]
