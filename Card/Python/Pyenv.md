@@ -11,6 +11,7 @@ echo 'eval "$(pyenv init -)"' >> ~/.zshrc
 python --version
 pyenv install --list
 pyenv install 3.12.2
+pyenv versions
 
 nvim ~/.local/.pyenv/version
 3.12.2 -> :wq

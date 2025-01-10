@@ -26,6 +26,7 @@
 - [[Livewire]]
 - [[Pest]]
 
+
 # Extras
 Great tutorials:
 Manage layout component livewire
@@ -70,3 +71,8 @@ lamp restart
 make:view
 make:component __ --view
 ```
+
+# Reading material
+#### sweet alert
+[laracasts.com/discuss/channels/laravel/livewire-with-sweetalert2](https://laracasts.com/discuss/channels/laravel/livewire-with-sweetalert2)
+[Site Unreachable](https://dev.to/abrardev99/peasy-way-to-show-alerts-in-laravel-livewire-26j)
