@@ -47,3 +47,8 @@ npm install
 
 
 #### Basic
+```
+composer require laravel/jetstream
+php artisan jetstream:install livewire --dark
+php artisan livewire:publish --config
+```

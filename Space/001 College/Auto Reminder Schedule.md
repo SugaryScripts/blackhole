@@ -102,7 +102,13 @@ Reference Upgrade landing page
 	- name
 	- url
 
-Content
+#### Website
+
+Command on hostinger using php
+```
+/opt/cloudlinux/alt-php82/root/usr/bin/php
+```
+
 - Berita
 beritanya ada 2 artikel. satu lagi:
 https://news.unair.ac.id/2020/12/22/efek-apoptosis-ekstrak-tanaman-ciplukan-pada-sel-kanker-payudara/?lang=id
@@ -114,3 +120,4 @@ https://www.youtube.com/watch?v=2iOfV5kM6yM&
 https://www.youtube.com/watch?v=5A5dQnSPRFE&
 https://www.youtube.com/watch?v=nbIbSOCfU7E&
 https://www.youtube.com/watch?v=IXEt_ZPPfjk
+

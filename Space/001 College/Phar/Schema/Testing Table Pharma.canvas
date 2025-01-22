@@ -3,7 +3,7 @@
 		{"id":"1f626fed607f3848","type":"text","text":"Notes:\nFrame, Lenses, width, height, length, thickness,...\nSystem Tag / category\nDetail Medical history\n","x":-704,"y":-430,"width":300,"height":279},
 		{"id":"57f13844ff4f51f9","type":"text","text":"Category\n- name","x":-766,"y":-74,"width":200,"height":102,"color":"3"},
 		{"id":"8d7da0d92d834714","type":"text","text":"Sub Category\n- name\n- category_id","x":-766,"y":54,"width":224,"height":124,"color":"3"},
-		{"id":"0c73f2ad9ea2ec5f","type":"text","text":"Product\n- name\n- price\n- code\n- stock","x":-746,"y":228,"width":180,"height":200,"color":"3"},
+		{"id":"0c73f2ad9ea2ec5f","type":"text","text":"Frame\n- name\n- price\n- code\n- stock","x":-746,"y":228,"width":180,"height":200,"color":"3"},
 		{"id":"c222df5ee3aa329f","type":"text","text":"Discounts\n- start date\n- end date\n- product_id\n- category_id\n- discount_type (cat, member, prod)\n- discount_value\n  (percentage/\n  nominal)\n- discount","x":-446,"y":-118,"width":290,"height":391,"color":"5"},
 		{"id":"61fd508cf1946b91","type":"text","text":"Transaction Item\n- transaction id\n- product id\n- qty\n- discount id\n- price_final","x":-446,"y":428,"width":253,"height":232,"color":"5"},
 		{"id":"f60d3811d1c0ab9e","type":"text","text":"Medical History\n- Date\n- Left eye\n- Right eye\n- transaction_id","x":234,"y":382,"width":250,"height":205,"color":"1"},

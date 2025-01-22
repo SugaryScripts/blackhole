@@ -1,0 +1,23 @@
+- P.windra
+	- [x] Detail untuk evaluasi, respon u/ jawaban, yg tdk tepat
+	- [x] lampiran respon dari pertanyan yg diajukan
+	- [ ] waktu tunggu respon lebih detail **UNTRACKED**
+	- [x] penjelasan u/ billing / besaran biaya
+	- [ ] Lampiran 6 di pindah ke bab 3
+	- [ ] Visualisasi hasil di Bab 4, vectorstore dan chatbot
+	- [ ] Sub bab di bab 4 ada  yang salah
+- P.lucky
+	- [x] identifikasi masalah
+	- [x] rumusan 
+	- [x] tujuan
+	- [ ] abstract
+	- [x] pendahuluan
+	- [ ] Ajukan ke Pak Lucky
+- P.hendry
+	- [x] sistem percakapan umpan balik apakah ada di perancangan?
+	- [ ] penambahan jumlah respon **UNTRACKED**
+	- [ ] abstract hrs juga disertai dengan hasilnya bagaimana dan kata kunci
+	- [x] rumusan masalah akan dijawab pada tujuan
+	- [x] bagaimana proses dari tiap RAG, LangChain, LLM
+	- [x] bagaimana menentukan sesuai, tida
+	- [x] k, kurang tepat? pada feedback atau pada hasil respon bot

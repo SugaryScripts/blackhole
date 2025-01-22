@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"3f6e98444232d13c","type":"text","text":"Chatbot are popular and highly demand. Because it's efficient","x":-125,"y":-160,"width":285,"height":100},
+		{"id":"0ad185b42a09fc1f","type":"text","text":"RAG Method","x":540,"y":-160,"width":250,"height":60},
+		{"id":"b11dffa35e07fd0b","type":"text","text":"By not using RAG, hallucination","x":220,"y":-130,"width":250,"height":70},
+		{"id":"df82fac974d7040a","type":"text","text":"People or costly and limited -> case covid","x":220,"y":-30,"width":250,"height":90},
+		{"id":"9eb80cdbce84e49a","type":"text","text":"By not using GenAI or LLM or OpenAI, lack of empthy or human touch","x":220,"y":-300,"width":250,"height":120},
+		{"id":"b29788cbdc0d2e74","type":"text","text":"OpenAI","x":540,"y":-240,"width":250,"height":60},
+		{"id":"fbd66dc088762450","type":"text","text":"WA Business API","x":580,"y":60,"width":250,"height":60},
+		{"id":"0448f611ad72ac02","type":"text","text":"Whatsapp Are popular too","x":540,"y":120,"width":250,"height":60},
+		{"id":"63f6d54c51fafd7e","type":"text","text":"Lack of easy access","x":220,"y":90,"width":250,"height":90},
+		{"id":"326aa98888f82bdf","type":"text","text":"CS is key component of each company?","x":-125,"y":-270,"width":285,"height":90}
+	],
+	"edges":[]
+}

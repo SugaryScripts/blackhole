@@ -37,28 +37,31 @@
 
 # Plugins
 
-| Category  | plugins                       | PHP storm | Pycharm |
-| --------- | ----------------------------- | :-------: | :-----: |
-| **Core**  | wakatime                      |    ☑️     |   ☑️    |
-|           | key promoter x                |    ☑️     |   ☑️    |
-|           |                               |           |         |
-|           | php annotations               |    ☑️     |         |
-|           | laravel plugin                |           |         |
-|           | laravel tinker                |    ☑️     |         |
-| **Theme** | rainbow brackets              |    ☑️     |   ☑️    |
-|           | material theme ui             |           |         |
-|           | material theme ui lite        |           |         |
-|           | atom material icon            |           |         |
-|           | doki icon                     |    ☑️     |         |
-|           | doki theme jetbrain           |    ☑️     |         |
-|           | Noctumsempra's Color megapack |           |         |
-|           | Catpuccin Themes              |           |         |
-|           | Catpuccin Icons               |           |         |
-|           | HardHacker Theme              |    ☑️     |         |
-| **Misc**  | anime memes                   |    ☑️     |         |
-|           | Open Gitmoji                  |    ☑️     |   ☑️    |
-|           | gitmoji intellij              |           |         |
-|           | gitmoji plus                  |           |         |
+| Category  | plugins                                           | PHP storm | Pycharm |
+| --------- | ------------------------------------------------- | :-------: | :-----: |
+| **Core**  | wakatime                                          |    ☑️     |   ☑️    |
+|           | key promoter x                                    |    ☑️     |   ☑️    |
+|           | .env                                              |           |         |
+|           | php annotations                                   |    ☑️     |         |
+|           | laravel plugin                                    |           |         |
+|           | laravel tinker                                    |    ☑️     |         |
+| **Theme** | rainbow brackets                                  |    ☑️     |   ☑️    |
+|           | material theme ui                                 |           |         |
+|           | material theme ui lite                            |           |         |
+|           | atom material icon                                |           |         |
+|           | doki icon                                         |    ☑️     |         |
+|           | **doki theme** jetbrain \| Unthrottled            |    ☑️     |         |
+|           | Noctumsempra's Color megapack                     |           |         |
+|           | Catpuccin Themes                                  |           |         |
+|           | Catpuccin Icons                                   |           |         |
+|           | HardHacker Theme                                  |    ☑️     |         |
+| **Misc**  | anime memes                                       |    ☑️     |         |
+|           | Open Gitmoji                                      |    ☑️     |   ☑️    |
+|           | gitmoji intellij                                  |           |         |
+|           | gitmoji plus                                      |           |         |
+|           | **background image plus** + \| HNUHell            |           |         |
+|           | **theme randomizer** \| Unthrottled \| Alex Keith |           |         |
+|           | Nyan progress \| Dmitry B                         |           |         |
 ## Best Themes
 | plugin    | mode         | theme                 |
 | --------- | ------------ | --------------------- |

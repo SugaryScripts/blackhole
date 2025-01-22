@@ -1,6 +1,7 @@
 - [[Vite]]
 - [[Setup Laravel]]
 	- [[Installing]]
+	- [[Composer]]
 - [[Basic Command]]
 - [[Storage & Link & Upload]]
 - [[Case]]
@@ -21,8 +22,10 @@
 
 # Recommended Library
 - [[Hashid]]
-- [[Laravel faker]]
+- [[Laravel image faker]]
 - [[Livewire]]
+- [[Pest]]
+
 
 # Extras
 Great tutorials:
@@ -60,3 +63,16 @@ lamp restart
 ```
 
 ## Vite Sourcemap for ... points to missing source files
+
+
+
+# Most Used command
+```sh
+make:view
+make:component __ --view
+```
+
+# Reading material
+#### sweet alert
+[laracasts.com/discuss/channels/laravel/livewire-with-sweetalert2](https://laracasts.com/discuss/channels/laravel/livewire-with-sweetalert2)
+[Site Unreachable](https://dev.to/abrardev99/peasy-way-to-show-alerts-in-laravel-livewire-26j)

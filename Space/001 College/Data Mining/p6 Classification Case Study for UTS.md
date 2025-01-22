@@ -14,3 +14,4 @@ Dataset:
 #### KNN (euclidian distance)
 Tuning: number of K (nearest neighbor that able to vote)
 #### Naive Bayes
+dataset must categorical
