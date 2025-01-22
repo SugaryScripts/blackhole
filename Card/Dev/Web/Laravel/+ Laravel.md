@@ -22,7 +22,7 @@
 
 # Recommended Library
 - [[Hashid]]
-- [[Laravel faker]]
+- [[Laravel image faker]]
 - [[Livewire]]
 - [[Pest]]
 

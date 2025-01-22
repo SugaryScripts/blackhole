@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"f76e795651c817c9","type":"text","text":"Group FPR","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"1ff6aa9ece7b71b8","type":"text","text":"KKPR","x":-125,"y":-140,"width":250,"height":60},
+		{"id":"b698b0ef0b259168","type":"text","text":"User [FPR]","x":-125,"y":80,"width":250,"height":60},
+		{"id":"40e043761d12319a","x":-400,"y":-30,"width":250,"height":60,"type":"text","text":"User [Dinas]"}
+	],
+	"edges":[
+		{"id":"a58fa147f72648a7","fromNode":"b698b0ef0b259168","fromSide":"top","toNode":"f76e795651c817c9","toSide":"bottom"},
+		{"id":"fdfffcfefd14384b","fromNode":"f76e795651c817c9","fromSide":"top","toNode":"1ff6aa9ece7b71b8","toSide":"bottom"},
+		{"id":"4add68f569db12e8","fromNode":"40e043761d12319a","fromSide":"top","toNode":"1ff6aa9ece7b71b8","toSide":"bottom"}
+	]
+}
