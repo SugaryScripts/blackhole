@@ -43,6 +43,7 @@
 |           | key promoter x                                    |    ☑️     |   ☑️    |
 |           | .env                                              |           |         |
 |           | php annotations                                   |    ☑️     |         |
+|           | Php inspection (EA Extended)                      |    ☑️     |         |
 |           | laravel plugin                                    |           |         |
 |           | laravel tinker                                    |    ☑️     |         |
 | **Theme** | rainbow brackets                                  |    ☑️     |   ☑️    |

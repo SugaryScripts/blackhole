@@ -2,7 +2,7 @@ tag:: #map #vc/git
 
 🚧🌏🍽️
 
-- ZSH
+- [[Shell ZSH]]
 	- [[Git Command]]
 	- [[Git Alias - ZSH]]
 - Commit Guide Helper

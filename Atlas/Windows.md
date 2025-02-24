@@ -10,7 +10,7 @@ rm -r
 
 
 ##### Case
-###### ZSH on Windows
+###### ZSH on Windows - [[Shell ZSH]]
 [Make Windows Terminal Awesome with ZSH and Oh My ZSH! - DEV Community](https://dev.to/pavlosisaris/windows-command-line-revolution-unleash-zsh-and-oh-my-zsh-a-simple-guide-for-developers-271o)
 
 uninstall wsl

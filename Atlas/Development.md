@@ -18,5 +18,8 @@
 ###### Frameworks
 [[+ Laravel]]
 
+###### AI
+[[Ollama]]
+
 ###### Extras
 [[Template Website]]
