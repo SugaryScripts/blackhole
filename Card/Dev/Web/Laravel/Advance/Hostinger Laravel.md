@@ -35,4 +35,11 @@ Install composer source
 
 Some troubleshoot composer issue
 - [How to Solve Common Composer Issues | Hostinger Help Center](https://support.hostinger.com/en/articles/5792082-how-to-solve-common-composer-issues)
-- 
+
+
+
+New 2025 Integrated php and self composer
+- check composer and composer2 : if exists use it
+```sh
+
+```

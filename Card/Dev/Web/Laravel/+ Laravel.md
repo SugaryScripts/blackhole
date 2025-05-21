@@ -16,12 +16,13 @@
 	- [GitHub - michael-rubel: Livewire Best Practices](https://github.com/michael-rubel/livewire-best-practices?tab=readme-ov-file)
 	- [02 - Extract Properties to Form Objects | Laravel Daily](https://laraveldaily.com/lesson/livewire-3/extract-properties-to-form-objects)
 	- [Laravel Naming Conventions - Web dev etc - my software development blog](https://webdevetc.com/blog/laravel-naming-conventions/)
+	- **Upgrade laravel version**? check dependency [Laravel Shift - Can I upgrade Laravel yet?](https://laravelshift.com/can-i-upgrade-laravel/)
 	- 
 
 
 
 # Recommended Library
-- [[Hashid]]
+- [[Hashid Vinkla]]
 - [[Laravel image faker]]
 - [[Livewire]]
 - [[Pest]]

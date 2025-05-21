@@ -210,5 +210,16 @@ $table->enum('tint_level', [
 ```
 
 
-# Second Eval
-Frame
+# Demo
+- Logged In Admin
+- Switch user to Inventoris/Cashier
+- Staff & User
+	- Preview Add Edit Delete
+- Customer Add
+All features
+- Staff & User
+	- Edit Profile
+	- roles and permission
+	- 
+Flows
+- 

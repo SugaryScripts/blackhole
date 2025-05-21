@@ -1,3 +1,4 @@
+> Ensure you have one of the PHP extensions `bcmath` or `gmp` installed
 ```sh
 composer require vinkla/hashids
 

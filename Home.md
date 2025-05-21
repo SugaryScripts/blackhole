@@ -5,9 +5,12 @@ These are maps to launch your `efforts`. Where would you like to go?
 
 
 
-
-[[+ Research]]
-[[+ Entertainment]]
+# Spaces
+- [[+ Work]]
+- [[+ Research]]
+- [[+ College]]
+- [[+ Entertainment]]
+- [[+ Life]]
 
 - Apps
 	- [[Tridactyl]]
@@ -42,12 +45,22 @@ These are maps to launch your `efforts`. Where would you like to go?
 xrdb -m ~/.Xresources
 tree --gitignore ~/Project
 ```
-# Spaces
-- [[+ Research]]
-- [[+ College]]
-- [[+ Entertainment]]
+
 # todo
 
 > [!NOTE]+ Example Notes on notes teehee
 > Just a bunch of word
 > - List are like this
+
+- [ ] Bat and patch optimac
+- [ ] Classroom question for further projects
+- [ ] Cherry
+- [ ] Mango
+- [ ] Check completeness video  meet
+- [ ] POint
+- [ ] Report menu
+
+Forever list
+- [ ] Deploy apps at home for free
+- [ ] [ngrok blog: News and tutorials for devs, SREs, and platform engineers](https://ngrok.com/blog)
+- [ ] [DDNS | FreeDDNS - Layanan Extra Untuk Device Anda | VPN Remote & DDNS](https://www.hostddns.us/ddns)

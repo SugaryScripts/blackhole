@@ -59,5 +59,33 @@ kuudere
 patient  
 caring  
 rational  
-Leuthia Legion, Kircholial Syndicate  
+Leuthia Legion, Kircholial Syndicate
 Artichokewick
+Expansehurst
+
+###### Language
+
+Latinian
+Romite
+Anteno
+Teutic
+Caribeanic
+Englishky
+Astechian
+Gothinian
+Cyberite
+Geklal
+Mirkii moeltl
+Ilkosa kiiro
+Ekkina ratkin
+Sruapina moeltl
+UKTI skyelv
+Suizian kurin
+Otsili mincho
+Aockabi miho
+Chunion  crowju
+
+###### Mode note
+Milira
+- church, do not use the same colonist for royalty titles and the church titles, they are not very compatible.
+- faction remain hostile permanent if started with other scenario than milira scenario

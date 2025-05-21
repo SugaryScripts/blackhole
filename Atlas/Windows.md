@@ -2,6 +2,9 @@
 [[balsamiq]]
 [[Card/OS/Windows/Browser|Browser]]
 [[Powershell]]
+[[diskpart]]
+Guide
+[[download view only videos from sharepoint]]
 
 ```sh
 # remove dir and its files

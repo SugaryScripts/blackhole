@@ -41,6 +41,7 @@ $gb
 $gba= git branch --all
 
 git checkout -t origin/dev
+$gco -t origin/dev
 ```
 ### Clone
 ```sh
