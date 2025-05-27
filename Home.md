@@ -64,3 +64,6 @@ Forever list
 - [ ] Deploy apps at home for free
 - [ ] [ngrok blog: News and tutorials for devs, SREs, and platform engineers](https://ngrok.com/blog)
 - [ ] [DDNS | FreeDDNS - Layanan Extra Untuk Device Anda | VPN Remote & DDNS](https://www.hostddns.us/ddns)
+
+Kyuuto
+komitmen yakin dan usaha untuk tujuan optimal

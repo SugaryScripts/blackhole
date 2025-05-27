@@ -42,23 +42,30 @@ Feature
 - [ ] Cashier: Add customer on spot
 - [ ] Cashier: optimize, if possible, less loading
 - [ ] Add Feedback button
-- [ ] 
+- [ ] spatie backup
 
-Remote TODO
-- [ ] check remote
-- [ ] check ssh -> upload to drive if necessary
-- [ ] add deploy key
-- [ ] test Pull and changes
-- [ ] update composer
-- [ ] cache
-- [ ] migrate
-- [ ] backup panduan to drive
-- [ ] Add how to update maintenance
-- [ ] 
 #### Environment
 ```
 demo
 local
 ```
+```
+soft delete tables
+user, staff
+brands, frames-var, lens-var, contact-var, acc-var,
+frame-stk, lens-stk, contact-stk, acc-stk,
+frame-img, lens-img, contact-img, acc-img,
+insurance, transaction, transaction-item, payments,
+optical-medical-record,
 
-
+```
+#### dev
+- [ ] Customer search no case sensitive
+- [ ] Data type on cashier forms
+#### to do when remote
+- [x] Service apache
+- [x] test service by restart the laptop
+- [x] pull
+- [x] migrate
+- [ ] delete table staff_absents
+- [x] delete row add soft delete from table migration
